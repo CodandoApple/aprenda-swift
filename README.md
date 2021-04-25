@@ -9,6 +9,7 @@ Esta lista contém diversos links com conteúdos par aaprender a desenvolver uti
 - [AppCoda](https://www.appcoda.com/ios-programming-course/)
 - [Hacking With Swift](https://www.hackingwithswift.com/learn)
 - [Raywenderlich](https://www.raywenderlich.com/ios/paths)
+- [LearnAppMaking](https://learnappmaking.com/blog/)
 
  ## Canais e Playlists no Youtube
  
