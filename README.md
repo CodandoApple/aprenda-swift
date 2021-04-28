@@ -25,7 +25,7 @@ Esta lista contém diversos links com conteúdos par aaprender a desenvolver uti
 - [Aprendendo Swift do Iniciante ao Avançado - Udemy](https://www.udemy.com/course/aprendendoswift3/)
 - [iOS 13 & Swift 5 - Recriando o Tinder 2020](https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/)
 - [Conhecendo a base do Swift - Digital Innovation One](https://web.digitalinnovation.one/course/conhecendo-a-base-do-swift/learning/ccfecff3-da40-4b1a-bd13-3bbdc29950a6/)
-- [Criando um aplicativo com SwiftUI e Combine](https://web.digitalinnovation.one/course/criando-um-aplicativo-com-swiftui-e-combine/learning/9f50bf10-c6b1-4c8a-8396-7c5be027b91e/?back=/browse)
+- [Criando um aplicativo com SwiftUI e Combine - Digital Innovation One](https://web.digitalinnovation.one/course/criando-um-aplicativo-com-swiftui-e-combine/learning/9f50bf10-c6b1-4c8a-8396-7c5be027b91e/?back=/browse)
 
 # Roadmaps
 
