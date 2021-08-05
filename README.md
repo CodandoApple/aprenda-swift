@@ -14,6 +14,8 @@ Esta lista contém diversos links com conteúdos par aaprender a desenvolver uti
  ## Canais e Playlists no Youtube
  
  - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+ - [Raphael Oliveira](https://www.youtube.com/rapholivera)
+ - [Thais Sadami](https://www.youtube.com/thaissadami)
  - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
  - [Curso de Swift - Hugo Vasconcelos](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
  - [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
@@ -33,3 +35,14 @@ Esta lista contém diversos links com conteúdos par aaprender a desenvolver uti
 - [Mobile Developer Roadmap - Jung Kim](https://github.com/godrm/mobile-developer-roadmap)
 - [iOS Developer Skills Matrix - Bohdan Orlov](https://medium.com/ios-os-x-development/find-the-image-and-markdown-version-on-github-fee807255235)
 - [iOS Roadmap to Professional Developer](https://www.youtube.com/watch?v=pbhLZMVBlp0)
+
+# Instagram
+
+- [Daily Dose of Swift](https://www.instagram.com/dailydoseofswift)
+- [DudaDev](https://www.instagram.com/dudadev/?hl=pt-br)
+- [Lelê Developer](https://www.instagram.com/leledeveloper)
+- [Luiz Mello](https://www.instagram.com/luizmello.dev)
+- [Mafê](https://www.instagram.com/mafe_tech)
+- [Raphael Oliveira](https://www.instagram.com/rapholivera)
+- [ReisDev](https://www.instagram.com/reisdev)
+- [Thais Sadami](https://www.instagram.com/thaissadami)
