@@ -1,4 +1,4 @@
-# Lista Maravilhosa de Swift - 🚧 Em Construção 🚧
+# Lista Maravilhosa de Swift
 
 Esta lista contém diversos links com conteúdos par aaprender a desenvolver utilizando a linguagem iOS. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista.
 
