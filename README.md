@@ -2,7 +2,7 @@
 
 Esta lista contém diversos links com conteúdos par aaprender a desenvolver utilizando a linguagem iOS. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista.
 
-## Plataformas e Blogs
+## Blogs e Plataformas
 
 - [Primitive School - beta](https://www.primitive.school/beta)
 - [Recreate](https://recreatecode.substack.com)
@@ -10,6 +10,7 @@ Esta lista contém diversos links com conteúdos par aaprender a desenvolver uti
 - [Hacking With Swift](https://www.hackingwithswift.com/learn)
 - [Raywenderlich](https://www.raywenderlich.com/ios/paths)
 - [LearnAppMaking](https://learnappmaking.com/blog/)
+- [Daily Dose of Swift](https://dailydoseofswift.com)
 
  ## Canais e Playlists no Youtube
  
