@@ -6,11 +6,22 @@ Esta lista contém diversos links com conteúdos par aaprender a desenvolver uti
 
 Esta seção contém links sobre conteúdos específicos relacionados à linguagem Swift e ao ecossistema de desenvolvimento da Apple.
 
+### Tutoriais
+
+- [iOS App Dev Tutorials - Apple](https://developer.apple.com/tutorials/app-dev-training)
+- [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
+- [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
+- [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
+
+
 ### Padrões de Projeto
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [Padrões de Projeto em Swift - Refactoring.Guru](https://refactoring.guru/pt-br/design-patterns/swift)
 
 ### Interface
+
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
+- [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
 ## Blogs e Plataformas
 
