@@ -13,7 +13,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
 - [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
 
-
 ### Padrões de Projeto
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [Padrões de Projeto em Swift - Refactoring.Guru](https://refactoring.guru/pt-br/design-patterns/swift)
@@ -22,6 +21,11 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
+
+### Reatividade
+
+- [Resumo básico de RxSwift - Hoff Silva](https://hoffsilva.medium.com/resumo-b%C3%A1sico-de-rxswift-3703f8318a7f)
+- [RxSwift - JournalDev](https://www.journaldev.com/22691/rxswift)
 
 ## Blogs e Plataformas
 
@@ -37,6 +41,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Create with Swift](https://createwithswift.com)
 - [Awesome iOS](http://awesomeios.com/)
 - [Yet Another Swift Blog](https://www.vadimbulavin.com/)
+- [JournalDev - Swift](https://www.journaldev.com/swift)
 
  ## Canais e Playlists no Youtube
  
