@@ -45,17 +45,24 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [JournalDev - Swift](https://www.journaldev.com/swift)
 - [The Swift Dev](https://theswiftdev.com/)
 
- ## Canais e Playlists no Youtube
+## Livros
+
+- Desenvolvendo para iPhone e iPad - Ricardo R. Lecheta
+- Swift in Depth - Tjeerd in 't Veen
+- Mastering Swift 5 - Jon Hoffman
+- [Livros Raywenderlich, vários níveis e tópicos](https://www.raywenderlich.com/ios/books)
+
+## Canais e Playlists no Youtube
  
- - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
- - [Raphael Oliveira](https://www.youtube.com/rapholivera)
- - [Thais Sadami](https://www.youtube.com/thaissadami)
- - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
- - [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
- - [Curso de Swift - Hugo Vasconcelos](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
- - [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
- - [Curso grátis Swift e SwiftUI (stanford 2020)](https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
- - [Apple Swift Programming Language Tutorial Series](https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb) 
+- [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+- [Raphael Oliveira](https://www.youtube.com/rapholivera)
+- [Thais Sadami](https://www.youtube.com/thaissad.ami)
+- [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
+- [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
+- [Curso de Swift - Hugo Vasconcelos](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
+- [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
+- [Curso grátis Swift e SwiftUI (stanford 2020)](https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
+- [Apple Swift Programming Language Tutorial Series](https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb) 
 
 ## Cursos Gratuitos
 
