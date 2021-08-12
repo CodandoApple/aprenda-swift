@@ -26,6 +26,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Resumo básico de RxSwift - Hoff Silva](https://hoffsilva.medium.com/resumo-b%C3%A1sico-de-rxswift-3703f8318a7f)
 - [RxSwift - JournalDev](https://www.journaldev.com/22691/rxswift)
+- [The Ultimate Combine Framework Tutorial in Swift](https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/)
 
 ## Blogs e Plataformas
 
@@ -42,6 +43,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Awesome iOS](http://awesomeios.com/)
 - [Yet Another Swift Blog](https://www.vadimbulavin.com/)
 - [JournalDev - Swift](https://www.journaldev.com/swift)
+- [The Swift Dev](https://theswiftdev.com/)
 
  ## Canais e Playlists no Youtube
  
