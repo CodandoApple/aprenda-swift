@@ -12,6 +12,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
 - [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
 - [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
+- [Build your first app - AppCoda](https://www.appcoda.com/learnswift/build-your-first-app.html)
 
 ### Padrões de Projeto
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
@@ -63,6 +64,14 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
 - [Curso grátis Swift e SwiftUI (stanford 2020)](https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
 - [Apple Swift Programming Language Tutorial Series](https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb) 
+
+## Podcasts
+
+- [Build Failed Podcast - PT-BR](https://twitter.com/buildfailedcast)
+- [Swift by Sundell](https://www.swiftbysundell.com/podcast)
+- [Fireside Swift](https://www.firesideswift.com/)
+- [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
+- [Compile Swift](compileswift.com/episodes)
 
 ## Cursos Gratuitos
 
