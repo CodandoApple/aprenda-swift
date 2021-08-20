@@ -1,6 +1,8 @@
-# Lista Maravilhosa de Swift
+# Aprenda Swift
 
-Esta lista contém diversos links com conteúdos par aaprender a desenvolver utilizando a linguagem iOS. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista.
+Esta lista contém diversos links com conteúdos par aaprender a desenvolver utilizando a linguagem Swift. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista.
+
+Caso você tenha interesse em contribuir, fique à vontade para fazer um fork e submeter um PR. Quanto mais conteúdo, melhor 🙂.
 
 ## Conteúdos
 
