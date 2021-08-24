@@ -31,6 +31,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [RxSwift - JournalDev](https://www.journaldev.com/22691/rxswift)
 - [The Ultimate Combine Framework Tutorial in Swift](https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/)
 
+### Segurança
+
+- [Defesas anti-reversão para iOS](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06j-testing-resiliency-against-reverse-engineering#testing-anti-debugging-detection-mstg-resilience-2)
+
 ## Blogs e Plataformas
 
 - [Primitive School - beta](https://www.primitive.school/beta)
