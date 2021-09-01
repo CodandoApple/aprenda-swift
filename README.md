@@ -19,7 +19,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 ### Padrões de Projeto
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [Padrões de Projeto em Swift - Refactoring.Guru](https://refactoring.guru/pt-br/design-patterns/swift)
-- [iOS Good Practices - Github Repo](https://github.com/futurice/ios-good-practices)
+- [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 
 ### Interface
 
