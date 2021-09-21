@@ -63,6 +63,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 ## Canais e Playlists no Youtube
  
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+- [Cícero Camargo CODEMUS](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/)
 - [Raphael Oliveira](https://www.youtube.com/rapholivera)
 - [Thais Sadami](https://www.youtube.com/thaissad.ami)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
