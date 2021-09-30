@@ -79,11 +79,16 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Thais Sadami](https://www.youtube.com/thaissad.ami)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
 - [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
+- [Vincent Pradeilles](https://www.youtube.com/c/VincentPradeilles)
+- [Sean Allen](https://www.youtube.com/c/SeanAllen)
+- [Back Frond Academy](https://www.youtube.com/c/BackFrontAcademy)
+- [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
 - [Curso de Swift - Hugo Vasconcelos](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
 - [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
 - [Curso grátis Swift e SwiftUI (stanford 2020)](https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
 - [Apple Swift Programming Language Tutorial Series](https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 - [iOS Course Lectures Spring 2021 - Cornell AppDev](https://youtube.com/playlist?list=PLjf6nsEcF5KOVWRlOPwrJm9X69YtSx_OZ)
+- [TUTORIAIS iOS (LEGACY)](https://www.youtube.com/playlist?list=PLJ0AcghBBWSjpnacG8ZD_1pWpU5IJrp2d)
 
 ## Podcasts
 
@@ -92,6 +97,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Fireside Swift](https://www.firesideswift.com/)
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 - [Compile Swift](compileswift.com/episodes)
+- [iOS dev Discussions](https://open.spotify.com/show/6X6CHU9oxkwG9JlQYFZpbk?si=zFrV6Mk4QPGPHp-xginj4w&dl_branch=1)
 
 ## Cursos Gratuitos
 
@@ -106,6 +112,13 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Mobile Developer Roadmap - Jung Kim](https://github.com/godrm/mobile-developer-roadmap)
 - [iOS Developer Skills Matrix - Bohdan Orlov](https://medium.com/ios-os-x-development/find-the-image-and-markdown-version-on-github-fee807255235)
 - [iOS Roadmap to Professional Developer](https://www.youtube.com/watch?v=pbhLZMVBlp0)
+
+## Comunidades
+- [NSFlow](https://t.me/nsflowbr)
+- [iOS DevDrops](https://t.me/iosdrops)
+
+## Canais no Telegram
+- [iOS dev](https://t.me/iosdevio)
 
 ## Instagram
 
