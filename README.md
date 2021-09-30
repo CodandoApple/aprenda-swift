@@ -97,7 +97,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Fireside Swift](https://www.firesideswift.com/)
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 - [Compile Swift](compileswift.com/episodes)
-- -[iOS dev Discussions](https://open.spotify.com/show/6X6CHU9oxkwG9JlQYFZpbk?si=zFrV6Mk4QPGPHp-xginj4w&dl_branch=1)
+- [iOS dev Discussions](https://open.spotify.com/show/6X6CHU9oxkwG9JlQYFZpbk?si=zFrV6Mk4QPGPHp-xginj4w&dl_branch=1)
 
 ## Cursos Gratuitos
 
@@ -117,7 +117,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [NSFlow](https://t.me/nsflowbr)
 - [iOS DevDrops](https://t.me/iosdrops)
 
-## Canais
+## Canais no Telegram
 - [iOS dev](https://t.me/iosdevio)
 
 ## Instagram
