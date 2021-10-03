@@ -65,6 +65,11 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Yet Another Swift Blog](https://www.vadimbulavin.com/)
 - [JournalDev - Swift](https://www.journaldev.com/swift)
 - [The Swift Dev](https://theswiftdev.com/)
+- [Holy Swift](https://holyswift.app/)
+- [Swift with Majid](https://swiftwithmajid.com/)
+- [Swift Senpai](https://swiftsenpai.com/)
+- [SerialCoder.dev](https://serialcoder.dev/)
+- [Swift by Sundell](https://www.swiftbysundell.com/)
 
 ## Livros
 
