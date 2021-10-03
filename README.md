@@ -77,7 +77,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
  
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 - [Cícero Camargo CODEMUS](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/)
+- [Credo Academy](https://www.youtube.com/c/CredoAcademy/)
+- [Paul Hudson](https://www.youtube.com/c/PaulHudson/)
 - [Raphael Oliveira](https://www.youtube.com/rapholivera)
+- [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar/)
 - [Thais Sadami](https://www.youtube.com/ThaisSadami)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
 - [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
