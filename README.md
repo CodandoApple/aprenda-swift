@@ -1,5 +1,7 @@
 # Aprenda Swift
 
+![Validação de links](https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml/badge.svg?branch=main)
+
 Esta lista contém diversos links com conteúdos par aaprender a desenvolver utilizando a linguagem Swift. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista.
 
 Caso você tenha interesse em contribuir, fique à vontade para fazer um fork e submeter um PR. Quanto mais conteúdo, melhor 🙂.
