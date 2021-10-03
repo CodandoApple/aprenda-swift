@@ -56,7 +56,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [AppCoda](https://www.appcoda.com/ios-programming-course/)
 - [Hacking With Swift](https://www.hackingwithswift.com/learn)
 - [Raywenderlich](https://www.raywenderlich.com/ios/paths)
-- [LearnAppMaking](https://learnappmaking.com/blog/)
+- [LearnAppMaking](https://learnappmaking.com/)
 - [Daily Dose of Swift](https://dailydoseofswift.com)
 - [Flawless App Stories](https://medium.com/flawless-app-stories) 
 - [iOS Dev Weekly](https://iosdevweekly.com)
@@ -78,7 +78,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 - [Cícero Camargo CODEMUS](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/)
 - [Raphael Oliveira](https://www.youtube.com/rapholivera)
-- [Thais Sadami](https://www.youtube.com/thaissad.ami)
+- [Thais Sadami](https://www.youtube.com/ThaisSadami)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
 - [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
 - [Vincent Pradeilles](https://www.youtube.com/c/VincentPradeilles)
@@ -98,15 +98,15 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast)
 - [Fireside Swift](https://www.firesideswift.com/)
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
-- [Compile Swift](compileswift.com/episodes)
+- [Compile Swift](https:/compileswift.com/episodes)
 - [iOS dev Discussions](https://open.spotify.com/show/6X6CHU9oxkwG9JlQYFZpbk?si=zFrV6Mk4QPGPHp-xginj4w&dl_branch=1)
 
 ## Cursos Gratuitos
 
 - [Aprendendo Swift do Iniciante ao Avançado - Udemy](https://www.udemy.com/course/aprendendoswift3/)
 - [iOS 13 & Swift 5 - Recriando o Tinder 2020](https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/)
-- [Conhecendo a base do Swift - Digital Innovation One](https://web.digitalinnovation.one/course/conhecendo-a-base-do-swift/learning/ccfecff3-da40-4b1a-bd13-3bbdc29950a6/)
-- [Criando um aplicativo com SwiftUI e Combine - Digital Innovation One](https://web.digitalinnovation.one/course/criando-um-aplicativo-com-swiftui-e-combine/learning/9f50bf10-c6b1-4c8a-8396-7c5be027b91e/?back=/browse)
+- [Conhecendo a base do Swift - Digital Innovation One](https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift)
+- [Criando um aplicativo com SwiftUI e Combine - Digital Innovation One](https://digitalinnovation.one/cursos/criando-um-aplicativo-com-swiftui-e-combine)
 
 ## Roadmaps
 
