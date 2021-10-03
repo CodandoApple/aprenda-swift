@@ -1,5 +1,4 @@
-name: Swift
-
+name: Validação de Links
 on:
   push:
     branches: [ main ]
