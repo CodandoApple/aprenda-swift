@@ -95,7 +95,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
 - [Vincent Pradeilles](https://www.youtube.com/c/VincentPradeilles)
 - [Sean Allen](https://www.youtube.com/c/SeanAllen)
-- [Back Frond Academy](https://www.youtube.com/c/BackFrontAcademy)
+- [Back Front Academy](https://www.youtube.com/c/BackFrontAcademy)
 - [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
 - [Curso de Swift - Hugo Vasconcelos](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
 - [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
