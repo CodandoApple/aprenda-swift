@@ -8,7 +8,7 @@ Caso você tenha interesse em contribuir, fique à vontade para fazer um fork e 
 
 ## Como contribuir?
 
-Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUTING.md](https://github.com/CodandoApple/aprenda-swift/CONTRIBUTING.md)
+Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUTING.md](https://github.com/CodandoApple/aprenda-swift/blob/main/CONTRIBUTING.md)
 
 ## Conteúdos
 
