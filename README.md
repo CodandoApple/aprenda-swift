@@ -6,6 +6,10 @@ Esta lista contém diversos links com conteúdos para aprender a desenvolver uti
 
 Caso você tenha interesse em contribuir, fique à vontade para fazer um fork e submeter um PR. Quanto mais conteúdo, melhor 🙂.
 
+## Como contribuir?
+
+Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUTING.md](https://github.com/CodandoApple/aprenda-swift/CONTRIBUTING.md)
+
 ## Conteúdos
 
 Esta seção contém links sobre conteúdos específicos relacionados à linguagem Swift e ao ecossistema de desenvolvimento da Apple.
