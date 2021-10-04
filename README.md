@@ -2,7 +2,7 @@
 
 ![Validação de links](https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml/badge.svg?branch=main)
 
-Esta lista contém diversos links com conteúdos par aaprender a desenvolver utilizando a linguagem Swift. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista.
+Esta lista contém diversos links com conteúdos para aprender a desenvolver utilizando a linguagem Swift. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista.
 
 Caso você tenha interesse em contribuir, fique à vontade para fazer um fork e submeter um PR. Quanto mais conteúdo, melhor 🙂.
 
@@ -99,6 +99,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Apple Swift Programming Language Tutorial Series](https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 - [iOS Course Lectures Spring 2021 - Cornell AppDev](https://youtube.com/playlist?list=PLjf6nsEcF5KOVWRlOPwrJm9X69YtSx_OZ)
 - [TUTORIAIS iOS (LEGACY)](https://www.youtube.com/playlist?list=PLJ0AcghBBWSjpnacG8ZD_1pWpU5IJrp2d)
+- [Renato Matos](https://www.youtube.com/watch?v=q0FAU6_7We0&list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF)
 
 ## Podcasts
 
@@ -115,6 +116,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [iOS 13 & Swift 5 - Recriando o Tinder 2020](https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/)
 - [Conhecendo a base do Swift - Digital Innovation One](https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift)
 - [Criando um aplicativo com SwiftUI e Combine - Digital Innovation One](https://digitalinnovation.one/cursos/criando-um-aplicativo-com-swiftui-e-combine)
+- [Desenvolvimento iOS em Swift - PUCRS](https://itunes.apple.com/br/course/desenvolvimento-ios-em-swift/id937721240)
 
 ## Roadmaps
 
