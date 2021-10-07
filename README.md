@@ -82,28 +82,31 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - Mastering Swift 5 - Jon Hoffman
 - [Livros Raywenderlich, vários níveis e tópicos](https://www.raywenderlich.com/ios/books)
 
-## Canais e Playlists no Youtube
+## Canais no Youtube
  
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+- [Back Front Academy](https://www.youtube.com/c/BackFrontAcademy)
 - [Cícero Camargo CODEMUS](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/)
 - [Credo Academy](https://www.youtube.com/c/CredoAcademy/)
+- [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
+- [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
 - [Paul Hudson](https://www.youtube.com/c/PaulHudson/)
 - [Raphael Oliveira](https://www.youtube.com/rapholivera)
+- [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
+- [Sean Allen](https://www.youtube.com/c/SeanAllen)
 - [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar/)
 - [Thais Sadami](https://www.youtube.com/ThaisSadami)
-- [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
-- [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
 - [Vincent Pradeilles](https://www.youtube.com/c/VincentPradeilles)
-- [Sean Allen](https://www.youtube.com/c/SeanAllen)
-- [Back Front Academy](https://www.youtube.com/c/BackFrontAcademy)
-- [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
+
+## Playlist no Youtube
+
 - [Curso de Swift - Hugo Vasconcelos](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
 - [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
 - [Curso grátis Swift e SwiftUI (stanford 2020)](https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
 - [Apple Swift Programming Language Tutorial Series](https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 - [iOS Course Lectures Spring 2021 - Cornell AppDev](https://youtube.com/playlist?list=PLjf6nsEcF5KOVWRlOPwrJm9X69YtSx_OZ)
 - [TUTORIAIS iOS (LEGACY)](https://www.youtube.com/playlist?list=PLJ0AcghBBWSjpnacG8ZD_1pWpU5IJrp2d)
-- [Renato Matos](https://www.youtube.com/watch?v=q0FAU6_7We0&list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF)
+- [Desenvolvimento iOS - Desgourmetizando o conhecimento / Renato Matos](https://www.youtube.com/watch?v=q0FAU6_7We0&list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF)
 
 ## Podcasts
 
