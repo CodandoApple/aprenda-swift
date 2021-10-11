@@ -26,7 +26,7 @@ class LinksTest : XCTestCase {
             .map {
                 let matchRange = Range($0.range(withName: "link"), in: text)!
                 return String(text[matchRange])
-                }
+            }.filter { $0.starts(with: "http") }
         
         XCTAssertGreaterThan(links?.count ?? 0, 0, "URLS não encontrados no arquivo")
         XCTAssertNotNil(links, "A lista de links não foi obtida")
