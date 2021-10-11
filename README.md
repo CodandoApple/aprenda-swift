@@ -136,8 +136,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Swift by Sundell](https://www.swiftbysundell.com/podcast)
 - [Fireside Swift](https://www.firesideswift.com/)
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
-- [Compile Swift](https:/compileswift.com/episodes.html)
-- [iOS dev Discussions](https://open.spotify.com/show/6X6CHU9oxkwG9JlQYFZpbk?si=zFrV6Mk4QPGPHp-xginj4w&dl_branch=1)
+- [Compile Swift](https://compileswift.com/episodes.html)
 
 ## Cursos Gratuitos
 
