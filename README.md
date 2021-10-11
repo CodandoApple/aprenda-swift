@@ -10,6 +10,28 @@ Caso você tenha interesse em contribuir, fique à vontade para fazer um fork e 
 
 Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUTING.md](https://github.com/CodandoApple/aprenda-swift/blob/main/CONTRIBUTING.md)
 
+# Sumário
+
+- [Conteúdos](#conteúdos)
+  - [Tutoriais](#tutoriais)
+  - [Padrões de Projeto](#padrões-de-projeto)
+  - [Interface](#interface)
+     - [SwiftUI](#swiftui)
+     - [Storyboard](#storyboard)
+     - [ViewCode](#viewcode)
+  - [Reatividade](#reatividade)
+  - [Segurança](#segurança)
+- [Blogs e Plataformas](#blogs-e-plataformas)
+- [Livros](#livros)
+- [Canais no Youtube](#canais-no-youtube)
+- [Playlists no Youtube](#playlists-no-youtube)
+- [Podcasts](#podcasts)
+- [Cursos gratuitos](#cursos-gratuitos)
+- [Roadmaps](#roadmaps)
+- [Comunidades](#comunidades)
+- [Canais no Telegram](#canais-no-telegram)
+- [Instagram](#instagram)
+
 ## Conteúdos
 
 Esta seção contém links sobre conteúdos específicos relacionados à linguagem Swift e ao ecossistema de desenvolvimento da Apple.
@@ -98,7 +120,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Thais Sadami](https://www.youtube.com/ThaisSadami)
 - [Vincent Pradeilles](https://www.youtube.com/c/VincentPradeilles)
 
-## Playlist no Youtube
+## Playlists no Youtube
 
 - [Curso de Swift - Hugo Vasconcelos](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
 - [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
