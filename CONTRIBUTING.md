@@ -4,6 +4,7 @@ Para adicionar itens à esta lista, siga os passos abaixo:
 
 - Faça um fork deste projeto. ([Ajuda](https://docs.github.com/pt/get-started/quickstart/fork-a-repo))
 - Faça as modificações desejadas
+- Se necessário, inclua um atalho para o conteúdo no sumário
 - Abra um PR seguindo os seguintes critérios:
   - O título deve descrever quais alterações foram feitas. Ex: `Adicionando blog HackingWithSwift e playlist sobre SwiftUI`. Se as alterações forem muitas, tente pelo menos manter algo como `Adicionando blogs e playlists`.
   - A descrição deve conter uma listagem categorizada dos links inseridos. Dessa forma, será possível saber o que seu PR contém sem precisar verificar o log de alterações. Confira o exemplo abaixo:
