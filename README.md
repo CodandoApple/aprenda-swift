@@ -103,6 +103,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - Swift in Depth - Tjeerd in 't Veen
 - Mastering Swift 5 - Jon Hoffman
 - [Livros Raywenderlich, vários níveis e tópicos](https://www.raywenderlich.com/ios/books)
+- [Swift Book em Português(em tradução)](https://github.com/AcademyIFCE/Swift-Book)
 
 ## Canais no Youtube
  
