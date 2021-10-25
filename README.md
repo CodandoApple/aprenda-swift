@@ -26,6 +26,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
 - [Canais no Youtube](#canais-no-youtube)
 - [Playlists no Youtube](#playlists-no-youtube)
 - [Podcasts](#podcasts)
+- [Playground](#playgrounds)
 - [Cursos gratuitos](#cursos-gratuitos)
 - [Roadmaps](#roadmaps)
 - [Comunidades](#comunidades)
@@ -138,6 +139,11 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Fireside Swift](https://www.firesideswift.com/)
 - [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 - [Compile Swift](https://compileswift.com/episodes.html)
+
+## Playgrounds
+
+- [Swift Playground Oline](http://online.swiftplayground.run)
+- [Apple Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 
 ## Cursos Gratuitos
 
