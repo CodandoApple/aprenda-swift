@@ -42,7 +42,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
 - [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
 - [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
-- [Build your first app - AppCoda](https://www.appcoda.com/learnswift/build-your-first-app.html)
 
 ### Padrões de Projeto
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
