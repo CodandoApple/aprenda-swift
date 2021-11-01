@@ -2,7 +2,7 @@
 
 ![Validação de links](https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml/badge.svg?branch=main)
 
-Esta lista contém diversos links com conteúdos para aprender a desenvolver utilizando a linguagem Swift. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista.
+Esta lista contém diversos links com conteúdos para aprender a desenvolver usando a linguagem Swift. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista. Os conteúdos totalmente em PT-BR estão destacados com a uma tag `[🇧🇷]`.
 
 Caso você tenha interesse em contribuir, fique à vontade para fazer um fork e submeter um PR. Quanto mais conteúdo, melhor 🙂.
 
@@ -14,7 +14,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
 
 - [Conteúdos](#conteúdos)
   - [Tutoriais](#tutoriais)
-  - [Padrões de Projeto](#padrões-de-projeto)
+  - [Padrões de Projeto e Arquiteturas](#padrões-de-projeto-e-arquiteturas)
   - [Interface](#interface)
      - [SwiftUI](#swiftui)
      - [Storyboard](#storyboard)
@@ -43,10 +43,11 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
 - [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
 
-### Padrões de Projeto
+### Padrões de Projeto e Arquiteturas
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
-- [Padrões de Projeto em Swift - Refactoring.Guru](https://refactoring.guru/pt-br/design-patterns/swift)
+- [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
+- [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
 
 ### Interface
 
@@ -59,13 +60,13 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - #### ViewCode
   - [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
   - [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
-  - [View Code - The Future (João Pedro Souza - Concrete)](https://pt.slideshare.net/ConcreteS/view-code-the-future-joo-pedro-parreiras)
-  - [Curso iOS: Módulo sobre view code - Thiago Lioy](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
-  - [Com quantas views se faz uma App? - equinociOS](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
+  - [View Code - The Future (João Pedro Souza - Concrete) [🇧🇷]](https://pt.slideshare.net/ConcreteS/view-code-the-future-joo-pedro-parreiras)
+  - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
+  - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
 
 ### Reatividade
 
-- [Resumo básico de RxSwift - Hoff Silva](https://hoffsilva.medium.com/resumo-b%C3%A1sico-de-rxswift-3703f8318a7f)
+- [Resumo básico de RxSwift - Hoff Silva [🇧🇷]](https://hoffsilva.medium.com/resumo-b%C3%A1sico-de-rxswift-3703f8318a7f)
 - [RxSwift - JournalDev](https://www.journaldev.com/22691/rxswift)
 - [The Ultimate Combine Framework Tutorial in Swift](https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/)
 
