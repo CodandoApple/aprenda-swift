@@ -46,7 +46,7 @@ class LinksTest : XCTestCase {
                 expectation.fulfill()
             })
             task.resume()
-            wait(for: [expectation], timeout: 5.0)
+            wait(for: [expectation], timeout: 10.0)
         }
         
     }
