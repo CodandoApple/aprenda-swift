@@ -142,7 +142,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ## Playgrounds
 
-- [Swift Playground Oline](http://online.swiftplayground.run)
+- [Swift Playground Online](http://online.swiftplayground.run)
 - [Apple Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 
 ## Cursos Gratuitos
