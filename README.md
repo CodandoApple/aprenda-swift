@@ -114,6 +114,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Credo Academy](https://www.youtube.com/c/CredoAcademy/)
 - [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
+- [Michel Lopes 🇧🇷](https://www.youtube.com/channel/UC_Z0xQUwA5G06-LZFnmR8MA/)
 - [Paul Hudson](https://www.youtube.com/c/PaulHudson/)
 - [Raphael Oliveira](https://www.youtube.com/rapholivera)
 - [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
