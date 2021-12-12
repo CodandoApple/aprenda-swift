@@ -89,7 +89,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Flawless App Stories](https://medium.com/flawless-app-stories) 
 - [iOS Dev Weekly](https://iosdevweekly.com)
 - [Create with Swift](https://createwithswift.com)
-- [Awesome iOS](http://awesomeios.com/)
+- [Awesome iOS](https://awesome-ios.readthedocs.io/en/latest/)
 - [Yet Another Swift Blog](https://www.vadimbulavin.com/)
 - [JournalDev - Swift](https://www.journaldev.com/swift)
 - [The Swift Dev](https://theswiftdev.com/)
