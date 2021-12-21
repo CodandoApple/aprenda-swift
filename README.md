@@ -21,6 +21,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
      - [ViewCode](#viewcode)
   - [Reatividade](#reatividade)
   - [Segurança](#segurança)
+- [Ferramentas](#ferramentas)
 - [Blogs e Plataformas](#blogs-e-plataformas)
 - [Livros](#livros)
 - [Canais no Youtube](#canais-no-youtube)
@@ -76,6 +77,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Defesas anti-reversão para iOS](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06j-testing-resiliency-against-reverse-engineering#testing-anti-debugging-detection-mstg-resilience-2)
 - [SSL Pinning - Flawless App Stories](https://medium.com/flawless-app-stories/ssl-pinning-254fa8ca2109)
+
+## Ferramentas
+
+- [Formatação de data - NSDateFormatter](https://nsdateformatter.com/)
 
 ## Blogs e Plataformas
 
