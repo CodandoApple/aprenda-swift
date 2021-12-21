@@ -82,6 +82,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Formatação de data - NSDateFormatter](https://nsdateformatter.com/)
 - [Linting - SwiftLint](https://realm.github.io/SwiftLint/)
+- [Fastlane](https://fastlane.tools/)
 
 ## Blogs e Plataformas
 
