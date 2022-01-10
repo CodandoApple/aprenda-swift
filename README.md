@@ -62,7 +62,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - #### ViewCode
   - [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
   - [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
-  - [View Code - The Future (João Pedro Souza - Concrete) [🇧🇷]](https://pt.slideshare.net/ConcreteS/view-code-the-future-joo-pedro-parreiras)
   - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
   - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
 
@@ -86,7 +85,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Raywenderlich](https://www.raywenderlich.com/ios/paths)
 - [LearnAppMaking](https://learnappmaking.com/)
 - [Daily Dose of Swift](https://dailydoseofswift.com)
-- [Flawless App Stories](https://medium.com/flawless-app-stories) 
 - [iOS Dev Weekly](https://iosdevweekly.com)
 - [Create with Swift](https://createwithswift.com)
 - [Awesome iOS](https://awesome-ios.readthedocs.io/en/latest/)
@@ -152,9 +150,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Aprendendo Swift do Iniciante ao Avançado - Udemy](https://www.udemy.com/course/aprendendoswift3/)
 - [iOS 13 & Swift 5 - Recriando o Tinder 2020](https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/)
-- [Conhecendo a base do Swift - Digital Innovation One](https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift)
-- [Criando um aplicativo com SwiftUI e Combine - Digital Innovation One](https://digitalinnovation.one/cursos/criando-um-aplicativo-com-swiftui-e-combine)
-- [Desenvolvimento iOS em Swift - PUCRS](https://itunes.apple.com/br/course/desenvolvimento-ios-em-swift/id937721240)
+- [Ensino de Programação - Apple](https://www.apple.com/br/education/k12/teaching-code/)
 
 ## Roadmaps
 
