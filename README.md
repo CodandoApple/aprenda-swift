@@ -163,6 +163,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [NSFlow](https://t.me/nsflowbr)
 - [iOS DevDrops](https://t.me/iosdrops)
 - [iOS Dev BR](https://iosdevbr.slack.com/)
+- [iOS Brasil](https://discord.com/invite/tPT3GYAMa6)
 
 ## Canais no Telegram
 - [iOS dev](https://t.me/iosdevio)
