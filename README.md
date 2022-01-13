@@ -48,16 +48,22 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
 
 ### Padrões de Projeto e Arquiteturas
+
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
+- [SwiftUI e Arquiteturas: MVC - Movile [🇧🇷]](https://movile.blog/swiftui-e-arquiteturas-mvc/)
+- [SwiftUI e Arquiteturas: MVP - Movile [🇧🇷]](https://movile.blog/swiftui-e-arquiteturas-mvp/)
+- [SwiftUI e Arquiteturas: VIPER e Clean Swift - Movile [🇧🇷]](https://movile.blog/swiftui-e-arquiteturas-viper-e-clean-swift/)
 
 ### Interface
 
 - #### SwiftUI
   - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
+  - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
+  - [Aprendendo SwiftUI: O Caminho das pedras - Kakau Fonseca [🇧🇷]](https://medium.com/nossa-coletividad/aprendendo-swiftui-o-caminho-das-pedras-89dc41ec1ce1)
 
 - #### Storyboard
   - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
