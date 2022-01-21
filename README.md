@@ -118,6 +118,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Swift Senpai](https://swiftsenpai.com/)
 - [SerialCoder.dev](https://serialcoder.dev/)
 - [Swift by Sundell](https://www.swiftbysundell.com/)
+- [WWDC Notes](https://wwdcnotes.com)
 
 ## Livros
 
