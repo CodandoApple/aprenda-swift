@@ -200,4 +200,5 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Mafê](https://www.instagram.com/mafe_tech)
 - [Raphael Oliveira](https://www.instagram.com/rapholivera)
 - [ReisDev](https://www.instagram.com/reisdev)
+- [Rychillie](https://www.instagram.com/rychillie)
 - [Thais Sadami](https://www.instagram.com/thaissadami)
