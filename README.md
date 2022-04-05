@@ -54,9 +54,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
-- [SwiftUI e Arquiteturas: MVC - Movile [🇧🇷]](https://movile.blog/swiftui-e-arquiteturas-mvc/)
-- [SwiftUI e Arquiteturas: MVP - Movile [🇧🇷]](https://movile.blog/swiftui-e-arquiteturas-mvp/)
-- [SwiftUI e Arquiteturas: VIPER e Clean Swift - Movile [🇧🇷]](https://movile.blog/swiftui-e-arquiteturas-viper-e-clean-swift/)
 
 ### Interface
 
