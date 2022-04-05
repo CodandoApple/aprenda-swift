@@ -16,9 +16,11 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
   - [Tutoriais](#tutoriais)
   - [Padrões de Projeto e Arquiteturas](#padrões-de-projeto-e-arquiteturas)
   - [Interface](#interface)
+     - [Geral](#geral)
      - [SwiftUI](#swiftui)
      - [Storyboard](#storyboard)
      - [ViewCode](#viewcode)
+     - [UIKit](#uikit)
   - [Reatividade](#reatividade)
   - [Segurança](#segurança)
 - [Ferramentas e Recursos](#ferramentas-e-recursos)
@@ -31,6 +33,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
 - [Podcasts](#podcasts)
 - [Playground](#playgrounds)
 - [Cursos gratuitos](#cursos-gratuitos)
+- [Cursos pagos](#cursos-pagos)
 - [Roadmaps](#roadmaps)
 - [Comunidades](#comunidades)
 - [Canais no Telegram](#canais-no-telegram)
@@ -62,25 +65,36 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Interface
 
+- #### Geral
+
+  - [Diferenças na construção de layout com Storyboard, XIB e View Code - Alura [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-diferencas-construcao-layouts-storyboard-xib-view-code)
+
 - #### SwiftUI
-  - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
-  - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
   - [Aprendendo SwiftUI: O Caminho das pedras - Kakau Fonseca [🇧🇷]](https://medium.com/nossa-coletividad/aprendendo-swiftui-o-caminho-das-pedras-89dc41ec1ce1)
+  - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
+  - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 
 - #### Storyboard
+  - [Desmistificando Storyboards - equinociOS [🇧🇷]](http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/)
   - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
 - #### ViewCode
-  - [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
-  - [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
+  - [Implementando interfaces iOS em View Code - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93)
   - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
   - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
+  - [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
+  - [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
+
+- #### UIKit
+
+  - [Primeiros passos com UIKit - Tuts+ [🇧🇷]](https://code.tutsplus.com/pt/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit--cms-25461)
+  - [UIKit: Renderizando componentes no SwiftUI - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/uikit-renderizando-componentes-no-swiftui-9ae3619916bf)
 
 ### Reatividade
 
 - [Resumo básico de RxSwift - Hoff Silva [🇧🇷]](https://hoffsilva.medium.com/resumo-b%C3%A1sico-de-rxswift-3703f8318a7f)
-- [RxSwift - JournalDev](https://www.journaldev.com/22691/rxswift)
 - [The Ultimate Combine Framework Tutorial in Swift](https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/)
+- [RxSwift - JournalDev](https://www.journaldev.com/22691/rxswift)
 
 ### Segurança
 
@@ -150,14 +164,14 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ## Playlists no Youtube
 
-- [Curso de Swift - Hugo Vasconcelos 🇧🇷](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
-- [Aulas de Swift - Bruno Scheltzke 🇧🇷](https://youtube.com/playlist?list=PLZwVYMtzU9Em9q0vVyneFdqn-4XVl9YBG)
+- [Curso de Swift - Hugo Vasconcelos [🇧🇷]](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
+- [Aulas de Swift - Bruno Scheltzke [🇧🇷]](https://youtube.com/playlist?list=PLZwVYMtzU9Em9q0vVyneFdqn-4XVl9YBG)
 - [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
 - [Curso grátis Swift e SwiftUI (stanford 2020)](https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
 - [Apple Swift Programming Language Tutorial Series](https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 - [iOS Course Lectures Spring 2021 - Cornell AppDev](https://youtube.com/playlist?list=PLjf6nsEcF5KOVWRlOPwrJm9X69YtSx_OZ)
 - [TUTORIAIS iOS (LEGACY)](https://www.youtube.com/playlist?list=PLJ0AcghBBWSjpnacG8ZD_1pWpU5IJrp2d)
-- [Desenvolvimento iOS - Desgourmetizando o conhecimento / Renato Matos 🇧🇷](https://www.youtube.com/watch?v=q0FAU6_7We0&list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF)
+- [Desenvolvimento iOS - Desgourmetizando o conhecimento / Renato Matos [🇧🇷]](https://www.youtube.com/watch?v=q0FAU6_7We0&list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF)
 
 ## Podcasts
 
@@ -172,11 +186,16 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Swift Online Playground](https://swiftfiddle.com)
 - [Apple Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 
-## Cursos Gratuitos
+## Cursos gratuitos
 
 - [Aprendendo Swift do Iniciante ao Avançado - Udemy](https://www.udemy.com/course/aprendendoswift3/)
 - [iOS 13 & Swift 5 - Recriando o Tinder 2020](https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/)
 - [Ensino de Programação - Apple](https://www.apple.com/br/education/k12/teaching-code/)
+
+## Cursos pagos
+
+- [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/curso-online-swift-ui)
+- [The Complete iOS Development Bootcamp - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 ## Roadmaps
 
@@ -186,10 +205,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [iOS Roadmap to Professional Developer](https://www.youtube.com/watch?v=pbhLZMVBlp0)
 
 ## Comunidades
-- [NSFlow](https://t.me/nsflowbr)
-- [iOS DevDrops](https://t.me/iosdrops)
-- [iOS Dev BR](https://iosdevbr.slack.com/)
-- [iOS Brasil](https://discord.com/invite/tPT3GYAMa6)
+- [NSFlow - Telegram](https://t.me/nsflowbr)
+- [iOS DevDrops - Telegram](https://t.me/iosdrops)
+- [iOS Dev BR - Slack](https://iosdevbr.slack.com/)
+- [iOS Brasil - Discord](https://discord.com/invite/tPT3GYAMa6)
 
 ## Canais no Telegram
 - [iOS dev](https://t.me/iosdevio)
