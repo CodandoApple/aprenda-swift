@@ -49,11 +49,16 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Padrões de Projeto e Arquiteturas
 
-- [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [As 5 arquiteturas iOS mais utilizadas - Zup [🇧🇷]](https://www.zup.com.br/blog/5-arquiteturas-ios-mais-utilizadas)
+- [Principais arquiteturas para aplicações iOS - Objective [🇧🇷]](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/)
+- [Entendendo os padrões de modelagem MVC, MVP e MVVM - ENG [🇧🇷]](https://www.eng.com.br/artigo.cfm?id=6338&post=ios-swift-entendendo-os-padroes-de-modelagem-mvc,-mvp-e-o-mvvm)
+- [Qual a melhor arquitetura para aplicações iOS? MVC? - Geraldo Bastos [🇧🇷]](https://medium.com/@GeraldoBastos/qual-a-melhor-arquitetura-para-aplicações-ios-mvc-3b436cbcd36b)
+- [Qual a melhor arquitetura para aplicações iOS? MVVM? - Geraldo Bastos [🇧🇷]](https://medium.com/@GeraldoBastos/parte-2-qual-a-melhor-arquitetura-para-aplicações-ios-mvvm-803f09cbd989)
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
+- [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
+- [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
-- [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
 
 ### Interface
 
