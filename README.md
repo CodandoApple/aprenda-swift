@@ -150,6 +150,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 - [Back Front Academy](https://www.youtube.com/c/BackFrontAcademy)
 - [Cícero Camargo CODEMUS](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/)
+- [CocoaHeadsBR](https://www.youtube.com/user/cocoaheadsbr)
 - [Credo Academy](https://www.youtube.com/c/CredoAcademy/)
 - [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
@@ -215,6 +216,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ## Instagram
 
+- [CocoaHeads Brasil](https://www.instagram.com/cocoaheadsbr/)
 - [Daily Dose of Swift](https://www.instagram.com/dailydoseofswift)
 - [DudaDev](https://www.instagram.com/dudadev/?hl=pt-br)
 - [Lelê Developer](https://www.instagram.com/leledeveloper)
