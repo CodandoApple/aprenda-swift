@@ -13,6 +13,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
 # Sumário
 
 - [Conteúdos](#conteúdos)
+  - [Linguagem](#linguagem)
   - [Tutoriais](#tutoriais)
   - [Padrões de Projeto e Arquiteturas](#padrões-de-projeto-e-arquiteturas)
   - [Interface](#interface)
@@ -21,6 +22,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
      - [Storyboard](#storyboard)
      - [ViewCode](#viewcode)
      - [UIKit](#uikit)
+  - [Gerenciamento de Dependências](#gerenciamento-de-dependências)
   - [Reatividade](#reatividade)
   - [Segurança](#segurança)
 - [Ferramentas e Recursos](#ferramentas-e-recursos)
@@ -49,6 +51,14 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
 - [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
 - [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
+
+### Linguagem
+
+- [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷] ](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
+- [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷] ](https://www.alura.com.br/artigos/ios-opcionais-swift)
+- [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
+- [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
+- [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷] ](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
 
 ### Padrões de Projeto e Arquiteturas
 
@@ -89,6 +99,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
   - [Primeiros passos com UIKit - Tuts+ [🇧🇷]](https://code.tutsplus.com/pt/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit--cms-25461)
   - [UIKit: Renderizando componentes no SwiftUI - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/uikit-renderizando-componentes-no-swiftui-9ae3619916bf)
+
+### Gerenciamento de Dependências
+
+- [Instalação e uso do gerenciador de dependências CocoaPods - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-instalacao-uso-gerenciador-dependencias-cocoapods)
 
 ### Reatividade
 
