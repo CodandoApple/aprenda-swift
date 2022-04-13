@@ -58,7 +58,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷] ](https://www.alura.com.br/artigos/ios-opcionais-swift)
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
-- [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷] ](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
+- [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
+- [Gerenciamento de memória no iOS — weak, strong e unowned - Décio Montanhani [🇧🇷]](https://deciomontanhani.com.br/gerenciamento-de-memoria/)
 
 ### Padrões de Projeto e Arquiteturas
 
