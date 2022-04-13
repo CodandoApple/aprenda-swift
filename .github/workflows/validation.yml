@@ -1,7 +1,7 @@
 name: Validação de Links
 on:
   push:
-    branches: [ main ]
+    branches: [ main, workflow ]
   pull_request:
     branches: [ main ]
 
