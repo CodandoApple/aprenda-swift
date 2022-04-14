@@ -55,7 +55,7 @@ class LinksTest : XCTestCase {
                             self.triesCount[link] = count + 1
                         } else {
                             self.removeFailedURL(link: link)
-                            XCTFail("A página \(link) está fora do ar")
+                            XCTFail("Não foi possível validar a página \(link)")
                             return
                         }
                     } else {
