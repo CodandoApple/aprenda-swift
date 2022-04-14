@@ -5,12 +5,14 @@ import XCTest
 class LinksTest : XCTestCase {
     
     var queue: [String] = []
+    var failures: [String] = []
+    let urlSession = URLSession(configuration: .ephemeral)
     var triesCount: [String:Int] = [:]
     var regex: NSRegularExpression?
     
     override func setUp() {
         do {
-            regex = try NSRegularExpression(pattern: #"(?:\[.*\])\((?<link>.*)\)"#)
+            regex = try NSRegularExpression(pattern: #"(?:\-\s?\[.*\])\((?<link>.*)\)"#)
         } catch(let error) {
             XCTFail(error.localizedDescription)
         }
@@ -26,40 +28,56 @@ class LinksTest : XCTestCase {
             
             self.queue = extractLinksFromText(text)
             
-            XCTAssertGreaterThan(queue.count, 0, "URLS não encontrados no arquivo")
+            XCTAssertGreaterThan(queue.count, 0, "URLS não encontradas no arquivo")
             
             while !queue.isEmpty {
-                guard let link = queue.last, let url = URL(string: link) else { continue }
+
+                guard let link = queue.first , let url = URL(string: link) else {
+                    if let first = queue.first {
+                        XCTFail("Não foi possível gerar a URL para o link \(first)")
+                        removeFailedURL(link: first)
+                    }
+                    continue
+                }
                 
+                var request = URLRequest(url: url)
+                request.httpMethod = "HEAD"
+                            
                 let expectation = XCTestExpectation(description: "Carregar a página \(link)")
                 
-                let task = URLSession.shared.dataTask(with: url, completionHandler: { (data,response,error) in
-                    XCTAssertNil(error, "A página \(link) não foi encontrada")
+                let task = urlSession.dataTask(with: request) { (data,response,error) in
+                    
+                    if let errorDescription = error?.localizedDescription {
+                        XCTFail("Ocorreu um erro ao acessar o link \(link): \(errorDescription)")
+                        self.removeFailedURL(link: link)
+                        return
+                    }
+                    
+                    if let count = self.triesCount[link] {
+                        if count < 3 {
+                            self.triesCount[link] = count + 1
+                        } else {
+                            self.removeFailedURL(link: link)
+                            XCTFail("A página \(link) está fora do ar")
+                            return
+                        }
+                    } else {
+                        self.triesCount[link] = 1
+                    }
                     
                     if let httpResponse = response as? HTTPURLResponse {
                         XCTAssertTrue((200...299).contains(httpResponse.statusCode),"A página \(link) não está disponível")
-                        let _ = self.queue.popLast()
-                    } else {
-                        if let count = self.triesCount[link] {
-                            if count == 3 {
-                                let _ = self.queue.popLast()
-                                XCTFail("A página \(link) está fora do ar")
-                            } else {
-                                self.triesCount[link] = count + 1
-                            }
-                        } else {
-                            self.triesCount[link] = 1
-                        }
+                        self.queue.removeAll { $0 == link }
                     }
                     expectation.fulfill()
-                })
+                }
+
                 task.resume()
                 wait(for: [expectation], timeout: 10.0)
             }
         } catch (let error) {
             XCTFail(error.localizedDescription)
         }
-        
     }
 }
 
@@ -73,6 +91,10 @@ extension LinksTest {
                 let matchRange = Range($0.range(withName: "link"), in: text)!
                 return String(text[matchRange])
             }.filter { $0.starts(with: "http") }
+    }
+    private func removeFailedURL(link: String) {
+        failures.append(link)
+        queue.removeAll { $0 == link }
     }
 }
 
