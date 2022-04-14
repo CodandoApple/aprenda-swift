@@ -39,13 +39,10 @@ class LinksTest : XCTestCase {
                     }
                     continue
                 }
-                
-                var request = URLRequest(url: url)
-                request.httpMethod = "HEAD"
                             
                 let expectation = XCTestExpectation(description: "Carregar a página \(link)")
                 
-                let task = urlSession.dataTask(with: request) { (data,response,error) in
+                let task = urlSession.dataTask(with: url) { (data,response,error) in
                     
                     if let errorDescription = error?.localizedDescription {
                         XCTFail("Ocorreu um erro ao acessar o link \(link): \(errorDescription)")
