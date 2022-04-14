@@ -8,12 +8,11 @@ class LinkValidator {
     
     @available(macOS 10.11, *)
     func readFileText(_ filename: String) throws -> String {
-        if let fileURL = Bundle.main.path(forResource: filename, ofType: "txt") {
+        if let fileURL = Bundle.main.path(forResource: filename, ofType: "md") {
             let text = try String(contentsOfFile: fileURL, encoding: .utf8)
             return text
         } else {
-            let projectDirectory = URL(fileURLWithPath: ProcessInfo.processInfo.environment["SRCROOT"] ?? "")
-            let fileURL = URL(fileURLWithPath: filename, relativeTo: projectDirectory)
+            let fileURL = URL(fileURLWithPath: "README.md")
             let text = try String(contentsOf: fileURL, encoding: .utf8)
             return text
         }

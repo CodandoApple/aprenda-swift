@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "LinkValidator",
     targets: [
-        .target(name: "LinkValidator"),
+        .target(name: "LinkValidator", resources: [.copy("README.md")]),
         .testTarget(name: "LinkValidatorTests",
                     dependencies: ["LinkValidator"])
     ]
