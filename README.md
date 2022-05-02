@@ -56,7 +56,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
-- [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷] ](https://www.alura.com.br/artigos/ios-opcionais-swift)
+- [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-opcionais-swift)
+- [Optional em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/optionals-em-swift-4lh0)
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
 - [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
