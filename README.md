@@ -25,6 +25,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
   - [Gerenciamento de Dependências](#gerenciamento-de-dependências)
   - [Reatividade](#reatividade)
   - [Segurança](#segurança)
+  - [Testes](#testes)
 - [Ferramentas e Recursos](#ferramentas-e-recursos)
   - [Utilidades](#utilidades)
   - [Deploy e CI/CD](#deploy-e-cicd)
@@ -83,15 +84,18 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
   - [Diferenças na construção de layout com Storyboard, XIB e View Code - Alura [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-diferencas-construcao-layouts-storyboard-xib-view-code)
 
 - #### SwiftUI
+
   - [Aprendendo SwiftUI: O Caminho das pedras - Kakau Fonseca [🇧🇷]](https://medium.com/nossa-coletividad/aprendendo-swiftui-o-caminho-das-pedras-89dc41ec1ce1)
   - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
   - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 
 - #### Storyboard
+
   - [Desmistificando Storyboards - equinociOS [🇧🇷]](http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/)
   - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
 - #### ViewCode
+
   - [Implementando interfaces iOS em View Code - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93)
   - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
   - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
@@ -119,6 +123,12 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Defesas anti-reversão para iOS](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06j-testing-resiliency-against-reverse-engineering)
 - [SSL Pinning - Flawless App Stories](https://medium.com/flawless-app-stories/ssl-pinning-254fa8ca2109)
+
+### Testes
+
+- [iOS Teste Unitário e Teste de UI - Hoff Silva [🇧🇷]](https://hoffsilva.medium.com/ios-teste-unit%C3%A1rio-e-teste-de-ui-tutorial-1360bb66ff73)
+- [Testes unitários em Swift com MVVM - SoftDesign [🇧🇷]](https://softdesign.com.br/blog/testes-unitarios-em-swift-com-mvvm)
+- [Testes automatizados com XCTest Framework para teste de app iOS - Amanda Lacerda [🇧🇷]](https://www.linkedin.com/pulse/start-testes-automatizados-com-xctest-framework-para-de-lacerda/?originalSubdomain=pt)
 
 ## Ferramentas e Recursos
 
@@ -217,6 +227,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/curso-online-swift-ui)
 - [The Complete iOS Development Bootcamp - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+- [Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)
 
 ## Roadmaps
 
