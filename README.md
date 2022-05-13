@@ -71,6 +71,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Entendendo os padrões de modelagem MVC, MVP e MVVM - ENG [🇧🇷]](https://www.eng.com.br/artigo.cfm?id=6338&post=ios-swift-entendendo-os-padroes-de-modelagem-mvc,-mvp-e-o-mvvm)
 - [Qual a melhor arquitetura para aplicações iOS? MVC? - Geraldo Bastos [🇧🇷]](https://medium.com/@GeraldoBastos/qual-a-melhor-arquitetura-para-aplicações-ios-mvc-3b436cbcd36b)
 - [Qual a melhor arquitetura para aplicações iOS? MVVM? - Geraldo Bastos [🇧🇷]](https://medium.com/@GeraldoBastos/parte-2-qual-a-melhor-arquitetura-para-aplicações-ios-mvvm-803f09cbd989)
+- [Arquitetura MVVM - Pomo Docs [🇧🇷]](https://unbarqdsw.github.io/2020.1_G6_Pomo/arquitetura-e-reutilizacao/arquitetura/mvvm/)
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
