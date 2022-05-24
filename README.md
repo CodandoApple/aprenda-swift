@@ -48,6 +48,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Tutoriais
 
+- [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
+- [🎬 Xcode: Como criar um aplicativo iOS do zero (para iniciantes) - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=t8JI3Ur51zY)
 - [iOS App Dev Tutorials - Apple](https://developer.apple.com/tutorials/app-dev-training)
 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
 - [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
@@ -57,11 +59,14 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
+- [🎬 Struct ou Class, pra que serve? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
 - [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-opcionais-swift)
 - [Optional em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/optionals-em-swift-4lh0)
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
 - [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
+- [🎬 Como trabalhar com Closures - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=Lkv4bYzuH_Y)
+- [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 - [Gerenciamento de memória no iOS — weak, strong e unowned - Décio Montanhani [🇧🇷]](https://deciomontanhani.com.br/gerenciamento-de-memoria/)
 
 ### Padrões de Projeto e Arquiteturas
@@ -75,6 +80,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
 - [Um pouco sobre injeção de dependência em iOS - Victor Brito [🇧🇷]](https://victorbritodev.medium.com/um-pouco-sobre-injeção-de-dependência-em-ios-a1b0f536b05c)
+- [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
+- [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
@@ -84,10 +91,12 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - #### Geral
 
   - [Diferenças na construção de layout com Storyboard, XIB e View Code - Alura [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-diferencas-construcao-layouts-storyboard-xib-view-code)
+  - [🎬 Conhecendo UIView e Constraints no iOS - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=HX38K7fz_Uw)
 
 - #### SwiftUI
 
   - [Aprendendo SwiftUI: O Caminho das pedras - Kakau Fonseca [🇧🇷]](https://medium.com/nossa-coletividad/aprendendo-swiftui-o-caminho-das-pedras-89dc41ec1ce1)
+  - [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
   - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
   - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 
@@ -102,6 +111,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
   - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
   - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
   - [Como começar com ViewCode no iOS - João Alexandre [🇧🇷]](https://medium.com/@joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
+  - [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
   - [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
   - [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 
@@ -180,32 +190,35 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ## Canais no Youtube
  
-- [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
-- [Back Front Academy](https://www.youtube.com/c/BackFrontAcademy)
-- [Cícero Camargo CODEMUS](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/)
-- [CocoaHeadsBR](https://www.youtube.com/user/cocoaheadsbr)
+- [Attekita Dev [🇧🇷]](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+- [Back Front Academy [🇧🇷]](https://www.youtube.com/c/BackFrontAcademy)
+- [Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/)
+- [CocoaHeadsBR [🇧🇷]](https://www.youtube.com/user/cocoaheadsbr)
 - [Credo Academy](https://www.youtube.com/c/CredoAcademy/)
+- [Developer Academy PUC-RIO [🇧🇷]](https://www.youtube.com/c/DeveloperAcademyPUCRio)
 - [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
-- [Michel Lopes 🇧🇷](https://www.youtube.com/channel/UC_Z0xQUwA5G06-LZFnmR8MA/)
+- [Michel Lopes [🇧🇷]](https://www.youtube.com/channel/UC_Z0xQUwA5G06-LZFnmR8MA/)
 - [Paul Hudson](https://www.youtube.com/c/PaulHudson/)
-- [Raphael Oliveira](https://www.youtube.com/rapholivera)
+- [Raphael Oliveira [🇧🇷]](https://www.youtube.com/rapholivera)
 - [Rebeloper](https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg)
 - [Sean Allen](https://www.youtube.com/c/SeanAllen)
-- [Tiago Aguiar](https://www.youtube.com/c/TiagoAguiar/)
-- [Thais Sadami](https://www.youtube.com/ThaisSadami)
+- [Tiago Aguiar [🇧🇷]](https://www.youtube.com/c/TiagoAguiar/)
+- [Thais Sadami [🇧🇷]](https://www.youtube.com/ThaisSadami)
 - [Vincent Pradeilles](https://www.youtube.com/c/VincentPradeilles)
 
 ## Playlists no Youtube
 
 - [Curso de Swift - Hugo Vasconcelos [🇧🇷]](https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm)
 - [Aulas de Swift - Bruno Scheltzke [🇧🇷]](https://youtube.com/playlist?list=PLZwVYMtzU9Em9q0vVyneFdqn-4XVl9YBG)
-- [IOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
+- [Desenvolvimento iOS - Desgourmetizando o conhecimento / Renato Matos [🇧🇷]](https://www.youtube.com/watch?v=q0FAU6_7We0&list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF)
+- [DESENVOLVIMENTO iOS - Tiago Aguiar [🇧🇷]](https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s)
+- [Curso de Swift - Programção - Tiago Aguiar [🇧🇷]](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-)
+- [iOS Development with Swift Tutorials](https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B)
 - [Curso grátis Swift e SwiftUI (stanford 2020)](https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC)
 - [Apple Swift Programming Language Tutorial Series](https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 - [iOS Course Lectures Spring 2021 - Cornell AppDev](https://youtube.com/playlist?list=PLjf6nsEcF5KOVWRlOPwrJm9X69YtSx_OZ)
 - [TUTORIAIS iOS (LEGACY)](https://www.youtube.com/playlist?list=PLJ0AcghBBWSjpnacG8ZD_1pWpU5IJrp2d)
-- [Desenvolvimento iOS - Desgourmetizando o conhecimento / Renato Matos [🇧🇷]](https://www.youtube.com/watch?v=q0FAU6_7We0&list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF)
 
 ## Podcasts
 
