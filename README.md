@@ -23,6 +23,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
      - [ViewCode](#viewcode)
      - [UIKit](#uikit)
   - [Gerenciamento de Dependências](#gerenciamento-de-dependências)
+  - [Persistência](#persistência)
   - [Reatividade](#reatividade)
   - [Segurança](#segurança)
   - [Testes](#testes)
@@ -125,6 +126,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Instalação e uso do gerenciador de dependências CocoaPods - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-instalacao-uso-gerenciador-dependencias-cocoapods)
 - [Gerenciadores de dependências iOS - tokenlab [🇧🇷]](https://tokenlab.blog/gerenciadores-de-dependencias-ios/)
 - [Carthage: Um gerenciador de dependências para projetos Xcode - infoq [🇧🇷]](https://www.infoq.com/br/news/2015/07/carthage-dependency-manager/)
+
+### Persistência
+
+- [Aprendendo CoreData com SwiftUI - Academy IFCE + Alley Pereira [🇧🇷]](https://medium.com/academy-ifce/aprendendo-coredata-com-swiftui-90c9d2159714)
 
 ### Reatividade
 
