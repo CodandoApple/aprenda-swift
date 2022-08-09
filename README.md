@@ -109,6 +109,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
   - [Desmistificando Storyboards - equinociOS [🇧🇷]](http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/)
   - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
+  - [UIKKit, Storyboard e Padrão delegate - Ândriu Felipe [🇧🇷]](https://www.alura.com.br/conteudo/swift-uikit-storyboard)
 
 - #### ViewCode
 
