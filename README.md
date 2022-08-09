@@ -64,11 +64,15 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-opcionais-swift)
 - [Optional em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/optionals-em-swift-4lh0)
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
+- [Entendendo [weak self] no Swift - Jonatan Medina [🇧🇷]](https://medium.com/@jonatanm89/entendendo-weak-self-no-swift-2ba061326504)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
 - [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
 - [🎬 Como trabalhar com Closures - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=Lkv4bYzuH_Y)
 - [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 - [Gerenciamento de memória no iOS — weak, strong e unowned - Décio Montanhani [🇧🇷]](https://deciomontanhani.com.br/gerenciamento-de-memoria/)
+- [Desmistificando a programação orientada a protocolos - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/desmistificando-a-pop-2555d8335fb5)
+- [Você sabe o que são Property Wrappers? Parte 1 - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063)
+- [Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b)
 
 ### Padrões de Projeto e Arquiteturas
 
