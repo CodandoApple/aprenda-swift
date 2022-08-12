@@ -73,6 +73,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Desmistificando a programação orientada a protocolos - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/desmistificando-a-pop-2555d8335fb5)
 - [Você sabe o que são Property Wrappers? Parte 1 - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063)
 - [Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b)
+- [Timer — Manipulando o tempo utilizando o Timer(iOS) - Vinicius Mangueira [🇧🇷]](https://medium.com/@viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80)
 
 ### Padrões de Projeto e Arquiteturas
 
@@ -141,11 +142,13 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 ### Reatividade
 
 - [Resumo básico de RxSwift - Hoff Silva [🇧🇷]](https://hoffsilva.medium.com/resumo-b%C3%A1sico-de-rxswift-3703f8318a7f)
+- [Swift Combine - Vinicius Mangueira [🇧🇷]](https://medium.com/popcodemobile/swift-combine-6a039fde675f)
 - [The Ultimate Combine Framework Tutorial in Swift](https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/)
 
 ### Segurança
 
 - [Segurança em dispositivos iOS - Daiane Santos [🇧🇷]](https://wh0isdxk.medium.com/seguran%C3%A7a-em-dispositivos-ios-a422840b71a2)
+- [Criptografia para dispositivos iOS - Vinicius Mangueira [🇧🇷]](https://medium.com/@viniciusmangueira/criptografia-para-dispositivos-ios-ca840639ee10)
 - [Defesas anti-reversão para iOS](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06j-testing-resiliency-against-reverse-engineering)
 - [SSL Pinning - Flawless App Stories](https://medium.com/flawless-app-stories/ssl-pinning-254fa8ca2109)
 
@@ -160,6 +163,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Utilidades
 
+- [Swift Lint - Vinicius Mangueira [🇧🇷]](https://medium.com/@viniciusmangueira/swift-lint-3b869261cf48)
 - [Formatação de data - NSDateFormatter](https://nsdateformatter.com/)
 - [Linting - SwiftLint](https://realm.github.io/SwiftLint/)
 
