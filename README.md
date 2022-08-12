@@ -142,7 +142,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Resumo básico de RxSwift - Hoff Silva [🇧🇷]](https://hoffsilva.medium.com/resumo-b%C3%A1sico-de-rxswift-3703f8318a7f)
 - [The Ultimate Combine Framework Tutorial in Swift](https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/)
-- [RxSwift - JournalDev](https://www.journaldev.com/22691/rxswift)
 
 ### Segurança
 
@@ -184,7 +183,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Create with Swift](https://createwithswift.com)
 - [Awesome iOS](https://awesome-ios.readthedocs.io/en/latest/)
 - [Yet Another Swift Blog](https://www.vadimbulavin.com/)
-- [JournalDev - Swift](https://www.journaldev.com/swift)
 - [The Swift Dev](https://theswiftdev.com/)
 - [Holy Swift](https://holyswift.app/)
 - [Swift with Majid](https://swiftwithmajid.com/)
