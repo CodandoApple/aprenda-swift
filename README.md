@@ -22,6 +22,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
      - [Storyboard](#storyboard)
      - [ViewCode](#viewcode)
      - [UIKit](#uikit)
+     - [Animações](#animações)
   - [Gerenciamento de Dependências](#gerenciamento-de-dependências)
   - [Persistência](#persistência)
   - [Reatividade](#reatividade)
@@ -126,6 +127,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
   - [Primeiros passos com UIKit - Tuts+ [🇧🇷]](https://code.tutsplus.com/pt/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit--cms-25461)
   - [UIKit: Renderizando componentes no SwiftUI - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/uikit-renderizando-componentes-no-swiftui-9ae3619916bf)
+
+- #### Animações
+
+  - [Melhorando a experiência do seu app com animações — iOS - Leonardo Santos [🇧🇷]](https://leocoout.medium.com/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5)
 
 ### Gerenciamento de Dependências
 
