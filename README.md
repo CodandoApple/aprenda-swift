@@ -233,7 +233,11 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Sean Allen](https://www.youtube.com/c/SeanAllen)
 - [Tiago Aguiar [🇧🇷]](https://www.youtube.com/c/TiagoAguiar/)
 - [Thais Sadami [🇧🇷]](https://www.youtube.com/ThaisSadami)
+- [Codando Com Moa [🇧🇷]](https://www.youtube.com/c/CodandoComMoa)
 - [Vincent Pradeilles](https://www.youtube.com/c/VincentPradeilles)
+- [Kavsoft](https://www.youtube.com/c/Kavsoft/featured)
+- [Stewart Lynch](https://www.youtube.com/c/StewartLynch)
+- [Karin Prater](https://www.youtube.com/c/PhysicsNerdDev)
 
 ## Playlists no Youtube
 
@@ -277,10 +281,12 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ## Roadmaps
 
+- [A Jornada do Programador iOS - BackFront Academy [🇧🇷]](https://trello.com/b/Vac1uedL/a-jornada-do-programador-ios)
 - [Swift Developer Roadmap - Ronan Rodrigo Nunes](https://trello.com/b/hLGyiEEE/swift-developer-roadmap)
 - [Mobile Developer Roadmap - Jung Kim](https://github.com/godrm/mobile-developer-roadmap)
 - [iOS Developer Skills Matrix - Bohdan Orlov](https://medium.com/ios-os-x-development/find-the-image-and-markdown-version-on-github-fee807255235)
 - [iOS Roadmap to Professional Developer](https://www.youtube.com/watch?v=pbhLZMVBlp0)
+
 
 ## Comunidades
 - [NSFlow - Telegram](https://t.me/nsflowbr)
