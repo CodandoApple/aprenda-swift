@@ -43,6 +43,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
 - [Comunidades](#comunidades)
 - [Canais no Telegram](#canais-no-telegram)
 - [Instagram](#instagram)
+- [Twitter](#twitter)
 
 ## Conteúdos
 
