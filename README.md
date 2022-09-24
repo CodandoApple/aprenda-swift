@@ -320,3 +320,4 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Paul Hudson](https://twitter.com/twostraws)
 - [Xcode Releases](https://twitter.com/XcodeReleases)
 - [Thomas Ricouard](https://twitter.com/Dimillian)
+- [Donny Wals](https://twitter.com/DonnyWals)
