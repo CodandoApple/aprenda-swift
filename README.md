@@ -35,6 +35,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
 - [Comunidades](#comunidades)
 - [Canais no Telegram](#canais-no-telegram)
 - [Instagram](#instagram)
+- [Twitter](#twitter)
 
 ## Conteúdos
 
@@ -202,3 +203,14 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [ReisDev](https://www.instagram.com/reisdev)
 - [Rychillie](https://www.instagram.com/rychillie)
 - [Thais Sadami](https://www.instagram.com/thaissadami)
+
+## Twitter
+
+- [Enid](https://twitter.com/ios_dev_alb/)
+- [Swift Language](https://twitter.com/SwiftLang)
+- [Kavsoft](https://twitter.com/_Kavsoft)
+- [Aviel](https://twitter.com/avielgr)
+- [Paul Hudson](https://twitter.com/twostraws)
+- [Xcode Releases](https://twitter.com/XcodeReleases)
+- [Thomas Ricouard](https://twitter.com/Dimillian)
+- [Donny Wals](https://twitter.com/DonnyWals)
