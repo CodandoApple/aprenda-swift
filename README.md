@@ -111,8 +111,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - #### Storyboard
 
   - [Desmistificando Storyboards - equinociOS [🇧🇷]](http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/)
-  - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
   - [UIKKit, Storyboard e Padrão delegate - Ândriu Felipe [🇧🇷]](https://www.alura.com.br/conteudo/swift-uikit-storyboard)
+  - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
 - #### ViewCode
 
@@ -136,7 +136,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 ### Gerenciamento de Dependências
 
 - [Instalação e uso do gerenciador de dependências CocoaPods - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-instalacao-uso-gerenciador-dependencias-cocoapods)
-- [Gerenciadores de dependências iOS - tokenlab [🇧🇷]](https://tokenlab.blog/gerenciadores-de-dependencias-ios/)
+- [Gerenciadores de dependências iOS - tokenlab [🇧🇷]](https://blog.tokenlab.com.br/gerenciadores-de-dependencias-ios/)
 - [Carthage: Um gerenciador de dependências para projetos Xcode - infoq [🇧🇷]](https://www.infoq.com/br/news/2015/07/carthage-dependency-manager/)
 
 ### Persistência
