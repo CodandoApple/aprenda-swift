@@ -184,6 +184,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Deploy e CI/CD
 
+- [Gerando artefatos .ipa com GitHub Actions - Michel Lutz [🇧🇷]](https://micheltlutz.medium.com/gerando-artefatos-ipa-com-github-actions-51088aa5852c)
 - [Bitrise](https://bitrise.io)
 - [Jenkins](https://www.jenkins.io/)
 - [Fastlane](https://fastlane.tools/)
@@ -195,7 +196,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Recreate](https://recreatecode.substack.com)
 - [AppCoda](https://www.appcoda.com/ios-programming-course/)
 - [Hacking With Swift](https://www.hackingwithswift.com/learn)
-- [Raywenderlich](https://www.raywenderlich.com/ios/paths)
+- [Kodeco (antigo Raywenderlich)](https://www.kodeco.com/ios/paths)
 - [LearnAppMaking](https://learnappmaking.com/)
 - [Daily Dose of Swift](https://dailydoseofswift.com)
 - [iOS Dev Weekly](https://iosdevweekly.com)
