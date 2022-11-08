@@ -88,6 +88,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
 - [Um pouco sobre injeção de dependência em iOS - Victor Brito [🇧🇷]](https://victorbritodev.medium.com/um-pouco-sobre-injeção-de-dependência-em-ios-a1b0f536b05c)
+- [Benefícios mais comuns entre arquiteturas iOS - Yasmin Benatti [🇧🇷]](https://medium.com/ifood-tech/benefícios-mais-comuns-entre-arquiteturas-ios-e295439c4f84)
+- [Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS - Ícaro Lima [🇧🇷]](https://repositorio.ufpb.br/jspui/bitstream/123456789/15651/1/ILM12122018.pdf)
 - [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
 - [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
