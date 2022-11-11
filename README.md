@@ -114,6 +114,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
   - [Desmistificando Storyboards - equinociOS [🇧🇷]](http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/)
   - [UIKKit, Storyboard e Padrão delegate - Ândriu Felipe [🇧🇷]](https://www.alura.com.br/conteudo/swift-uikit-storyboard)
+  - [🎬 Como criar um app iOS usando Storyboard - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=hWA1WmjkxJU)
   - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
 - #### ViewCode
@@ -229,7 +230,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/)
 - [CocoaHeadsBR [🇧🇷]](https://www.youtube.com/user/cocoaheadsbr)
 - [Credo Academy](https://www.youtube.com/c/CredoAcademy/)
-- [Developer Academy PUC-RIO [🇧🇷]](https://www.youtube.com/c/DeveloperAcademyPUCRio)
+- [Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/c/DeveloperAcademyPUCRio)
 - [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
 - [Michel Lopes [🇧🇷]](https://www.youtube.com/channel/UC_Z0xQUwA5G06-LZFnmR8MA/)
