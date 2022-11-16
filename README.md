@@ -176,6 +176,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Testes unitários em Swift com MVVM - SoftDesign [🇧🇷]](https://softdesign.com.br/blog/testes-unitarios-em-swift-com-mvvm)
 - [Testes automatizados com XCTest Framework para teste de app iOS - Amanda Lacerda [🇧🇷]](https://www.linkedin.com/pulse/start-testes-automatizados-com-xctest-framework-para-de-lacerda/?originalSubdomain=pt)
 - [🎬 Automação de testes NATIVA para iOS com XCUITest - qazando [🇧🇷]](https://www.youtube.com/watch?v=-JyD2EMRxVA)
+- [Test Doubles em Swift (Ou o isolamento de testes unitários) - Matheus de Vasconcelos [🇧🇷]](https://medium.com/digitalproductsdev/test-doubles-swift-cd43372eb45e)
+
 
 ## Ferramentas e Recursos
 
