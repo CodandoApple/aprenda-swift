@@ -52,9 +52,9 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Tutoriais
 
-- [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
 - [Como desenvolver seu próprio gerador de senha no iOS - Victor Catão [🇧🇷]](https://medium.com/@victorcatao/como-desenvolver-seu-pr%C3%B3prio-gerador-de-senha-no-ios-d538f27236dd)
 - [🎬 Xcode: Como criar um aplicativo iOS do zero (para iniciantes) - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=t8JI3Ur51zY)
+- [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
 - [iOS App Dev Tutorials - Apple](https://developer.apple.com/tutorials/app-dev-training)
 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
 - [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
@@ -92,9 +92,9 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Um pouco sobre injeção de dependência em iOS - Victor Brito [🇧🇷]](https://victorbritodev.medium.com/um-pouco-sobre-injeção-de-dependência-em-ios-a1b0f536b05c)
 - [Benefícios mais comuns entre arquiteturas iOS - Yasmin Benatti [🇧🇷]](https://medium.com/ifood-tech/benefícios-mais-comuns-entre-arquiteturas-ios-e295439c4f84)
 - [Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS - Ícaro Lima [🇧🇷]](https://repositorio.ufpb.br/jspui/bitstream/123456789/15651/1/ILM12122018.pdf)
+- [Arquitetura Limpa (CLEAN) - Rayana Prata [🇧🇷]](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
 - [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
 - [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
-- [Arquitetura Limpa (CLEAN) - Rayana Prata [🇧🇷]](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
@@ -109,8 +109,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 #### SwiftUI
 
 - [Aprendendo SwiftUI: O Caminho das pedras - Kakau Fonseca [🇧🇷]](https://medium.com/nossa-coletividad/aprendendo-swiftui-o-caminho-das-pedras-89dc41ec1ce1)
-- [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
+- [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 
 #### Storyboard
@@ -138,6 +138,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 #### Animações
 
 - [Melhorando a experiência do seu app com animações — iOS - Leonardo Santos [🇧🇷]](https://leocoout.medium.com/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5)
+- [🎬 SwiftUI: Animações no iOS - Como começar - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=k6zgW9yIPCE)
 
 ### Networking
 
@@ -187,9 +188,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Escrevendo Testes Unitários para uma ViewController com TableView - Leonardo Cunha [🇧🇷]](https://medium.com/usemobile/escrevendo-testes-unit%C3%A1rios-para-uma-viewcontroller-com-tableview-91ee923de478)
 - [Testes unitários em Swift com MVVM - SoftDesign [🇧🇷]](https://softdesign.com.br/blog/testes-unitarios-em-swift-com-mvvm)
 - [Testes automatizados com XCTest Framework para teste de app iOS - Amanda Lacerda [🇧🇷]](https://www.linkedin.com/pulse/start-testes-automatizados-com-xctest-framework-para-de-lacerda/?originalSubdomain=pt)
-- [🎬 Automação de testes NATIVA para iOS com XCUITest - qazando [🇧🇷]](https://www.youtube.com/watch?v=-JyD2EMRxVA)
 - [Test Doubles em Swift (Ou o isolamento de testes unitários) - Matheus de Vasconcelos [🇧🇷]](https://medium.com/digitalproductsdev/test-doubles-swift-cd43372eb45e)
-
+- [🎬 Automação de testes NATIVA para iOS com XCUITest - qazando [🇧🇷]](https://www.youtube.com/watch?v=-JyD2EMRxVA)
 
 ## Ferramentas e Recursos
 
