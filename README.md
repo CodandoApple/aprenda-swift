@@ -101,43 +101,43 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Interface
 
-- #### Geral
+#### Geral
 
-  - [Diferenças na construção de layout com Storyboard, XIB e View Code - Alura [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-diferencas-construcao-layouts-storyboard-xib-view-code)
-  - [🎬 Conhecendo UIView e Constraints no iOS - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=HX38K7fz_Uw)
+- [Diferenças na construção de layout com Storyboard, XIB e View Code - Alura [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-diferencas-construcao-layouts-storyboard-xib-view-code)
+- [🎬 Conhecendo UIView e Constraints no iOS - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=HX38K7fz_Uw)
 
-- #### SwiftUI
+#### SwiftUI
 
-  - [Aprendendo SwiftUI: O Caminho das pedras - Kakau Fonseca [🇧🇷]](https://medium.com/nossa-coletividad/aprendendo-swiftui-o-caminho-das-pedras-89dc41ec1ce1)
-  - [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
-  - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
-  - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
+- [Aprendendo SwiftUI: O Caminho das pedras - Kakau Fonseca [🇧🇷]](https://medium.com/nossa-coletividad/aprendendo-swiftui-o-caminho-das-pedras-89dc41ec1ce1)
+- [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
+- [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
+- [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 
-- #### Storyboard
+#### Storyboard
 
-  - [Desmistificando Storyboards - equinociOS [🇧🇷]](http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/)
-  - [UIKKit, Storyboard e Padrão delegate - Ândriu Felipe [🇧🇷]](https://www.alura.com.br/conteudo/swift-uikit-storyboard)
-  - [🎬 Como criar um app iOS usando Storyboard - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=hWA1WmjkxJU)
-  - [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
+- [Desmistificando Storyboards - equinociOS [🇧🇷]](http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/)
+- [UIKKit, Storyboard e Padrão delegate - Ândriu Felipe [🇧🇷]](https://www.alura.com.br/conteudo/swift-uikit-storyboard)
+- [🎬 Como criar um app iOS usando Storyboard - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=hWA1WmjkxJU)
+- [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
-- #### ViewCode
+#### ViewCode
 
-  - [Implementando interfaces iOS em View Code - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93)
-  - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
-  - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
-  - [Como começar com ViewCode no iOS - João Alexandre [🇧🇷]](https://medium.com/@joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
-  - [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
-  - [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
-  - [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
+- [Implementando interfaces iOS em View Code - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93)
+- [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
+- [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
+- [Como começar com ViewCode no iOS - João Alexandre [🇧🇷]](https://medium.com/@joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
+- [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
+- [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
+- [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 
-- #### UIKit
+#### UIKit
 
-  - [Primeiros passos com UIKit - Tuts+ [🇧🇷]](https://code.tutsplus.com/pt/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit--cms-25461)
-  - [UIKit: Renderizando componentes no SwiftUI - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/uikit-renderizando-componentes-no-swiftui-9ae3619916bf)
+- [Primeiros passos com UIKit - Tuts+ [🇧🇷]](https://code.tutsplus.com/pt/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit--cms-25461)
+- [UIKit: Renderizando componentes no SwiftUI - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/uikit-renderizando-componentes-no-swiftui-9ae3619916bf)
 
-- #### Animações
+#### Animações
 
-  - [Melhorando a experiência do seu app com animações — iOS - Leonardo Santos [🇧🇷]](https://leocoout.medium.com/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5)
+- [Melhorando a experiência do seu app com animações — iOS - Leonardo Santos [🇧🇷]](https://leocoout.medium.com/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5)
 
 ### Networking
 
@@ -175,7 +175,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Defesas anti-reversão para iOS](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06j-testing-resiliency-against-reverse-engineering)
 - [SSL Pinning - Flawless App Stories](https://medium.com/flawless-app-stories/ssl-pinning-254fa8ca2109)
 
-### Acessibilidade 
+### Acessibilidade
 
 - [Acessibilidade no iOS — Introdução - Vinicius França [🇧🇷]](https://viniciusfranca.dev/acessibilidade-no-ios-introdu%C3%A7%C3%A3o-d3b92cfde122)
 - [Tornando o seu app acessível por todos no iOS - Gustavo Severo [🇧🇷]](https://medium.com/@GusSevero/tornando-o-seu-app-acess%C3%ADvel-por-todos-e93c1aa2ad9d)
