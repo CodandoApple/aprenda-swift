@@ -23,6 +23,7 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
      - [ViewCode](#viewcode)
      - [UIKit](#uikit)
      - [Animações](#animações)
+  - [Network](#network)
   - [Gerenciamento de Dependências](#gerenciamento-de-dependências)
   - [Persistência](#persistência)
   - [Reatividade](#reatividade)
@@ -52,6 +53,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 ### Tutoriais
 
 - [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
+- [Como desenvolver seu próprio gerador de senha no iOS - Victor Catão [🇧🇷]](https://medium.com/@victorcatao/como-desenvolver-seu-pr%C3%B3prio-gerador-de-senha-no-ios-d538f27236dd)
 - [🎬 Xcode: Como criar um aplicativo iOS do zero (para iniciantes) - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=t8JI3Ur51zY)
 - [iOS App Dev Tutorials - Apple](https://developer.apple.com/tutorials/app-dev-training)
 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
@@ -136,6 +138,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - #### Animações
 
   - [Melhorando a experiência do seu app com animações — iOS - Leonardo Santos [🇧🇷]](https://leocoout.medium.com/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5)
+
+### Network
+
+- [Async/Await: Camada Network genérica com Swift 5.5 - Victor Catão [🇧🇷]](https://medium.com/@victorcatao/async-await-camada-network-gen%C3%A9rica-com-swift-5-5-18aa8f177c9c)
 
 ### Gerenciamento de Dependências
 
