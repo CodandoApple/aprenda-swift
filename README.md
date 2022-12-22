@@ -92,6 +92,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS - Ícaro Lima [🇧🇷]](https://repositorio.ufpb.br/jspui/bitstream/123456789/15651/1/ILM12122018.pdf)
 - [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
 - [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
+- [Arquitetura Limpa (CLEAN) - Rayana Prata [🇧🇷]](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
