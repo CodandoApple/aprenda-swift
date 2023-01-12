@@ -66,6 +66,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
 - [🎬 Struct ou Class, pra que serve? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
+- [Propriedades em Swift - Pedro Menezes [🇧🇷]](https://pt.linkedin.com/pulse/propriedades-em-swift-pedro-menezes-/)
 - [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-opcionais-swift)
 - [Optional em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/optionals-em-swift-4lh0)
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
