@@ -15,7 +15,8 @@ Quer saber como contribuir para este projeto? Verifique nosso arquivo [CONTRIBUT
 - [Conteúdos](#conteúdos)
   - [Linguagem](#linguagem)
   - [Tutoriais](#tutoriais)
-  - [Padrões de Projeto e Arquiteturas](#padrões-de-projeto-e-arquiteturas)
+  - [Arquiteturas](#arquiteturas)
+  - [Padrões de Projeto](#padrões-de-projeto)
   - [Interface](#interface)
      - [Geral](#geral)
      - [SwiftUI](#swiftui)
@@ -79,7 +80,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b)
 - [Timer — Manipulando o tempo utilizando o Timer(iOS) - Vinicius Mangueira [🇧🇷]](https://medium.com/@viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80)
 
-### Padrões de Projeto e Arquiteturas
+### Arquiteturas
 
 - [As 5 arquiteturas iOS mais utilizadas - Zup [🇧🇷]](https://www.zup.com.br/blog/5-arquiteturas-ios-mais-utilizadas)
 - [Principais arquiteturas para aplicações iOS - Objective [🇧🇷]](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/)
@@ -87,17 +88,21 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Qual a melhor arquitetura para aplicações iOS? MVC? - Geraldo Bastos [🇧🇷]](https://medium.com/@GeraldoBastos/qual-a-melhor-arquitetura-para-aplicações-ios-mvc-3b436cbcd36b)
 - [Qual a melhor arquitetura para aplicações iOS? MVVM? - Geraldo Bastos [🇧🇷]](https://medium.com/@GeraldoBastos/parte-2-qual-a-melhor-arquitetura-para-aplicações-ios-mvvm-803f09cbd989)
 - [Arquitetura MVVM - Pomo Docs [🇧🇷]](https://unbarqdsw.github.io/2020.1_G6_Pomo/arquitetura-e-reutilizacao/arquitetura/mvvm/)
+- [Arquitetura Limpa (CLEAN) - Rayana Prata [🇧🇷]](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
+- [Benefícios mais comuns entre arquiteturas iOS - Yasmin Benatti [🇧🇷]](https://medium.com/ifood-tech/benefícios-mais-comuns-entre-arquiteturas-ios-e295439c4f84)
+- [Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS - Ícaro Lima [🇧🇷]](https://repositorio.ufpb.br/jspui/bitstream/123456789/15651/1/ILM12122018.pdf)
+- [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
+- [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
+- [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
+
+### Padrões de Projeto
+
+- [Protocol Delegate em Swift - Cassia Barbosa [🇧🇷]](https://medium.com/mackmobile/protocol-delegate-em-swift-5f521e19ca56)
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
 - [Um pouco sobre injeção de dependência em iOS - Victor Brito [🇧🇷]](https://victorbritodev.medium.com/um-pouco-sobre-injeção-de-dependência-em-ios-a1b0f536b05c)
-- [Benefícios mais comuns entre arquiteturas iOS - Yasmin Benatti [🇧🇷]](https://medium.com/ifood-tech/benefícios-mais-comuns-entre-arquiteturas-ios-e295439c4f84)
-- [Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS - Ícaro Lima [🇧🇷]](https://repositorio.ufpb.br/jspui/bitstream/123456789/15651/1/ILM12122018.pdf)
-- [Arquitetura Limpa (CLEAN) - Rayana Prata [🇧🇷]](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
-- [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
-- [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
-- [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
 
 ### Interface
 
@@ -122,6 +127,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 #### ViewCode
 
+- [View Code em Swift - Cassia Barbosa [🇧🇷]](https://medium.com/mackmobile/view-code-em-swift-6026f42bf780)
 - [Implementando interfaces iOS em View Code - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93)
 - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
 - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
