@@ -41,7 +41,7 @@ class LinksTest : XCTestCase {
                     continue
                 }
 
-                if !ignoreList.allSatisfy { !link.contains($0) } {               
+                if (!ignoreList.allSatisfy { !link.contains($0) }) {               
                     self.queue.removeAll { $0 == link }
                     continue
                 }
