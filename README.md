@@ -53,7 +53,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Tutoriais
 
-- [Como desenvolver seu próprio gerador de senha no iOS - Victor Catão [🇧🇷]](https://medium.com/@victorcatao/como-desenvolver-seu-pr%C3%B3prio-gerador-de-senha-no-ios-d538f27236dd)
+- [Como desenvolver seu próprio gerador de senha no iOS - Victor Catão [🇧🇷]](https://medium.com/victorcatao/como-desenvolver-seu-pr%C3%B3prio-gerador-de-senha-no-ios-d538f27236dd)
 - [🎬 Xcode: Como criar um aplicativo iOS do zero (para iniciantes) - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=t8JI3Ur51zY)
 - [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
 - [iOS App Dev Tutorials - Apple](https://developer.apple.com/tutorials/app-dev-training)
@@ -70,24 +70,24 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-opcionais-swift)
 - [Optional em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/optionals-em-swift-4lh0)
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
-- [Entendendo [weak self] no Swift - Jonatan Medina [🇧🇷]](https://medium.com/@jonatanm89/entendendo-weak-self-no-swift-2ba061326504)
+- [Entendendo [weak self] no Swift - Jonatan Medina [🇧🇷]](https://medium.com/jonatanm89/entendendo-weak-self-no-swift-2ba061326504)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
 - [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
 - [🎬 Como trabalhar com Closures - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=Lkv4bYzuH_Y)
 - [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 - [Gerenciamento de memória no iOS — weak, strong e unowned - Décio Montanhani [🇧🇷]](https://deciomontanhani.com.br/gerenciamento-de-memoria/)
-- [Desmistificando a programação orientada a protocolos - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/desmistificando-a-pop-2555d8335fb5)
-- [Você sabe o que são Property Wrappers? Parte 1 - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063)
-- [Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda [🇧🇷]](https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b)
-- [Timer — Manipulando o tempo utilizando o Timer(iOS) - Vinicius Mangueira [🇧🇷]](https://medium.com/@viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80)
+- [Desmistificando a programação orientada a protocolos - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/desmistificando-a-pop-2555d8335fb5)
+- [Você sabe o que são Property Wrappers? Parte 1 - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063)
+- [Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b)
+- [Timer — Manipulando o tempo utilizando o Timer(iOS) - Vinicius Mangueira [🇧🇷]](https://medium.com/viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80)
 
 ### Arquiteturas
 
 - [As 5 arquiteturas iOS mais utilizadas - Zup [🇧🇷]](https://www.zup.com.br/blog/5-arquiteturas-ios-mais-utilizadas)
 - [Principais arquiteturas para aplicações iOS - Objective [🇧🇷]](https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/)
 - [Entendendo os padrões de modelagem MVC, MVP e MVVM - ENG [🇧🇷]](https://www.eng.com.br/artigo.cfm?id=6338&post=ios-swift-entendendo-os-padroes-de-modelagem-mvc,-mvp-e-o-mvvm)
-- [Qual a melhor arquitetura para aplicações iOS? MVC? - Geraldo Bastos [🇧🇷]](https://medium.com/@GeraldoBastos/qual-a-melhor-arquitetura-para-aplicações-ios-mvc-3b436cbcd36b)
-- [Qual a melhor arquitetura para aplicações iOS? MVVM? - Geraldo Bastos [🇧🇷]](https://medium.com/@GeraldoBastos/parte-2-qual-a-melhor-arquitetura-para-aplicações-ios-mvvm-803f09cbd989)
+- [Qual a melhor arquitetura para aplicações iOS? MVC? - Geraldo Bastos [🇧🇷]](https://medium.com/GeraldoBastos/qual-a-melhor-arquitetura-para-aplicações-ios-mvc-3b436cbcd36b)
+- [Qual a melhor arquitetura para aplicações iOS? MVVM? - Geraldo Bastos [🇧🇷]](https://medium.com/GeraldoBastos/parte-2-qual-a-melhor-arquitetura-para-aplicações-ios-mvvm-803f09cbd989)
 - [Arquitetura MVVM - Pomo Docs [🇧🇷]](https://unbarqdsw.github.io/2020.1_G6_Pomo/arquitetura-e-reutilizacao/arquitetura/mvvm/)
 - [Arquitetura Limpa (CLEAN) - Rayana Prata [🇧🇷]](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
 - [Benefícios mais comuns entre arquiteturas iOS - Yasmin Benatti [🇧🇷]](https://medium.com/ifood-tech/benefícios-mais-comuns-entre-arquiteturas-ios-e295439c4f84)
@@ -115,7 +115,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 #### SwiftUI
 
-- [Aprendendo SwiftUI: O Caminho das pedras - Kakau Fonseca [🇧🇷]](https://medium.com/nossa-coletividad/aprendendo-swiftui-o-caminho-das-pedras-89dc41ec1ce1)
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
 - [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
@@ -131,9 +130,9 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [View Code em Swift - Cassia Barbosa [🇧🇷]](https://medium.com/mackmobile/view-code-em-swift-6026f42bf780)
 - [Implementando interfaces iOS em View Code - ioasys-voices [🇧🇷]](https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93)
-- [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
+- [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
 - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
-- [Como começar com ViewCode no iOS - João Alexandre [🇧🇷]](https://medium.com/@joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
+- [Como começar com ViewCode no iOS - João Alexandre [🇧🇷]](https://medium.com/joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
 - [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
 - [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
 - [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
@@ -150,7 +149,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Networking
 
-- [Async/Await: Camada Network genérica com Swift 5.5 - Victor Catão [🇧🇷]](https://medium.com/@victorcatao/async-await-camada-network-gen%C3%A9rica-com-swift-5-5-18aa8f177c9c)
+- [Async/Await: Camada Network genérica com Swift 5.5 - Victor Catão [🇧🇷]](https://medium.com/victorcatao/async-await-camada-network-gen%C3%A9rica-com-swift-5-5-18aa8f177c9c)
 - [Usando Codables em Swift 5 para consumir uma API de filmes - Lucas Fernandez [🇧🇷]](https://medium.com/mackmobile/usando-codables-em-swift-5-para-consumir-uma-api-de-filmes-356534e7e1f0)
 - [Como fazer um GET em Swift 4.2 - Gois [🇧🇷]](https://medium.com/mackmobile/como-fazer-um-get-em-swift-4-2-4acc53854241)
 - [Consumindo API com SwiftUI - Tamara Erlij [🇧🇷]](https://medium.com/zeroeumas/consumindo-api-com-swiftui-285dd055fb1a)
@@ -180,14 +179,14 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 ### Segurança
 
 - [Segurança em dispositivos iOS - Daiane Santos [🇧🇷]](https://wh0isdxk.medium.com/seguran%C3%A7a-em-dispositivos-ios-a422840b71a2)
-- [Criptografia para dispositivos iOS - Vinicius Mangueira [🇧🇷]](https://medium.com/@viniciusmangueira/criptografia-para-dispositivos-ios-ca840639ee10)
+- [Criptografia para dispositivos iOS - Vinicius Mangueira [🇧🇷]](https://medium.com/viniciusmangueira/criptografia-para-dispositivos-ios-ca840639ee10)
 - [Defesas anti-reversão para iOS](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06j-testing-resiliency-against-reverse-engineering)
 - [SSL Pinning - Flawless App Stories](https://medium.com/flawless-app-stories/ssl-pinning-254fa8ca2109)
 
 ### Acessibilidade
 
 - [Acessibilidade no iOS — Introdução - Vinicius França [🇧🇷]](https://viniciusfranca.dev/acessibilidade-no-ios-introdu%C3%A7%C3%A3o-d3b92cfde122)
-- [Tornando o seu app acessível por todos no iOS - Gustavo Severo [🇧🇷]](https://medium.com/@GusSevero/tornando-o-seu-app-acess%C3%ADvel-por-todos-e93c1aa2ad9d)
+- [Tornando o seu app acessível por todos no iOS - Gustavo Severo [🇧🇷]](https://medium.com/GusSevero/tornando-o-seu-app-acess%C3%ADvel-por-todos-e93c1aa2ad9d)
 - [Voice Over - Acessibilidade em iOS - Renan Germano [🇧🇷]](https://medium.com/mackmobile/voice-over-66e2a051f157)
 
 ### Testes
@@ -203,7 +202,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Utilidades
 
-- [Swift Lint - Vinicius Mangueira [🇧🇷]](https://medium.com/@viniciusmangueira/swift-lint-3b869261cf48)
+- [Swift Lint - Vinicius Mangueira [🇧🇷]](https://medium.com/viniciusmangueira/swift-lint-3b869261cf48)
 - [Formatação de data - NSDateFormatter](https://nsdateformatter.com/)
 - [Linting - SwiftLint](https://realm.github.io/SwiftLint/)
 
