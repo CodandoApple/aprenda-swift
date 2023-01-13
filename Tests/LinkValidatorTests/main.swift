@@ -9,6 +9,7 @@ class LinksTest : XCTestCase {
     let urlSession = URLSession(configuration: .ephemeral)
     var triesCount: [String:Int] = [:]
     var regex: NSRegularExpression?
+    let ignoreList = ["medium.com", "instagram.com"]
     
     override func setUp() {
         do {
@@ -37,6 +38,11 @@ class LinksTest : XCTestCase {
                         debugPrint("O link \(first) apresentou algum problema e não pode ser validado")
                         removeFailedURL(link: first)
                     }
+                    continue
+                }
+
+                if !ignoreList.allSatisfy { !link.contains($0) } {               
+                    self.queue.removeAll { $0 == link }
                     continue
                 }
 
