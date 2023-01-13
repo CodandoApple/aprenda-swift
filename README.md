@@ -101,7 +101,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Protocol Delegate em Swift - Cassia Barbosa [🇧🇷]](https://medium.com/mackmobile/protocol-delegate-em-swift-5f521e19ca56)
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
-- [Injeção de Dependências em Swift - Yasmin Benatti [🇧🇷]](https://yasminbenatti.com/2018/10/25/injecao-de-dependencias-em-swift/)
 - [Um pouco sobre injeção de dependência em iOS - Victor Brito [🇧🇷]](https://victorbritodev.medium.com/um-pouco-sobre-injeção-de-dependência-em-ios-a1b0f536b05c)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
@@ -196,6 +195,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Testes unitários em Swift com MVVM - SoftDesign [🇧🇷]](https://softdesign.com.br/blog/testes-unitarios-em-swift-com-mvvm)
 - [Testes automatizados com XCTest Framework para teste de app iOS - Amanda Lacerda [🇧🇷]](https://www.linkedin.com/pulse/start-testes-automatizados-com-xctest-framework-para-de-lacerda/?originalSubdomain=pt)
 - [Test Doubles em Swift (Ou o isolamento de testes unitários) - Matheus de Vasconcelos [🇧🇷]](https://medium.com/digitalproductsdev/test-doubles-swift-cd43372eb45e)
+- [iOS Tests 101 - Yasmin Benatti [🇧🇷]](https://medium.com/ifood-tech/ios-tests-101-c078505e2200)
 - [🎬 Automação de testes NATIVA para iOS com XCUITest - qazando [🇧🇷]](https://www.youtube.com/watch?v=-JyD2EMRxVA)
 
 ## Ferramentas e Recursos
