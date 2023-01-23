@@ -73,13 +73,14 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Entendendo [weak self] no Swift - Jonatan Medina [🇧🇷]](https://medium.com/jonatanm89/entendendo-weak-self-no-swift-2ba061326504)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
 - [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
-- [🎬 Como trabalhar com Closures - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=Lkv4bYzuH_Y)
-- [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 - [Gerenciamento de memória no iOS — weak, strong e unowned - Décio Montanhani [🇧🇷]](https://deciomontanhani.com.br/gerenciamento-de-memoria/)
 - [Desmistificando a programação orientada a protocolos - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/desmistificando-a-pop-2555d8335fb5)
 - [Você sabe o que são Property Wrappers? Parte 1 - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063)
 - [Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b)
 - [Timer — Manipulando o tempo utilizando o Timer(iOS) - Vinicius Mangueira [🇧🇷]](https://medium.com/viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80)
+- [🎬 Automatizando a detecção de vazamento de memória - Comitando [🇧🇷]](https://www.youtube.com/watch?v=Zxo2p1MpkI4)
+- [🎬 Como trabalhar com Closures - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=Lkv4bYzuH_Y)
+- [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 
 ### Arquiteturas
 
@@ -94,6 +95,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS - Ícaro Lima [🇧🇷]](https://repositorio.ufpb.br/jspui/bitstream/123456789/15651/1/ILM12122018.pdf)
 - [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
 - [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
+- [Implementando arquitetura MVP - Comitando [🇧🇷]](https://www.youtube.com/watch?v=8hhxrV19Rr8)
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
 
 ### Padrões de Projeto
