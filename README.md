@@ -228,7 +228,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [iOS Dev Weekly](https://iosdevweekly.com)
 - [Create with Swift](https://createwithswift.com)
 - [Awesome iOS](https://awesome-ios.readthedocs.io/en/latest/)
-- [Yet Another Swift Blog](https://www.vadimbulavin.com/)
 - [The Swift Dev](https://theswiftdev.com/)
 - [Holy Swift](https://holyswift.app/)
 - [Swift with Majid](https://swiftwithmajid.com/)
