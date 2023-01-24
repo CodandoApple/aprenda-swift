@@ -236,6 +236,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Swift by Sundell](https://www.swiftbysundell.com/)
 - [WWDC Notes](https://wwdcnotes.com)
 - [SwiftLee](https://www.avanderlee.com/)
+- [Yet Another Swift Blog](https://www.vadimbulavin.com/)
 
 ## Livros
 
@@ -318,12 +319,14 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 
 ## Comunidades
+
 - [NSFlow - Telegram](https://t.me/nsflowbr)
 - [iOS DevDrops - Telegram](https://t.me/iosdrops)
 - [iOS Dev BR - Slack](https://iosdevbr.slack.com/)
 - [iOS Brasil - Discord](https://discord.com/invite/tPT3GYAMa6)
 
 ## Canais no Telegram
+
 - [iOS dev](https://t.me/iosdevio)
 
 ## Instagram
