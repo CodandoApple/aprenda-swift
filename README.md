@@ -54,18 +54,17 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 ### Tutoriais
 
 - [Como desenvolver seu próprio gerador de senha no iOS - Victor Catão [🇧🇷]](https://medium.com/victorcatao/como-desenvolver-seu-pr%C3%B3prio-gerador-de-senha-no-ios-d538f27236dd)
-- [🎬 Xcode: Como criar um aplicativo iOS do zero (para iniciantes) - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=t8JI3Ur51zY)
-- [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
 - [iOS App Dev Tutorials - Apple](https://developer.apple.com/tutorials/app-dev-training)
 - [SwifUI Tutorial - Apple](https://developer.apple.com/tutorials/swiftui)
 - [100 Days of Swift with UIKit - HackingWithSwift](https://www.hackingwithswift.com/100)
 - [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
+- [🎬 Xcode: Como criar um aplicativo iOS do zero (para iniciantes) - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=t8JI3Ur51zY)
+- [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
 
 ### Linguagem
 
 - [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
-- [🎬 Struct ou Class, pra que serve? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
 - [Propriedades em Swift - Pedro Menezes [🇧🇷]](https://pt.linkedin.com/pulse/propriedades-em-swift-pedro-menezes-/)
 - [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-opcionais-swift)
 - [Optional em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/optionals-em-swift-4lh0)
@@ -81,6 +80,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Automatizando a detecção de vazamento de memória - Comitando [🇧🇷]](https://www.youtube.com/watch?v=Zxo2p1MpkI4)
 - [🎬 Como trabalhar com Closures - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=Lkv4bYzuH_Y)
 - [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
+- [🎬 Struct ou Class, pra que serve? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
 
 ### Arquiteturas
 
@@ -93,10 +93,10 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Arquitetura Limpa (CLEAN) - Rayana Prata [🇧🇷]](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
 - [Benefícios mais comuns entre arquiteturas iOS - Yasmin Benatti [🇧🇷]](https://medium.com/ifood-tech/benefícios-mais-comuns-entre-arquiteturas-ios-e295439c4f84)
 - [Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS - Ícaro Lima [🇧🇷]](https://repositorio.ufpb.br/jspui/bitstream/123456789/15651/1/ILM12122018.pdf)
-- [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
-- [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
 - [Implementando arquitetura MVP - Comitando [🇧🇷]](https://www.youtube.com/watch?v=8hhxrV19Rr8)
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
+- [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
+- [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
 
 ### Padrões de Projeto
 
@@ -117,15 +117,15 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 #### SwiftUI
 
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
-- [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
+- [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
 
 #### Storyboard
 
 - [Desmistificando Storyboards - equinociOS [🇧🇷]](http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/)
 - [UIKKit, Storyboard e Padrão delegate - Ândriu Felipe [🇧🇷]](https://www.alura.com.br/conteudo/swift-uikit-storyboard)
+- [Storyboard - Kodeco](https://www.kodeco.com/5055364-ios-storyboards-getting-started)
 - [🎬 Como criar um app iOS usando Storyboard - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=hWA1WmjkxJU)
-- [Storyboard - Ray Wenderlich](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
 #### ViewCode
 
@@ -134,9 +134,9 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
 - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
 - [Como começar com ViewCode no iOS - João Alexandre [🇧🇷]](https://medium.com/joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
+- [ViewCode + AutoLayout - Kodeco](https://www.kodeco.com/6004856-building-an-app-with-only-code-using-auto-layout)
+- [ViewCode + SnapKit - Kodeco](https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 - [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
-- [ViewCode + AutoLayout - Ray Wenderlich](https://www.raywenderlich.com/6004856-building-an-app-with-only-code-using-auto-layout)
-- [ViewCode + SnapKit - Ray Wenderlich](https://www.raywenderlich.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 
 #### UIKit
 
@@ -154,8 +154,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Usando Codables em Swift 5 para consumir uma API de filmes - Lucas Fernandez [🇧🇷]](https://medium.com/mackmobile/usando-codables-em-swift-5-para-consumir-uma-api-de-filmes-356534e7e1f0)
 - [Como fazer um GET em Swift 4.2 - Gois [🇧🇷]](https://medium.com/mackmobile/como-fazer-um-get-em-swift-4-2-4acc53854241)
 - [Consumindo API com SwiftUI - Tamara Erlij [🇧🇷]](https://medium.com/zeroeumas/consumindo-api-com-swiftui-285dd055fb1a)
-- [🎬 Consumindo dados de uma API em Swift - Pedro Cacique [🇧🇷]](https://www.youtube.com/watch?v=nnBYugt3msA)
 - [🎬 Buscando dados da API de forma SIMPLES - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=osLMXdyC1mc)
+- [🎬 Consumindo dados de uma API em Swift - Pedro Cacique [🇧🇷]](https://www.youtube.com/watch?v=nnBYugt3msA)
 
 ### Gerenciamento de Dependências
 
@@ -242,7 +242,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - Desenvolvendo para iPhone e iPad - Ricardo R. Lecheta
 - Swift in Depth - Tjeerd in 't Veen
 - Mastering Swift 5 - Jon Hoffman
-- [Livros Raywenderlich, vários níveis e tópicos](https://www.raywenderlich.com/ios/books)
+- [Livros Kodeco, vários níveis e tópicos](https://www.kodeco.com/ios/books)
 - [Swift Book em Português(em tradução)](https://github.com/AcademyIFCE/Swift-Book)
 
 ## Canais no Youtube
