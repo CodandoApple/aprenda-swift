@@ -97,6 +97,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [iOS Architecture: MVVM-C](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
 - [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
 - [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
+- [🎬 Aproximando Arquiteturas do Negócio - Bruno Ramos [🇧🇷]](https://www.youtube.com/watch?v=eXvzhPJEbtM)
 
 ### Padrões de Projeto
 
