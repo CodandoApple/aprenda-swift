@@ -202,7 +202,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [iOS Tests 101 - Yasmin Benatti [🇧🇷]](https://medium.com/ifood-tech/ios-tests-101-c078505e2200)
 - [🎬 Automação de testes NATIVA para iOS com XCUITest - qazando [🇧🇷]](https://www.youtube.com/watch?v=-JyD2EMRxVA)
 - [🎬 Lidando com FileManager em testes unitários - Comitando [🇧🇷]](https://www.youtube.com/watch?v=0i1y2Kmzkj4)
-- [🎬 Escrevendo testes de UI - Comitando](https://www.youtube.com/watch?v=E1P2O303aqo)
+- [🎬 Escrevendo testes de UI - Comitando [🇧🇷]](https://www.youtube.com/watch?v=E1P2O303aqo)
 
 ## Ferramentas e Recursos
 
