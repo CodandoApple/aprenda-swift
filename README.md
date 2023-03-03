@@ -138,6 +138,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [ViewCode + AutoLayout - Kodeco](https://www.kodeco.com/6004856-building-an-app-with-only-code-using-auto-layout)
 - [ViewCode + SnapKit - Kodeco](https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 - [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
+- [🎬 Como funciona a UIStackView - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=TXhhjihouTg)
 
 #### UIKit
 
