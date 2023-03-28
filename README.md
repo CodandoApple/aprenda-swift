@@ -84,6 +84,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Como trabalhar com Closures - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=Lkv4bYzuH_Y)
 - [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 - [🎬 Struct ou Class, pra que serve? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
+- [🎬 Lazy Var e Computed Properties - Qual a diferença? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=NXNhAAWncT8)
 
 ### Arquiteturas
 
