@@ -84,6 +84,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Como trabalhar com Closures - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=Lkv4bYzuH_Y)
 - [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 - [🎬 Struct ou Class, pra que serve? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
+- [🎬 Lazy Var e Computed Properties - Qual a diferença? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=NXNhAAWncT8)
 
 ### Arquiteturas
 
@@ -101,6 +102,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
 - [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
 - [🎬 Aproximando Arquiteturas do Negócio - Bruno Ramos [🇧🇷]](https://www.youtube.com/watch?v=eXvzhPJEbtM)
+- [🎬 Como montar o MVVM no Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=wI2194K99xU)
 
 ### Padrões de Projeto
 
