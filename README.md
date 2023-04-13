@@ -63,13 +63,13 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Linguagem
 
-- [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm)
+- [Variáveis e Constantes em Swift - ReisDev [🇧🇷]](https://blog.reisdev.com.br/variaveis-e-constantes-em-swift)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
 - [Uso de Struct e Class em Swift - Amanda Paiva [🇧🇷]](https://medium.com/@amandakpaiva/uso-de-struct-e-class-em-swift-10b2430ad578)
 - [Protocolos em Swift: Uma abordagem didática - Caio Santos  [🇧🇷]](https://medium.com/@caio.santos/protolocos-em-swift-uma-abordagem-didática-5f032ec8bc54)
 - [Propriedades em Swift - Pedro Menezes [🇧🇷]](https://pt.linkedin.com/pulse/propriedades-em-swift-pedro-menezes-/)
 - [Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-opcionais-swift)
-- [Optional em Swift - ReisDev [🇧🇷]](https://dev.to/reisdev/optionals-em-swift-4lh0)
+- [Optional em Swift - ReisDev [🇧🇷]](https://blog.reisdev.com.br/optional-em-swift)
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
 - [Entendendo [weak self] no Swift - Jonatan Medina [🇧🇷]](https://medium.com/jonatanm89/entendendo-weak-self-no-swift-2ba061326504)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
