@@ -74,6 +74,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Entendendo [weak self] no Swift - Jonatan Medina [🇧🇷]](https://medium.com/jonatanm89/entendendo-weak-self-no-swift-2ba061326504)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
 - [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
+- [Decodificando JSON com Swift 4 - Mateus Silva [🇧🇷]](https://mateusfsilvablog.wordpress.com/2018/03/02/decodificando-json-com-swift-4/)
+- [Decodificando JSON com Swift 4 (parte 2) - Mateus Silva [🇧🇷]](https://mateusfsilvablog.wordpress.com/2018/03/05/decodificando-json-com-swift-4-parte-2/)
 - [Gerenciamento de memória no iOS — weak, strong e unowned - Décio Montanhani [🇧🇷]](https://deciomontanhani.com.br/gerenciamento-de-memoria/)
 - [Desmistificando a programação orientada a protocolos - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/desmistificando-a-pop-2555d8335fb5)
 - [Você sabe o que são Property Wrappers? Parte 1 - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063)
