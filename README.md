@@ -319,6 +319,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ## Cursos pagos
 
+- [Curso Carreira iOS - Comitando [🇧🇷]](https://comitando.com.br/)
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/curso-online-swift-ui)
 - [The Complete iOS Development Bootcamp - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)
