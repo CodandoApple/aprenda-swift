@@ -60,6 +60,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [100 Days of Swift with SwiftUI - HackingWithSwift](https://www.hackingwithswift.com/100/swiftui)
 - [🎬 Xcode: Como criar um aplicativo iOS do zero (para iniciantes) - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=t8JI3Ur51zY)
 - [🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=bXF6KMJFwSE)
+- [Criação de Apps para iOS com SWIFT 2023](https://www.youtube.com/playlist?list=PL50rZONmv8ZSJ2M6PpPMcOawgE32ke_9_)
 
 ### Linguagem
 
