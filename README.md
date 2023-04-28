@@ -129,6 +129,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 - [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
+- [Hacking with iOS: SwiftUI Edition](https://www.youtube.com/playlist?list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr)
 
 #### Storyboard
 
