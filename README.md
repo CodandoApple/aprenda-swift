@@ -196,7 +196,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Acessibilidade
 
-- [Acessibilidade no iOS — Introdução - Vinicius França [🇧🇷]](https://viniciusfranca.dev/acessibilidade-no-ios-introdu%C3%A7%C3%A3o-d3b92cfde122)
 - [Tornando o seu app acessível por todos no iOS - Gustavo Severo [🇧🇷]](https://medium.com/GusSevero/tornando-o-seu-app-acess%C3%ADvel-por-todos-e93c1aa2ad9d)
 - [Voice Over - Acessibilidade em iOS - Renan Germano [🇧🇷]](https://medium.com/mackmobile/voice-over-66e2a051f157)
 
