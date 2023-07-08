@@ -106,6 +106,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]](https://www.youtube.com/watch?v=ACDWM-49PQw)
 - [🎬 Aproximando Arquiteturas do Negócio - Bruno Ramos [🇧🇷]](https://www.youtube.com/watch?v=eXvzhPJEbtM)
 - [🎬 Como montar o MVVM no Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=wI2194K99xU)
+- [🎬 Migrando tela de MVC para VIP - Comitando [🇧🇷]](https://youtube.com/watch?v=0T2gZWNAX7E)
 
 ### Padrões de Projeto
 
