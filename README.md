@@ -126,9 +126,16 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 #### SwiftUI
 
+- [SwiftUI irá substituir o Swift? - Cassiane de Freitas [🇧🇷]](https://medium.com/xp-inc/swiftui-irá-substituir-o-swift-5dd45f2b8447)
+- [SwiftUI: dicas para quem quer começar a desenvolver - Arthur Givigir [🇧🇷]](https://arthurgivigir.medium.com/swiftui-dicas-para-quem-quer-começar-a-desenvolver-f51f662d5825)
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/conteudo/swift-ui)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 - [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
+- [🎬 Introdução Ao SwiftUI - Como Criar O Primeiro Aplicativo [Ponta-a-Ponta] - Irmandade Swift [🇧🇷]](https://www.youtube.com/watch?v=rJWTcNj7rg4)
+- [🎬 SwiftUI: Como começar do zero no desenvolvimento iOS moderno - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=I292IhjRV7k)
+- [🎬 Aprenda a criar apps nativos de iPhone no Xcode | Guia Completo: SwiftUI - Irmandade Swift [🇧🇷]](https://www.youtube.com/watch?v=CIGkaLyG-Wg)
+- [🎬 SwiftUI: Animações no iOS - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=k6zgW9yIPCE)
+- [🎬 Como Criar Um Aplicativo iOS no Xcode (Super Simples!) | SwiftUI Tutorial - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=Gt75k60tMjc)
 - [Hacking with iOS: SwiftUI Edition](https://www.youtube.com/playlist?list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr)
 
 #### Storyboard
@@ -325,6 +332,11 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 - [Curso Carreira iOS - Comitando [🇧🇷]](https://comitando.com.br/)
 - [Layouts com SwiftUI - Alura [🇧🇷]](https://www.alura.com.br/curso-online-swift-ui)
+- [Curso Completo Desenvolvimento iOS 11 Swift 4 - Eric Brito [🇧🇷]](https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4/)
+- [Desenvolvimento de Aplicativos iOS12 em Swift4 - Rodrigo Guimarães [🇧🇷]](https://www.udemy.com/course/crie-aplicativos-para-iphone-e-ipad-com-ios11-e-swift4/)
+- [Swift - TDD, Clean Architecture, Design Patterns, SOLID, MVP - Rodrigo Manguinho [🇧🇷]](https://www.udemy.com/course/swift-tdd-com-mango/)
+- [Desenvolvimento IOS 12 - Aprenda a criar 18 Apps - Jamilton Damasceno [🇧🇷]](https://www.udemy.com/course/curso-desenvolvimento-ios/)
+- [Desenvolvedor iOS: Prepare-se para o Mercado de Trabalho - Wellignton Bezerra [🇧🇷]](https://www.udemy.com/course/desenvolvimento-ios/)
 - [The Complete iOS Development Bootcamp - Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 - [Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)
 
@@ -335,7 +347,6 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Mobile Developer Roadmap - Jung Kim](https://github.com/godrm/mobile-developer-roadmap)
 - [iOS Developer Skills Matrix - Bohdan Orlov](https://medium.com/ios-os-x-development/find-the-image-and-markdown-version-on-github-fee807255235)
 - [iOS Roadmap to Professional Developer](https://www.youtube.com/watch?v=pbhLZMVBlp0)
-
 
 ## Comunidades
 
