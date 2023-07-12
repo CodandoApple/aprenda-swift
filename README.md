@@ -133,9 +133,9 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]](https://www.youtube.com/watch?v=4eC49rYeugs)
 - [🎬 Introdução Ao SwiftUI - Como Criar O Primeiro Aplicativo [Ponta-a-Ponta] - Irmandade Swift [🇧🇷]](https://www.youtube.com/watch?v=rJWTcNj7rg4)
 - [🎬 SwiftUI: Como começar do zero no desenvolvimento iOS moderno - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=I292IhjRV7k)
-- [🎬 Aprenda a criar apps nativos de iPhone no Xcode | Guia Completo: SwiftUI - Irmandade Swift [🇧🇷]](https://www.youtube.com/watch?v=CIGkaLyG-Wg)
+- [🎬 Aprenda a criar apps nativos de iPhone no Xcode - Guia Completo: SwiftUI - Irmandade Swift [🇧🇷]](https://www.youtube.com/watch?v=CIGkaLyG-Wg)
 - [🎬 SwiftUI: Animações no iOS - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=k6zgW9yIPCE)
-- [🎬 Como Criar Um Aplicativo iOS no Xcode (Super Simples!) | SwiftUI Tutorial - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=Gt75k60tMjc)
+- [🎬 Como Criar Um Aplicativo iOS no Xcode (Super Simples!) - SwiftUI Tutorial - Tiago Aguiar [🇧🇷]](https://www.youtube.com/watch?v=Gt75k60tMjc)
 - [Hacking with iOS: SwiftUI Edition](https://www.youtube.com/playlist?list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr)
 
 #### Storyboard
