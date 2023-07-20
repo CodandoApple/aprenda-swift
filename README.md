@@ -107,6 +107,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Aproximando Arquiteturas do Negócio - Bruno Ramos [🇧🇷]](https://www.youtube.com/watch?v=eXvzhPJEbtM)
 - [🎬 Como montar o MVVM no Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=wI2194K99xU)
 - [🎬 Migrando tela de MVC para VIP - Comitando [🇧🇷]](https://youtube.com/watch?v=0T2gZWNAX7E)
+- [🎬 Aplicando MVVM - Pedro Lagosta [🇧🇷]](https://www.youtube.com/watch?v=kdCkpLqSceI&t=1516s)
 
 ### Padrões de Projeto
 
@@ -114,6 +115,9 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
 - [Um pouco sobre injeção de dependência em iOS - Victor Brito [🇧🇷]](https://victorbritodev.medium.com/um-pouco-sobre-injeção-de-dependência-em-ios-a1b0f536b05c)
+- [🎬 Aplicando Delegate Pattern - Pedro Lagosta [🇧🇷]](https://www.youtube.com/watch?v=bGFAcNwN9ps)
+- [🎬 Criando Coordinator - Pedro Lagosta [🇧🇷]](https://www.youtube.com/watch?v=iGMJRA0y_3E)
+- [🎬 Usando pop, injeção de dependência e Factory - Pedro Lagosta [🇧🇷]](https://www.youtube.com/watch?v=DA8LBPxx9n8)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 
@@ -221,6 +225,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Automação de testes NATIVA para iOS com XCUITest - qazando [🇧🇷]](https://www.youtube.com/watch?v=-JyD2EMRxVA)
 - [🎬 Lidando com FileManager em testes unitários - Comitando [🇧🇷]](https://www.youtube.com/watch?v=0i1y2Kmzkj4)
 - [🎬 Escrevendo testes de UI - Comitando [🇧🇷]](https://www.youtube.com/watch?v=E1P2O303aqo)
+- [🎬 Criando Testes Unitários - Pedro Lagosta [🇧🇷]](https://www.youtube.com/watch?v=ZZ54oJh1uKI)
+- [🎬 Criando Testes Unitários na prática - Pedro Lagosta [🇧🇷]](https://www.youtube.com/watch?v=sQzgW-dWpvU)
 
 ## Ferramentas e Recursos
 
