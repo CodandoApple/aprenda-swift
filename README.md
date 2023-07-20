@@ -72,6 +72,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
 - [Entendendo [weak self] no Swift - Jonatan Medina [🇧🇷]](https://medium.com/jonatanm89/entendendo-weak-self-no-swift-2ba061326504)
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
+- [Como decodificar JSON em Swift - ReisDev [🇧🇷]](https://blog.reisdev.com.br/como-decodificar-json-em-swift)
 - [Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]](https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable)
 - [Decodificando JSON com Swift 4 - Mateus Silva [🇧🇷]](https://mateusfsilvablog.wordpress.com/2018/03/02/decodificando-json-com-swift-4/)
 - [Decodificando JSON com Swift 4 (parte 2) - Mateus Silva [🇧🇷]](https://mateusfsilvablog.wordpress.com/2018/03/05/decodificando-json-com-swift-4-parte-2/)
@@ -180,6 +181,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Consumindo API com SwiftUI - Tamara Erlij [🇧🇷]](https://medium.com/zeroeumas/consumindo-api-com-swiftui-285dd055fb1a)
 - [🎬 Buscando dados da API de forma SIMPLES - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=osLMXdyC1mc)
 - [🎬 Consumindo dados de uma API em Swift - Pedro Cacique [🇧🇷]](https://www.youtube.com/watch?v=nnBYugt3msA)
+- [🎬 Criando camada Service - Pedro Lagosta [🇧🇷]](https://www.youtube.com/watch?v=y48vrEKeRBY)
 
 ### Gerenciamento de Dependências
 
