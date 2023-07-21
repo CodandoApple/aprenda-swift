@@ -158,6 +158,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]](https://medium.com/tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b)
 - [Com quantas views se faz uma App? - equinociOS [🇧🇷]](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/)
 - [Como começar com ViewCode no iOS - João Alexandre [🇧🇷]](https://medium.com/joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
+- [Como criar um app iOS em ViewCode - ReisDev [🇧🇷]](https://blog.reisdev.com.br/como-criar-um-app-ios-em-viewcode)
 - [ViewCode + AutoLayout - Kodeco](https://www.kodeco.com/6004856-building-an-app-with-only-code-using-auto-layout)
 - [ViewCode + SnapKit - Kodeco](https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 - [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
