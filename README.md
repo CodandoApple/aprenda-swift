@@ -82,6 +82,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda [🇧🇷]](https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b)
 - [Timer — Manipulando o tempo utilizando o Timer(iOS) - Vinicius Mangueira [🇧🇷]](https://medium.com/viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80)
 - [Concorrência em iOS: A Teoria por Trás do Grand Central Dispatch - Laura Pinheiro [🇧🇷]](https://lauramarson.medium.com/concorrencia-em-ios-a-teoria-por-tras-do-grand-central-dispatch-38bfd3d8c0fe)
+- [Race Condition e Data Race: Criando Classes Threadsafe em Swift - Laura Pinheiro [🇧🇷]](https://lauramarson.medium.com/race-condition-e-data-race-criando-classes-threadsafe-em-swift-e65edcfe8d70)
 - [🎬 Automatizando a detecção de vazamento de memória - Comitando [🇧🇷]](https://www.youtube.com/watch?v=Zxo2p1MpkI4)
 - [🎬 Swift na prática: Uso de protocolos (Parte 1) - Comitando [🇧🇷]](https://youtu.be/FlB-DPN6TZM)
 - [🎬 Swift na prática: Uso de protocolos (Parte 2) - Comitando [🇧🇷]](https://youtu.be/WZVfZ355ez4)
