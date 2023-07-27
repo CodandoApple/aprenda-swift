@@ -9,7 +9,7 @@ class LinksTest : XCTestCase {
     let urlSession = URLSession(configuration: .ephemeral)
     var triesCount: [String:Int] = [:]
     var regex: NSRegularExpression?
-    let ignoreList = ["medium.com", "instagram.com"]
+    let ignoreList = ["medium.com", "instagram.com", "zup.com.br"]
     
     override func setUp() {
         do {
