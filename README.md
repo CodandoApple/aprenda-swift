@@ -164,6 +164,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [ViewCode + SnapKit - Kodeco](https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 - [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
 - [🎬 Como funciona a UIStackView - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=TXhhjihouTg)
+- [🎬 Como criar uma tela usando ViewCode  - Swift para todos [🇧🇷]](https://www.youtube.com/watch?v=iFzTBlRVH6s)
+- [🎬 Como criar componentes em Swift usando ViewCode - Swift para todos [🇧🇷]](https://www.youtube.com/watch?v=zSzxFlIumts)
 
 #### UIKit
 
@@ -196,6 +198,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Aprendendo CoreData com SwiftUI - Academy IFCE + Alley Pereira [🇧🇷]](https://medium.com/academy-ifce/aprendendo-coredata-com-swiftui-90c9d2159714)
 - [CoreData - Uma introdução à Persistência em iOS - Guilherme Paciulli [🇧🇷]](https://medium.com/mackmobile/coredata-940c3c61b048)
 - [Persistência de dados usando CoreData - equinociOS [🇧🇷]](http://equinocios.com/banco%20de%20dados/2017/03/30/persistencia-de-dados-usando-core-data/)
+- [🎬 Como utilizar o UserDefaults - Swift para Todos [🇧🇷]](https://www.youtube.com/watch?v=SvtBgqmqkpQ)
 
 ### Reatividade
 
@@ -293,6 +296,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Raphael Oliveira [🇧🇷]](https://www.youtube.com/rapholivera)
 - [Tiago Aguiar [🇧🇷]](https://www.youtube.com/c/TiagoAguiar/)
 - [Thais Sadami [🇧🇷]](https://www.youtube.com/ThaisSadami)
+- [Swift para todos [🇧🇷]](https://www.youtube.com/@Swiftparatodos)
 - [Credo Academy](https://www.youtube.com/c/CredoAcademy/)
 - [Essential Developer](https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA)
 - [iOS Academy](https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg)
