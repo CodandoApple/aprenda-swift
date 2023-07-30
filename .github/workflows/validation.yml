@@ -12,6 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build
+      working-directory: ./Actions/Validation
       run: swift build -v
     - name: Run tests
+      working-directory: ./Actions/Validation
       run: swift test -v
