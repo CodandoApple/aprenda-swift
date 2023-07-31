@@ -46,13 +46,11 @@ jobs:
           cd Book
           mdbook build
       - name: Generate artifact
+        id: upload
         uses: actions/upload-artifact@v3
         with:
           name: github-pages
           path: Book/book
-      - name: Upload artifact to Pages
-        id: upload
-        uses: actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:
@@ -60,7 +58,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: upload
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
