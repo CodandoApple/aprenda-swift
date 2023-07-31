@@ -52,7 +52,7 @@ jobs:
           name: github-pages
           path: Book/book
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@latest
+        uses: actions/upload-pages-artifact@v2
         with:
           path: .
 
