@@ -7,6 +7,7 @@ class LinksTest : XCTestCase {
     var queue: [String] = []
     var failures: [String] = []
     let urlSession = URLSession(configuration: .ephemeral)
+    var expectations: [XCTestExpectation] = []
     var triesCount: [String:Int] = [:]
     var regex: NSRegularExpression?
     let ignoreList = ["medium.com", "instagram.com", "zup.com.br"]
@@ -19,70 +20,58 @@ class LinksTest : XCTestCase {
         }
     }
     
-    func testLinks() throws {
+    func testLinks() async throws {
+        let text = try await LinkValidator.shared.fetchText()
         
-        do {
-            let text = try LinkValidator.shared.readFileText("README")
-            
-            XCTAssertNotNil(text, "Foi impossível ler o arquivo README.md")
-            XCTAssertGreaterThan(text.count, 0, "O arquivo está vazio")
-            
-            self.queue = extractLinksFromText(text)
-            
-            XCTAssertGreaterThan(queue.count, 0, "URLS não encontradas no arquivo")
-            
-            while !queue.isEmpty {
-
-                guard let link = queue.first , let url = URL(string: link) else {
-                    if let first = queue.first {
-                        debugPrint("O link \(first) apresentou algum problema e não pode ser validado")
-                        removeFailedURL(link: first)
-                    }
-                    continue
+        XCTAssertNotNil(text, "Foi impossível ler o arquivo README.md")
+        XCTAssertGreaterThan(text.count, 0, "O arquivo está vazio")
+        
+        self.queue = extractLinksFromText(text)
+        
+        XCTAssertGreaterThan(queue.count, 0, "URLS não encontradas no arquivo")
+        
+        while !queue.isEmpty {
+            guard let link = queue.first,
+                  let url = URL(string: link) else {
+                if let first = queue.first {
+                    debugPrint("O link \(first) apresentou algum problema e não pode ser validado")
+                    removeFailedURL(link: first)
                 }
-
-                if (!ignoreList.allSatisfy { !link.contains($0) }) {               
-                    self.queue.removeAll { $0 == link }
-                    continue
-                }
-
-                let expectation = XCTestExpectation(description: "Carregar a página \(link)")
-                
-                let task = urlSession.dataTask(with: url) { (data,response,error) in
-                    
-                    if let errorDescription = error?.localizedDescription {
-                        XCTFail("Ocorreu um erro ao acessar o link \(link): \(errorDescription)")
-                        self.removeFailedURL(link: link)
-                        return
-                    }
-                    
-                    if let count = self.triesCount[link] {
-                        if count < 3 {
-                            self.triesCount[link] = count + 1
-                        } else {
-                            self.removeFailedURL(link: link)
-                            XCTFail("Não foi possível validar a página \(link)")
-                            return
-                        }
-                    } else {
-                        self.triesCount[link] = 1
-                    }
-                    
-                    if let httpResponse = response as? HTTPURLResponse {
-                        XCTAssertTrue((200...299).contains(httpResponse.statusCode),"A página \(link) não está disponível")
-                        self.queue.removeAll { $0 == link }
-                    }
-                    expectation.fulfill()
-                }
-
-                task.resume()
-                wait(for: [expectation], timeout: 10.0)
+                continue
             }
-        } catch (let error) {
-            XCTFail(error.localizedDescription)
+            
+            if (!ignoreList.allSatisfy { !link.contains($0) }) {
+                queue.removeAll { $0 == link }
+                continue
+            }
+            
+            let expectation = XCTestExpectation(description: "Carregar a página \(link)")
+            expectations.append(expectation)
+            
+            let (_, response) = try await urlSession.data(from: url)
+            
+            if let count = triesCount[link] {
+                if count < 3 {
+                    triesCount[link] = count + 1
+                } else {
+                    removeFailedURL(link: link)
+                    XCTFail("Não foi possível validar a página \(link)")
+                    return
+                }
+            } else {
+                triesCount[link] = 1
+            }
+            
+            if let httpResponse = response as? HTTPURLResponse {
+                XCTAssertTrue((200...299).contains(httpResponse.statusCode),"A página \(link) não está disponível")
+                queue.removeAll { $0 == link }
+            }
+            expectation.fulfill()
         }
+        await fulfillment(of: expectations, timeout: 10.0)
     }
 }
+
 
 extension LinksTest {
     private func extractLinksFromText(_ text: String) -> [String] {

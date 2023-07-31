@@ -1,0 +1,594 @@
+<!DOCTYPE HTML>
+<html lang="pt" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Aprenda Swift</title>
+        <meta name="robots" content="noindex" />
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = null;
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="linguagem.html"><strong aria-hidden="true">1.</strong> Linguagem</a></li><li class="chapter-item expanded "><a href="tutoriais.html"><strong aria-hidden="true">2.</strong> Tutoriais</a></li><li class="chapter-item expanded "><a href="arquiteturas.html"><strong aria-hidden="true">3.</strong> Arquiteturas</a></li><li class="chapter-item expanded "><a href="padroes-de-projeto.html"><strong aria-hidden="true">4.</strong> Padrões de Projeto</a></li><li class="chapter-item expanded "><a href="ui/interface.html"><strong aria-hidden="true">5.</strong> UI</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="ui/geral.html"><strong aria-hidden="true">5.1.</strong> Geral</a></li><li class="chapter-item expanded "><a href="ui/swift-ui.html"><strong aria-hidden="true">5.2.</strong> SwiftUI</a></li><li class="chapter-item expanded "><a href="ui/storyboard.html"><strong aria-hidden="true">5.3.</strong> Storyboard</a></li><li class="chapter-item expanded "><a href="UI/view-code.html"><strong aria-hidden="true">5.4.</strong> ViewCode</a></li><li class="chapter-item expanded "><a href="ui/uikit.html"><strong aria-hidden="true">5.5.</strong> UIKit</a></li><li class="chapter-item expanded "><a href="ui/animacoes.html"><strong aria-hidden="true">5.6.</strong> Animações</a></li></ol></li><li class="chapter-item expanded "><a href="networking.html"><strong aria-hidden="true">6.</strong> Networking</a></li><li class="chapter-item expanded "><a href="gerenciamento-de-dependencias.html"><strong aria-hidden="true">7.</strong> Gerenciamento de Dependências</a></li><li class="chapter-item expanded "><a href="persistencia.html"><strong aria-hidden="true">8.</strong> Persistência</a></li><li class="chapter-item expanded "><a href="reatividade.html"><strong aria-hidden="true">9.</strong> Reatividade</a></li><li class="chapter-item expanded "><a href="segurança.html"><strong aria-hidden="true">10.</strong> Segurança</a></li><li class="chapter-item expanded "><a href="acessbilidade.html"><strong aria-hidden="true">11.</strong> Acessibilidade</a></li><li class="chapter-item expanded "><a href="testes.html"><strong aria-hidden="true">12.</strong> Testes</a></li><li class="chapter-item expanded "><a href="tools/ferramentas-e-recursos.html"><strong aria-hidden="true">13.</strong> Ferramentas e Recursos</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="tools/utilidades.html"><strong aria-hidden="true">13.1.</strong> Utilidades</a></li><li class="chapter-item expanded "><a href="tools/deploy-e-ci-cd.html"><strong aria-hidden="true">13.2.</strong> Deploy e CI/CD</a></li></ol></li><li class="chapter-item expanded "><a href="blogs-e-plataformas.html"><strong aria-hidden="true">14.</strong> Blogs e Plataformas</a></li><li class="chapter-item expanded "><a href="livros.html"><strong aria-hidden="true">15.</strong> Livros</a></li><li class="chapter-item expanded "><a href="canais-no-youtube.html"><strong aria-hidden="true">16.</strong> Canais no Youtube</a></li><li class="chapter-item expanded "><a href="playlists-no-youtube.html"><strong aria-hidden="true">17.</strong> Playlists no Youtube</a></li><li class="chapter-item expanded "><a href="podcasts.html"><strong aria-hidden="true">18.</strong> Podcasts</a></li><li class="chapter-item expanded "><a href="playgrounds.html"><strong aria-hidden="true">19.</strong> Playground</a></li><li class="chapter-item expanded "><a href="cursos-gratuitos.html"><strong aria-hidden="true">20.</strong> Cursos gratuitos</a></li><li class="chapter-item expanded "><a href="cursos-pagos.html"><strong aria-hidden="true">21.</strong> Cursos pagos</a></li><li class="chapter-item expanded "><a href="roadmaps.html"><strong aria-hidden="true">22.</strong> Roadmaps</a></li><li class="chapter-item expanded "><a href="comunidades.html"><strong aria-hidden="true">23.</strong> Comunidades</a></li><li class="chapter-item expanded "><a href="canais-no-telegram.html"><strong aria-hidden="true">24.</strong> Canais no Telegram</a></li><li class="chapter-item expanded "><a href="instagram.html"><strong aria-hidden="true">25.</strong> Instagram</a></li><li class="chapter-item expanded "><a href="twitter.html"><strong aria-hidden="true">26.</strong> Twitter</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Aprenda Swift</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="linguagem"><a class="header" href="#linguagem">Linguagem</a></h1>
+<ul>
+<li><a href="https://blog.reisdev.com.br/variaveis-e-constantes-em-swift">Variáveis e Constantes em Swift - ReisDev [🇧🇷]</a></li>
+<li><a href="https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar">O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller [🇧🇷]</a></li>
+<li><a href="https://medium.com/@amandakpaiva/uso-de-struct-e-class-em-swift-10b2430ad578">Uso de Struct e Class em Swift - Amanda Paiva [🇧🇷]</a></li>
+<li><a href="https://medium.com/@caio.santos/protolocos-em-swift-uma-abordagem-did%C3%A1tica-5f032ec8bc54">Protocolos em Swift: Uma abordagem didática - Caio Santos  [🇧🇷]</a></li>
+<li><a href="https://pt.linkedin.com/pulse/propriedades-em-swift-pedro-menezes-/">Propriedades em Swift - Pedro Menezes [🇧🇷]</a></li>
+<li><a href="https://www.alura.com.br/artigos/ios-opcionais-swift">Opcionais em Swift: como utilizar? - Giovanna Moeller [🇧🇷]</a></li>
+<li><a href="https://blog.reisdev.com.br/optional-em-swift">Optional em Swift - ReisDev [🇧🇷]</a></li>
+<li><a href="https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar">Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller [🇧🇷]</a></li>
+<li><a href="https://medium.com/jonatanm89/entendendo-weak-self-no-swift-2ba061326504">Entendendo [weak self] no Swift - Jonatan Medina [🇧🇷]</a></li>
+<li><a href="https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso">Como funcionam os modificadores de acesso? - Giovanna Moeller [🇧🇷]</a></li>
+<li><a href="https://blog.reisdev.com.br/como-decodificar-json-em-swift">Como decodificar JSON em Swift - ReisDev [🇧🇷]</a></li>
+<li><a href="https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable">Conversão de Dados com Codable (Encodable e Decodable) - Giovanna Moeller [🇧🇷]</a></li>
+<li><a href="https://mateusfsilvablog.wordpress.com/2018/03/02/decodificando-json-com-swift-4/">Decodificando JSON com Swift 4 - Mateus Silva [🇧🇷]</a></li>
+<li><a href="https://mateusfsilvablog.wordpress.com/2018/03/05/decodificando-json-com-swift-4-parte-2/">Decodificando JSON com Swift 4 (parte 2) - Mateus Silva [🇧🇷]</a></li>
+<li><a href="https://deciomontanhani.com.br/gerenciamento-de-memoria/">Gerenciamento de memória no iOS — weak, strong e unowned - Décio Montanhani [🇧🇷]</a></li>
+<li><a href="https://medium.com/maclacerda/desmistificando-a-pop-2555d8335fb5">Desmistificando a programação orientada a protocolos - Marcos Lacerda [🇧🇷]</a></li>
+<li><a href="https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063">Você sabe o que são Property Wrappers? Parte 1 - Marcos Lacerda [🇧🇷]</a></li>
+<li><a href="https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b">Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda [🇧🇷]</a></li>
+<li><a href="https://medium.com/viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80">Timer — Manipulando o tempo utilizando o Timer(iOS) - Vinicius Mangueira [🇧🇷]</a></li>
+<li><a href="https://lauramarson.medium.com/concorrencia-em-ios-a-teoria-por-tras-do-grand-central-dispatch-38bfd3d8c0fe">Concorrência em iOS: A Teoria por Trás do Grand Central Dispatch - Laura Pinheiro [🇧🇷]</a></li>
+<li><a href="https://lauramarson.medium.com/race-condition-e-data-race-criando-classes-threadsafe-em-swift-e65edcfe8d70">Race Condition e Data Race: Criando Classes Threadsafe em Swift - Laura Pinheiro [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=Zxo2p1MpkI4">🎬 Automatizando a detecção de vazamento de memória - Comitando [🇧🇷]</a></li>
+<li><a href="https://youtu.be/FlB-DPN6TZM">🎬 Swift na prática: Uso de protocolos (Parte 1) - Comitando [🇧🇷]</a></li>
+<li><a href="https://youtu.be/WZVfZ355ez4">🎬 Swift na prática: Uso de protocolos (Parte 2) - Comitando [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=Lkv4bYzuH_Y">🎬 Como trabalhar com Closures - DevPoli [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=CZbOUMOxtU8">🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=tKSNjg9Cb_g">🎬 Struct ou Class, pra que serve? - DevPoli [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=NXNhAAWncT8">🎬 Lazy Var e Computed Properties - Qual a diferença? - DevPoli [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="tutoriais"><a class="header" href="#tutoriais">Tutoriais</a></h1>
+<ul>
+<li><a href="https://medium.com/victorcatao/como-desenvolver-seu-pr%C3%B3prio-gerador-de-senha-no-ios-d538f27236dd">Como desenvolver seu próprio gerador de senha no iOS - Victor Catão [🇧🇷]</a></li>
+<li><a href="https://developer.apple.com/tutorials/app-dev-training">iOS App Dev Tutorials - Apple</a></li>
+<li><a href="https://developer.apple.com/tutorials/swiftui">SwifUI Tutorial - Apple</a></li>
+<li><a href="https://www.youtube.com/watch?v=t8JI3Ur51zY">🎬 Xcode: Como criar um aplicativo iOS do zero (para iniciantes) - Tiago Aguiar [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=bXF6KMJFwSE">🎬 Como criar um app iOS no Xcode sem Storyboard - DevPoli [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL50rZONmv8ZSJ2M6PpPMcOawgE32ke_9_">Criação de Apps para iOS com SWIFT 2023</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="arquiteturas"><a class="header" href="#arquiteturas">Arquiteturas</a></h1>
+<ul>
+<li><a href="https://www.zup.com.br/blog/5-arquiteturas-ios-mais-utilizadas">As 5 arquiteturas iOS mais utilizadas - Zup [🇧🇷]</a></li>
+<li><a href="https://www.objective.com.br/insights/principais-arquiteturas-para-aplicacoes-ios/">Principais arquiteturas para aplicações iOS - Objective [🇧🇷]</a></li>
+<li><a href="https://www.eng.com.br/artigo.cfm?id=6338&amp;post=ios-swift-entendendo-os-padroes-de-modelagem-mvc,-mvp-e-o-mvvm">Entendendo os padrões de modelagem MVC, MVP e MVVM - ENG [🇧🇷]</a></li>
+<li><a href="https://medium.com/GeraldoBastos/qual-a-melhor-arquitetura-para-aplica%C3%A7%C3%B5es-ios-mvc-3b436cbcd36b">Qual a melhor arquitetura para aplicações iOS? MVC? - Geraldo Bastos [🇧🇷]</a></li>
+<li><a href="https://medium.com/GeraldoBastos/parte-2-qual-a-melhor-arquitetura-para-aplica%C3%A7%C3%B5es-ios-mvvm-803f09cbd989">Qual a melhor arquitetura para aplicações iOS? MVVM? - Geraldo Bastos [🇧🇷]</a></li>
+<li><a href="https://unbarqdsw.github.io/2020.1_G6_Pomo/arquitetura-e-reutilizacao/arquitetura/mvvm/">Arquitetura MVVM - Pomo Docs [🇧🇷]</a></li>
+<li><a href="https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata">Arquitetura Limpa (CLEAN) - Rayana Prata [🇧🇷]</a></li>
+<li><a href="https://medium.com/ifood-tech/benef%C3%ADcios-mais-comuns-entre-arquiteturas-ios-e295439c4f84">Benefícios mais comuns entre arquiteturas iOS - Yasmin Benatti [🇧🇷]</a></li>
+<li><a href="https://repositorio.ufpb.br/jspui/bitstream/123456789/15651/1/ILM12122018.pdf">Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS - Ícaro Lima [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=8hhxrV19Rr8">Implementando arquitetura MVP - Comitando [🇧🇷]</a></li>
+<li><a href="https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518">iOS Architecture: MVVM-C</a></li>
+<li><a href="https://www.youtube.com/watch?v=Vn5Wo16TAqU">🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=ACDWM-49PQw">🎬 Aplicando o padrão de projeto MVC em aplicativos iOS - Developer Academy PUC-Rio [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=eXvzhPJEbtM">🎬 Aproximando Arquiteturas do Negócio - Bruno Ramos [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=wI2194K99xU">🎬 Como montar o MVVM no Swift - DevPoli [🇧🇷]</a></li>
+<li><a href="https://youtube.com/watch?v=0T2gZWNAX7E">🎬 Migrando tela de MVC para VIP - Comitando [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=kdCkpLqSceI&amp;t=1516s">🎬 Aplicando MVVM - Pedro Lagosta [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="padrões-de-projeto"><a class="header" href="#padrões-de-projeto">Padrões de Projeto</a></h1>
+<ul>
+<li><a href="https://medium.com/mackmobile/protocol-delegate-em-swift-5f521e19ca56">Protocol Delegate em Swift - Cassia Barbosa [🇧🇷]</a></li>
+<li><a href="https://refactoring.guru/pt-br/design-patterns/swift">Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]</a></li>
+<li><a href="https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857">Injeção de Dependência - Raúl Ferrer [🇧🇷]</a></li>
+<li><a href="https://victorbritodev.medium.com/um-pouco-sobre-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-em-ios-a1b0f536b05c">Um pouco sobre injeção de dependência em iOS - Victor Brito [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=bGFAcNwN9ps">🎬 Aplicando Delegate Pattern - Pedro Lagosta [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=iGMJRA0y_3E">🎬 Criando Coordinator - Pedro Lagosta [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=DA8LBPxx9n8">🎬 Usando pop, injeção de dependência e Factory - Pedro Lagosta [🇧🇷]</a></li>
+<li><a href="https://github.com/ochococo/Design-Patterns-In-Swift">Design Patterns em Swift</a></li>
+<li><a href="https://github.com/futurice/ios-good-practices">iOS Good Practices</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="ui"><a class="header" href="#ui">UI</a></h1>
+<ul>
+<li><a href="ui//ui/geral.html">Geral</a></li>
+<li><a href="ui//ui/swift-ui.html">SwiftUI</a></li>
+<li><a href="ui//ui/storyboard.html">Storyboard</a></li>
+<li><a href="ui//ui/view-code.html">ViewCode</a></li>
+<li><a href="ui//ui/uikit.html">UIKit</a></li>
+<li><a href="ui//ui/animacoes.html">Animações</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="geral"><a class="header" href="#geral">Geral</a></h1>
+<ul>
+<li><a href="https://www.alura.com.br/artigos/ios-swift-diferencas-construcao-layouts-storyboard-xib-view-code">Diferenças na construção de layout com Storyboard, XIB e View Code - Alura [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=HX38K7fz_Uw">🎬 Conhecendo UIView e Constraints no iOS - DevPoli [🇧🇷]</a></li>
+<li><a href="https://code.tutsplus.com/pt/ios-do-principio-com-swift-basico-de-auto-layout--cms-25520t">iOS do princípio com Swift: Básico de Auto Layout - Bart Jacobs [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="swiftui"><a class="header" href="#swiftui">SwiftUI</a></h1>
+<ul>
+<li><a href="https://medium.com/xp-inc/swiftui-ir%C3%A1-substituir-o-swift-5dd45f2b8447">SwiftUI irá substituir o Swift? - Cassiane de Freitas [🇧🇷]</a></li>
+<li><a href="https://arthurgivigir.medium.com/swiftui-dicas-para-quem-quer-come%C3%A7ar-a-desenvolver-f51f662d5825">SwiftUI: dicas para quem quer começar a desenvolver - Arthur Givigir [🇧🇷]</a></li>
+<li><a href="https://www.alura.com.br/conteudo/swift-ui">Layouts com SwiftUI - Alura [🇧🇷]</a></li>
+<li><a href="https://heckj.github.io/swiftui-notes/">SwiftUI Notes</a></li>
+<li><a href="https://www.youtube.com/watch?v=4eC49rYeugs">🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=rJWTcNj7rg4">🎬 Introdução Ao SwiftUI - Como Criar O Primeiro Aplicativo [Ponta-a-Ponta] - Irmandade Swift [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=I292IhjRV7k">🎬 SwiftUI: Como começar do zero no desenvolvimento iOS moderno - Tiago Aguiar [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=CIGkaLyG-Wg">🎬 Aprenda a criar apps nativos de iPhone no Xcode - Guia Completo: SwiftUI - Irmandade Swift [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLMIvxX1Jrn8e79pvAHE8onakUzUqpzi16">🎬 SwiftUI para desenvolvedores UIKit - Hugo Silva [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=k6zgW9yIPCE">🎬 SwiftUI: Animações no iOS - Tiago Aguiar [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=Gt75k60tMjc">🎬 Como Criar Um Aplicativo iOS no Xcode (Super Simples!) - SwiftUI Tutorial - Tiago Aguiar [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLuoeXyslFTuZRi4q4VT6lZKxYbr7so1Mr">Hacking with iOS: SwiftUI Edition</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="storyboard"><a class="header" href="#storyboard">Storyboard</a></h1>
+<ul>
+<li><a href="http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/">Desmistificando Storyboards - equinociOS [🇧🇷]</a></li>
+<li><a href="https://www.alura.com.br/conteudo/swift-uikit-storyboard">UIKKit, Storyboard e Padrão delegate - Ândriu Felipe [🇧🇷]</a></li>
+<li><a href="https://www.kodeco.com/5055364-ios-storyboards-getting-started">Storyboard - Kodeco</a></li>
+<li><a href="https://www.youtube.com/watch?v=hWA1WmjkxJU">🎬 Como criar um app iOS usando Storyboard - Developer Academy PUC-Rio [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="view-code"><a class="header" href="#view-code">View Code</a></h1>
+<ul>
+<li><a href="https://medium.com/mackmobile/view-code-em-swift-6026f42bf780">View Code em Swift - Cassia Barbosa [🇧🇷]</a></li>
+<li><a href="https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93">Implementando interfaces iOS em View Code - ioasys-voices [🇧🇷]</a></li>
+<li><a href="https://medium.com/tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b">Curso iOS: Módulo sobre view code - Thiago Lioy [🇧🇷]</a></li>
+<li><a href="http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/">Com quantas views se faz uma App? - equinociOS [🇧🇷]</a></li>
+<li><a href="https://medium.com/joaoalexandrebitar/come%C3%A7ando-com-view-code-no-ios-f409334ff1d">Como começar com ViewCode no iOS - João Alexandre [🇧🇷]</a></li>
+<li><a href="https://blog.reisdev.com.br/como-criar-um-app-ios-em-viewcode">Como criar um app iOS em ViewCode - ReisDev [🇧🇷]</a></li>
+<li><a href="https://www.kodeco.com/6004856-building-an-app-with-only-code-using-auto-layout">ViewCode + AutoLayout - Kodeco</a></li>
+<li><a href="https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap">ViewCode + SnapKit - Kodeco</a></li>
+<li><a href="https://www.youtube.com/watch?v=_zhI9Nuuw_Y">🎬 Como usar o ViewCode sem Storyboard - BackFront Academy [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=TXhhjihouTg">🎬 Como funciona a UIStackView - DevPoli [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=iFzTBlRVH6s">🎬 Como criar uma tela usando ViewCode  - Swift para todos [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=zSzxFlIumts">🎬 Como criar componentes em Swift usando ViewCode - Swift para todos [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="uikit"><a class="header" href="#uikit">UIKit</a></h1>
+<ul>
+<li><a href="https://code.tutsplus.com/pt/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit--cms-25461">Primeiros passos com UIKit - Tuts+ [🇧🇷]</a></li>
+<li><a href="https://medium.com/ioasys-voices/uikit-renderizando-componentes-no-swiftui-9ae3619916bf">UIKit: Renderizando componentes no SwiftUI - ioasys-voices [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="animações"><a class="header" href="#animações">Animações</a></h1>
+<ul>
+<li><a href="https://leocoout.medium.com/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5">Melhorando a experiência do seu app com animações — iOS - Leonardo Santos [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=k6zgW9yIPCE">🎬 SwiftUI: Animações no iOS - Como começar - Tiago Aguiar [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="networking"><a class="header" href="#networking">Networking</a></h1>
+<ul>
+<li><a href="https://medium.com/victorcatao/async-await-camada-network-gen%C3%A9rica-com-swift-5-5-18aa8f177c9c">Async/Await: Camada Network genérica com Swift 5.5 - Victor Catão [🇧🇷]</a></li>
+<li><a href="https://medium.com/mackmobile/usando-codables-em-swift-5-para-consumir-uma-api-de-filmes-356534e7e1f0">Usando Codables em Swift 5 para consumir uma API de filmes - Lucas Fernandez [🇧🇷]</a></li>
+<li><a href="https://medium.com/mackmobile/como-fazer-um-get-em-swift-4-2-4acc53854241">Como fazer um GET em Swift 4.2 - Gois [🇧🇷]</a></li>
+<li><a href="https://medium.com/zeroeumas/consumindo-api-com-swiftui-285dd055fb1a">Consumindo API com SwiftUI - Tamara Erlij [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=osLMXdyC1mc">🎬 Buscando dados da API de forma SIMPLES - DevPoli [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=nnBYugt3msA">🎬 Consumindo dados de uma API em Swift - Pedro Cacique [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=y48vrEKeRBY">🎬 Criando camada Service - Pedro Lagosta [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="gerenciamento-de-dependências"><a class="header" href="#gerenciamento-de-dependências">Gerenciamento de Dependências</a></h1>
+<ul>
+<li><a href="https://www.alura.com.br/artigos/ios-swift-instalacao-uso-gerenciador-dependencias-cocoapods">Instalação e uso do gerenciador de dependências CocoaPods - Giovanna Moeller [🇧🇷]</a></li>
+<li><a href="https://blog.tokenlab.com.br/gerenciadores-de-dependencias-ios/">Gerenciadores de dependências iOS - tokenlab [🇧🇷]</a></li>
+<li><a href="https://www.infoq.com/br/news/2015/07/carthage-dependency-manager/">Carthage: Um gerenciador de dependências para projetos Xcode - infoq [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="persistência"><a class="header" href="#persistência">Persistência</a></h1>
+<ul>
+<li><a href="https://medium.com/academy-ifce/aprendendo-coredata-com-swiftui-90c9d2159714">Aprendendo CoreData com SwiftUI - Academy IFCE + Alley Pereira [🇧🇷]</a></li>
+<li><a href="https://medium.com/mackmobile/coredata-940c3c61b048">CoreData - Uma introdução à Persistência em iOS - Guilherme Paciulli [🇧🇷]</a></li>
+<li><a href="http://equinocios.com/banco%20de%20dados/2017/03/30/persistencia-de-dados-usando-core-data/">Persistência de dados usando CoreData - equinociOS [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=SvtBgqmqkpQ">🎬 Como utilizar o UserDefaults - Swift para Todos [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="reatividade"><a class="header" href="#reatividade">Reatividade</a></h1>
+<ul>
+<li><a href="https://hoffsilva.medium.com/resumo-b%C3%A1sico-de-rxswift-3703f8318a7f">Resumo básico de RxSwift - Hoff Silva [🇧🇷]</a></li>
+<li><a href="https://medium.com/popcodemobile/swift-combine-6a039fde675f">Swift Combine - Vinicius Mangueira [🇧🇷]</a></li>
+<li><a href="https://medium.com/academy-eldoradocps/comparando-rxswift-com-combine-fce79780b9bf">Comparando RxSwift e Combine - Anthony Gianeli [🇧🇷]</a></li>
+<li><a href="https://imasters.com.br/banco-de-dados/como-inserir-rxswift-programacao-funcional-naquele-seu-projeto-que-esta-90-concluido">Como inserir RxSwift + programação funcional naquele seu projeto que está 90% concluído - Bruno Bilescky [🇧🇷]</a></li>
+<li><a href="https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/">The Ultimate Combine Framework Tutorial in Swift</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="segurança"><a class="header" href="#segurança">Segurança</a></h1>
+<ul>
+<li><a href="https://wh0isdxk.medium.com/seguran%C3%A7a-em-dispositivos-ios-a422840b71a2">Segurança em dispositivos iOS - Daiane Santos [🇧🇷]</a></li>
+<li><a href="https://medium.com/viniciusmangueira/criptografia-para-dispositivos-ios-ca840639ee10">Criptografia para dispositivos iOS - Vinicius Mangueira [🇧🇷]</a></li>
+<li><a href="https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06j-testing-resiliency-against-reverse-engineering">Defesas anti-reversão para iOS</a></li>
+<li><a href="https://medium.com/flawless-app-stories/ssl-pinning-254fa8ca2109">SSL Pinning - Flawless App Stories</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="acessibilidade"><a class="header" href="#acessibilidade">Acessibilidade</a></h1>
+<ul>
+<li><a href="https://medium.com/GusSevero/tornando-o-seu-app-acess%C3%ADvel-por-todos-e93c1aa2ad9d">Tornando o seu app acessível por todos no iOS - Gustavo Severo [🇧🇷]</a></li>
+<li><a href="https://medium.com/mackmobile/voice-over-66e2a051f157">Voice Over - Acessibilidade em iOS - Renan Germano [🇧🇷]</a></li>
+<li><a href="https://andresalla.com/tutorial-criando-uma-solucao-acessivel-para-o-one-time-code/">Criando uma solução acessível para o One Time Code - André Salla [🇧🇷]</a></li>
+<li><a href="https://imasters.com.br/acessibilidade/ja-parou-para-pensar-se-seu-app-e-acessivel">Já parou para pensar se seu app é acessível? - iMasters [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=556jop6c2M0">🎬 Como dar foco no ELEMENTO com ACESSIBILIDADE - BackFront Academy [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="testes"><a class="header" href="#testes">Testes</a></h1>
+<ul>
+<li><a href="https://hoffsilva.medium.com/ios-teste-unit%C3%A1rio-e-teste-de-ui-tutorial-1360bb66ff73">iOS Teste Unitário e Teste de UI - Hoff Silva [🇧🇷]</a></li>
+<li><a href="https://engineering.idwall.co/escrevendo-testes-unitarios-em-cenarios-caoticos-uma-abordagem-pratica-e44a2d2d5d85">Escrevendo testes unitários em cenários caóticos: uma abordagem prática - Renato Felício [🇧🇷]</a></li>
+<li><a href="https://medium.com/usemobile/escrevendo-testes-unit%C3%A1rios-para-uma-viewcontroller-com-tableview-91ee923de478">Escrevendo Testes Unitários para uma ViewController com TableView - Leonardo Cunha [🇧🇷]</a></li>
+<li><a href="https://softdesign.com.br/blog/testes-unitarios-em-swift-com-mvvm">Testes unitários em Swift com MVVM - SoftDesign [🇧🇷]</a></li>
+<li><a href="https://www.linkedin.com/pulse/start-testes-automatizados-com-xctest-framework-para-de-lacerda/?originalSubdomain=pt">Testes automatizados com XCTest Framework para teste de app iOS - Amanda Lacerda [🇧🇷]</a></li>
+<li><a href="https://medium.com/digitalproductsdev/test-doubles-swift-cd43372eb45e">Test Doubles em Swift (Ou o isolamento de testes unitários) - Matheus de Vasconcelos [🇧🇷]</a></li>
+<li><a href="https://medium.com/ifood-tech/ios-tests-101-c078505e2200">iOS Tests 101 - Yasmin Benatti [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=-JyD2EMRxVA">🎬 Automação de testes NATIVA para iOS com XCUITest - qazando [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=0i1y2Kmzkj4">🎬 Lidando com FileManager em testes unitários - Comitando [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=E1P2O303aqo">🎬 Escrevendo testes de UI - Comitando [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZZ54oJh1uKI">🎬 Criando Testes Unitários - Pedro Lagosta [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=sQzgW-dWpvU">🎬 Criando Testes Unitários na prática - Pedro Lagosta [🇧🇷]</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="ferramentas-e-recursos"><a class="header" href="#ferramentas-e-recursos">Ferramentas e Recursos</a></h1>
+<ul>
+<li><a href="tools//tools/utilidades.html">Utilidades</a></li>
+<li><a href="tools//tools/deploy-e-ci-cd.html">Deploy e CI/CD</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="utilidades"><a class="header" href="#utilidades">Utilidades</a></h1>
+<ul>
+<li><a href="https://medium.com/viniciusmangueira/swift-lint-3b869261cf48">Swift Lint - Vinicius Mangueira [🇧🇷]</a></li>
+<li><a href="https://nsdateformatter.com/">Formatação de data - NSDateFormatter</a></li>
+<li><a href="https://realm.github.io/SwiftLint/">Linting - SwiftLint</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="deploy-e-cicd"><a class="header" href="#deploy-e-cicd">Deploy e CI/CD</a></h1>
+<ul>
+<li><a href="https://micheltlutz.medium.com/gerando-artefatos-ipa-com-github-actions-51088aa5852c">Gerando artefatos .ipa com GitHub Actions - Michel Lutz [🇧🇷]</a></li>
+<li><a href="https://bitrise.io">Bitrise</a></li>
+<li><a href="https://www.jenkins.io/">Jenkins</a></li>
+<li><a href="https://fastlane.tools/">Fastlane</a></li>
+<li><a href="https://www.judo.app/">Judo - UI orientada a servidor</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="blogs-e-plataformas"><a class="header" href="#blogs-e-plataformas">Blogs e Plataformas</a></h1>
+<ul>
+<li><a href="https://www.primitive.school/beta">Primitive School - beta</a></li>
+<li><a href="https://recreatecode.substack.com">Recreate</a></li>
+<li><a href="https://www.appcoda.com/ios-programming-course/">AppCoda</a></li>
+<li><a href="https://www.hackingwithswift.com/learn">Hacking With Swift</a></li>
+<li><a href="https://www.kodeco.com/ios/paths">Kodeco (antigo Raywenderlich)</a></li>
+<li><a href="https://learnappmaking.com/">LearnAppMaking</a></li>
+<li><a href="https://dailydoseofswift.com">Daily Dose of Swift</a></li>
+<li><a href="https://iosdevweekly.com">iOS Dev Weekly</a></li>
+<li><a href="https://createwithswift.com">Create with Swift</a></li>
+<li><a href="https://awesome-ios.readthedocs.io/en/latest/">Awesome iOS</a></li>
+<li><a href="https://theswiftdev.com/">The Swift Dev</a></li>
+<li><a href="https://holyswift.app/">Holy Swift</a></li>
+<li><a href="https://swiftwithmajid.com/">Swift with Majid</a></li>
+<li><a href="https://swiftsenpai.com/">Swift Senpai</a></li>
+<li><a href="https://serialcoder.dev/">SerialCoder.dev</a></li>
+<li><a href="https://www.swiftbysundell.com/">Swift by Sundell</a></li>
+<li><a href="https://wwdcnotes.com">WWDC Notes</a></li>
+<li><a href="https://www.avanderlee.com/">SwiftLee</a></li>
+<li><a href="https://www.vadimbulavin.com/">Yet Another Swift Blog</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="livros"><a class="header" href="#livros">Livros</a></h1>
+<ul>
+<li>Desenvolvendo para iPhone e iPad - Ricardo R. Lecheta</li>
+<li>Swift in Depth - Tjeerd in 't Veen</li>
+<li>Mastering Swift 5 - Jon Hoffman</li>
+<li><a href="https://www.kodeco.com/ios/books">Livros Kodeco, vários níveis e tópicos</a></li>
+<li><a href="https://github.com/AcademyIFCE/Swift-Book">Swift Book em Português(em tradução)</a></li>
+<li><a href="https://www.aidanf.net/learn-swift">Learn Swift - Aidan Finn</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="canais-no-youtube"><a class="header" href="#canais-no-youtube">Canais no Youtube</a></h1>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g">Attekita Dev [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/c/BackFrontAcademy">Back Front Academy [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/c/C%C3%ADceroCamargoCODEMUS/">Cícero Camargo CODEMUS [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/user/cocoaheadsbr">CocoaHeadsBR [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/c/CodandoComMoa">Codando Com Moa [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/channel/UCymNbci2uMFaPz0gZmsDVXw">Comitando [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/c/DeveloperAcademyPUCRio">Developer Academy PUC-Rio [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/channel/UC_Z0xQUwA5G06-LZFnmR8MA/">Michel Lopes [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/@pedrolagosta8213">Pedro Lagosta [🇧🇷]</a></li>
+<li><a href="https://youtube.com/@ReisDev">ReisDev [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/rapholivera">Raphael Oliveira [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/c/TiagoAguiar/">Tiago Aguiar [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/ThaisSadami">Thais Sadami [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/@Swiftparatodos">Swift para todos [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/c/CredoAcademy/">Credo Academy</a></li>
+<li><a href="https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA">Essential Developer</a></li>
+<li><a href="https://www.youtube.com/channel/UCnksRRifsSCGUZpQukUKAyg">iOS Academy</a></li>
+<li><a href="https://www.youtube.com/c/PaulHudson/">Paul Hudson</a></li>
+<li><a href="https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg">Rebeloper</a></li>
+<li><a href="https://www.youtube.com/c/SeanAllen">Sean Allen</a></li>
+<li><a href="https://www.youtube.com/c/VincentPradeilles">Vincent Pradeilles</a></li>
+<li><a href="https://www.youtube.com/c/Kavsoft/featured">Kavsoft</a></li>
+<li><a href="https://www.youtube.com/c/StewartLynch">Stewart Lynch</a></li>
+<li><a href="https://www.youtube.com/c/PhysicsNerdDev">Karin Prater</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="playlists-no-youtube"><a class="header" href="#playlists-no-youtube">Playlists no Youtube</a></h1>
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLxNM4ef1BpxjjMKpcYSqXI4eY4tZG2csm">Curso de Swift - Hugo Vasconcelos [🇧🇷]</a></li>
+<li><a href="https://youtube.com/playlist?list=PLZwVYMtzU9Em9q0vVyneFdqn-4XVl9YBG">Aulas de Swift - Bruno Scheltzke [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/watch?v=q0FAU6_7We0&amp;list=PLEPErUz4EUV-Sy6ZrJjRyMRgKJPs5EGjF">Desenvolvimento iOS - Desgourmetizando o conhecimento / Renato Matos [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s">DESENVOLVIMENTO iOS - Tiago Aguiar [🇧🇷]</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-">Curso de Swift - Programação - Tiago Aguiar [🇧🇷]</a></li>
+<li><a href="https://youtube.com/playlist?list=PL6gx4Cwl9DGDgp7nGSUnnXihbTLFZJ79B">iOS Development with Swift Tutorials</a></li>
+<li><a href="https://youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC">Curso grátis Swift e SwiftUI (stanford 2020)</a></li>
+<li><a href="https://youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb">Apple Swift Programming Language Tutorial Series</a></li>
+<li><a href="https://youtube.com/playlist?list=PLjf6nsEcF5KOVWRlOPwrJm9X69YtSx_OZ">iOS Course Lectures Spring 2021 - Cornell AppDev</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLJ0AcghBBWSjpnacG8ZD_1pWpU5IJrp2d">TUTORIAIS iOS (LEGACY)</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="podcasts"><a class="header" href="#podcasts">Podcasts</a></h1>
+<ul>
+<li><a href="https://twitter.com/buildfailedcast">Build Failed Podcast 🇧🇷</a></li>
+<li><a href="https://www.swiftbysundell.com/podcast">Swift by Sundell</a></li>
+<li><a href="https://spec.fm/podcasts/swift-unwrapped">Swift Unwrapped</a></li>
+<li><a href="https://compileswift.com/podcast">Compile Swift</a></li>
+<li><a href="https://contravariance.rocks">Contravariance. A Swift Podcast</a></li>
+<li><a href="https://gigahertz.fm/podcasts">Podcasts GigaHertz</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="playground"><a class="header" href="#playground">Playground</a></h1>
+<ul>
+<li><a href="https://swiftfiddle.com">Swift Online Playground</a></li>
+<li><a href="https://www.apple.com/swift/playgrounds/">Apple Swift Playgrounds</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="cursos-gratuitos"><a class="header" href="#cursos-gratuitos">Cursos gratuitos</a></h1>
+<ul>
+<li><a href="https://www.udemy.com/course/aprendendoswift3">Aprendendo Swift do Iniciante ao Avançado - Udemy [🇧🇷]</a></li>
+<li><a href="https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/">iOS 13 &amp; Swift 5 - Recriando o Tinder 2020 [🇧🇷]</a></li>
+<li><a href="https://www.apple.com/br/education/k12/teaching-code/">Ensino de Programação - Apple</a></li>
+<li><a href="https://cs193p.sites.stanford.edu/">CS193p - Developing Applications for iOS using SwiftUI - Stanford</a></li>
+<li><a href="https://www.hackingwithswift.com/100/swiftui">100 Days of Swift</a></li>
+<li><a href="https://www.hackingwithswift.com/100/swiftui">100 Days of SwiftUI</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="cursos-pagos"><a class="header" href="#cursos-pagos">Cursos pagos</a></h1>
+<ul>
+<li><a href="https://comitando.com.br/">Curso Carreira iOS - Comitando [🇧🇷]</a></li>
+<li><a href="https://www.alura.com.br/curso-online-swift-ui">Layouts com SwiftUI - Alura [🇧🇷]</a></li>
+<li><a href="https://www.udemy.com/course/curso-completo-de-desenvolvimento-ios11swift4/">Curso Completo Desenvolvimento iOS 11 Swift 4 - Eric Brito [🇧🇷]</a></li>
+<li><a href="https://www.udemy.com/course/crie-aplicativos-para-iphone-e-ipad-com-ios11-e-swift4/">Desenvolvimento de Aplicativos iOS12 em Swift4 - Rodrigo Guimarães [🇧🇷]</a></li>
+<li><a href="https://www.udemy.com/course/swift-tdd-com-mango/">Swift - TDD, Clean Architecture, Design Patterns, SOLID, MVP - Rodrigo Manguinho [🇧🇷]</a></li>
+<li><a href="https://www.udemy.com/course/curso-desenvolvimento-ios/">Desenvolvimento IOS 12 - Aprenda a criar 18 Apps - Jamilton Damasceno [🇧🇷]</a></li>
+<li><a href="https://www.udemy.com/course/desenvolvimento-ios/">Desenvolvedor iOS: Prepare-se para o Mercado de Trabalho - Wellignton Bezerra [🇧🇷]</a></li>
+<li><a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS Development Bootcamp - Udemy</a></li>
+<li><a href="https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/">Do Iniciante ao Avançado em Testes Unitários no iOS</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="roadmaps"><a class="header" href="#roadmaps">Roadmaps</a></h1>
+<ul>
+<li><a href="https://trello.com/b/Vac1uedL/a-jornada-do-programador-ios">A Jornada do Programador iOS - BackFront Academy [🇧🇷]</a></li>
+<li><a href="https://insights.zup.com.br/plano-de-estudo-ios">Plano de Estudos de Desenvolvimento iOS - Zup Innovation [🇧🇷]</a></li>
+<li><a href="https://trello.com/b/hLGyiEEE/swift-developer-roadmap">Swift Developer Roadmap - Ronan Rodrigo Nunes</a></li>
+<li><a href="https://github.com/godrm/mobile-developer-roadmap">Mobile Developer Roadmap - Jung Kim</a></li>
+<li><a href="https://medium.com/ios-os-x-development/find-the-image-and-markdown-version-on-github-fee807255235">iOS Developer Skills Matrix - Bohdan Orlov</a></li>
+<li><a href="https://www.youtube.com/watch?v=pbhLZMVBlp0">iOS Roadmap to Professional Developer</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="comunidades"><a class="header" href="#comunidades">Comunidades</a></h1>
+<ul>
+<li><a href="https://t.me/nsflowbr">NSFlow - Telegram</a></li>
+<li><a href="https://t.me/iosdrops">iOS DevDrops - Telegram</a></li>
+<li><a href="https://iosdevbr.slack.com/">iOS Dev BR - Slack</a></li>
+<li><a href="https://discord.com/invite/tPT3GYAMa6">iOS Brasil - Discord</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="canais-no-telegram"><a class="header" href="#canais-no-telegram">Canais no Telegram</a></h1>
+<ul>
+<li><a href="https://t.me/iosdevio">iOS dev</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="instagram"><a class="header" href="#instagram">Instagram</a></h1>
+<ul>
+<li><a href="https://www.instagram.com/cocoaheadsbr/">CocoaHeads Brasil</a></li>
+<li><a href="https://www.instagram.com/dailydoseofswift">Daily Dose of Swift</a></li>
+<li><a href="https://www.instagram.com/dudadev/?hl=pt-br">DudaDev</a></li>
+<li><a href="https://www.instagram.com/leledeveloper">Lelê Developer</a></li>
+<li><a href="https://www.instagram.com/luizmello.dev">Luiz Mello</a></li>
+<li><a href="https://www.instagram.com/mafe_tech">Mafê</a></li>
+<li><a href="https://www.instagram.com/rapholivera">Raphael Oliveira</a></li>
+<li><a href="https://www.instagram.com/reisdev">ReisDev</a></li>
+<li><a href="https://www.instagram.com/rychillie">Rychillie</a></li>
+<li><a href="https://www.instagram.com/thaissadami">Thais Sadami</a></li>
+</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="twitter"><a class="header" href="#twitter">Twitter</a></h1>
+<ul>
+<li><a href="https://twitter.com/ios_dev_alb/">Enid</a></li>
+<li><a href="https://twitter.com/SwiftLang">Swift Language</a></li>
+<li><a href="https://twitter.com/_Kavsoft">Kavsoft</a></li>
+<li><a href="https://twitter.com/avielgr">Aviel</a></li>
+<li><a href="https://twitter.com/twostraws">Paul Hudson</a></li>
+<li><a href="https://twitter.com/XcodeReleases">Xcode Releases</a></li>
+<li><a href="https://twitter.com/Dimillian">Thomas Ricouard</a></li>
+<li><a href="https://twitter.com/DonnyWals">Donny Wals</a></li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </div>
+    </body>
+</html>

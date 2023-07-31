@@ -3,18 +3,15 @@ import Foundation
 class LinkValidator {
     
     public static var shared: LinkValidator = {
-        return LinkValidator()
+        LinkValidator()
     }()
     
-    @available(macOS 10.11, *)
-    func readFileText(_ filename: String) throws -> String {
-        if let fileURL = Bundle.main.path(forResource: filename, ofType: "md") {
-            let text = try String(contentsOfFile: fileURL, encoding: .utf8)
-            return text
-        } else {
-            let fileURL = URL(fileURLWithPath: "README.md")
-            let text = try String(contentsOf: fileURL, encoding: .utf8)
-            return text
-        }
+    @available(macOS 12.0, *)
+    func fetchText() async throws -> String {
+        let url = URLRequest(url: URL(string: "https://raw.githubusercontent.com/CodandoApple/aprenda-swift/main/README.md")!)
+        
+        let (data, _) = try await URLSession.shared.data(for: url)
+        
+        return String(decoding: data, as: UTF8.self)
     }
 }
