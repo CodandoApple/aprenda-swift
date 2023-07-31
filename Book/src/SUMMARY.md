@@ -7,7 +7,7 @@
   - [Geral](ui/geral.md)
   - [SwiftUI](ui/swift-ui.md)
   - [Storyboard](ui/storyboard.md)
-  - [ViewCode](UI/view-code.md)
+  - [ViewCode](ui/view-code.md)
   - [UIKit](ui/uikit.md)
   - [Animações](ui/animacoes.md)
 - [Networking](networking.md)
