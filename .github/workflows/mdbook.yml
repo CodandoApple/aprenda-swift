@@ -51,6 +51,10 @@ jobs:
         with:
           name: github-pages
           path: Book/book
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@latest
+        with:
+          path: .
 
   # Deployment job
   deploy:
