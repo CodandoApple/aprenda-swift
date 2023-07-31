@@ -45,15 +45,15 @@ jobs:
         run: |
           cd Book
           mdbook build
+      - uses: actions/upload-artifact@v3
+        with:
+          name: github-pages
+          path: ./Book/book
       - name: Upload artifact
         id: upload
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./Book/book
-      - uses: actions/upload-artifact@v3
-        with:
-          name: Book
-          path: ./Book/book
+          name: github-pages
 
   # Deployment job
   deploy:
