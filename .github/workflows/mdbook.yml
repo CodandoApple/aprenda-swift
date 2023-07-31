@@ -49,11 +49,10 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./Book/book
-      - name: Sync mdBook files
-        id: sync
-        uses: BetaHuhn/repo-file-sync-action@latest
+      - uses: actions/upload-artifact@v3
         with:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          name: Book
+          path: ./Book/book
 
   # Deployment job
   deploy:
