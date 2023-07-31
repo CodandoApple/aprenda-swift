@@ -1,5 +1,5 @@
 - [Linguagem](linguagem.md)
-- [Tutoriais](tutoriais.MD)
+- [Tutoriais](tutoriais.md)
 - [Arquiteturas](arquiteturas.md)
 - [Padrões de Projeto](padroes-de-projeto.md)
 - [UI](ui/interface.md)
