@@ -51,7 +51,7 @@ jobs:
           path: ./Book/book
       - name: Sync mdBook files
         id: sync
-        users: BetaHuhn/repo-file-sync-action@latest
+        uses: BetaHuhn/repo-file-sync-action@latest
         with:
           GH_PAT: ${{ secrets.GH_PAT }}
 
