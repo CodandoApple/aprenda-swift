@@ -1,4 +1,4 @@
 # Ferramentas e Recursos
 
-- [Utilidades](/tools/utilidades.md)
-- [Deploy e CI/CD](/tools/deploy-e-ci-cd.md)
+- [Utilidades](/aprenda-swift/tools/utilidades.md)
+- [Deploy e CI/CD](/aprenda-swift/tools/deploy-e-ci-cd.md)

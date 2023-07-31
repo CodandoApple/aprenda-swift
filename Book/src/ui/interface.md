@@ -1,8 +1,8 @@
 # UI
 
-- [Geral](/ui/geral.md)
-- [SwiftUI](/ui/swift-ui.md)
-- [Storyboard](/ui/storyboard.md)
-- [ViewCode](/ui/view-code.md)
-- [UIKit](/ui/uikit.md)
-- [Animações](/ui/animacoes.md)
+- [Geral](/aprenda-swift/ui/geral.md)
+- [SwiftUI](/aprenda-swift/ui/swift-ui.md)
+- [Storyboard](/aprenda-swift/ui/storyboard.md)
+- [ViewCode](/aprenda-swift/ui/view-code.md)
+- [UIKit](/aprenda-swift/ui/uikit.md)
+- [Animações](/aprenda-swift/ui/animacoes.md)
