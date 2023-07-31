@@ -51,10 +51,15 @@ jobs:
         with:
           name: github-pages
           path: Book/book
+      - name: Fix permissions
+        run: |
+          chmod -v -R +rX "Book/book" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: .
+          path: Book/book
 
   # Deployment job
   deploy:
