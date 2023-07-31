@@ -45,9 +45,15 @@ jobs:
           cd Book
           mdbook build
       - name: Upload artifact
+        id: upload
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./Book/book
+      - name: Sync mdBook files
+        id: sync
+        users: BetaHuhn/repo-file-sync-action@latest
+        with:
+          GH_PAT: ${{ secrets.GH_PAT }}
 
   # Deployment job
   deploy:
