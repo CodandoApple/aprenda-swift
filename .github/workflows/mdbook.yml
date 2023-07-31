@@ -40,10 +40,13 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      - name: Build with mdBook
+      - name: Setup mdBook
+        id: mdBook
         uses: peaceiris/actions-mdbook@v1
         with:
           mdbook-version: "latest"
+      - name: Build with mdBook
+        id: build
         run: |
           cd Book
           mdbook build
