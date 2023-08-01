@@ -41,7 +41,7 @@ jobs:
         with:
           mdbook-version: "latest"
       - name: Setup mdbook-sitemap-generator
-        uses: reisdev/actions-mdbook-sitemap-generator@v0.1.1-alpha
+        uses: reisdev/actions-mdbook-sitemap-generator@v0.1.1-alpha.1
       - name: Build with mdBook
         id: build
         run: |
