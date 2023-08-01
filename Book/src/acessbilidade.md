@@ -10,3 +10,4 @@
 
 - [🎬 Desenvolvimento Acessível - Codando com Moa](https://www.youtube.com/watch?v=v9IzjwmMC9Y)
 - [🎬 Como dar foco no ELEMENTO com ACESSIBILIDADE - BackFront Academy](https://www.youtube.com/watch?v=556jop6c2M0)
+- [🎬 Testes de Acessibilidade Digital e Mobile Banking - Flávia Aparecida, Caroline Pimenta](https://www.youtube.com/watch?v=K03_KGjDRLA)
