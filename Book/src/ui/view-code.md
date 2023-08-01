@@ -15,3 +15,4 @@
 - [🎬 Como funciona a UIStackView - DevPoli](https://www.youtube.com/watch?v=TXhhjihouTg)
 - [🎬 Como criar uma tela usando ViewCode  - Swift para todos](https://www.youtube.com/watch?v=iFzTBlRVH6s)
 - [🎬 Como criar componentes em Swift usando ViewCode - Swift para todos](https://www.youtube.com/watch?v=zSzxFlIumts)
+- [🎬 Como utilizar UIStackView com ViewCode - Swift para todos](https://www.youtube.com/watch?v=KyZZ5QthY4A)
