@@ -3,3 +3,9 @@ authors = ["ReisDev", "Rychillie"]
 language = "pt"
 src = "src"
 title = "Aprenda Swift"
+google_analytics_id="G-GX6B00RGN8"
+
+[output.html]
+git-repository-url="https://github.com/CodandoApple/aprenda-swift"
+edit-url-template="https://github.com/CodandoApple/aprenda-swift/edit/main/Book/{path}"
+site-url="/aprenda-swift/"
