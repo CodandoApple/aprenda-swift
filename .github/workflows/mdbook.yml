@@ -40,11 +40,14 @@ jobs:
         uses: peaceiris/actions-mdbook@v1
         with:
           mdbook-version: "latest"
+      - name: Setup mdbook-sitemap-generator
+        uses: reisdev/mdbook-sitemap-generator@v0.1.1-alpha
       - name: Build with mdBook
         id: build
         run: |
           cd Book
           mdbook build
+          mdbook-sitemap-generator -d codandoapple.github.io/aprenda-swift -o book/sitemap.xml
       - name: Fix permissions
         run: |
           chmod -v -R +rX "Book/book" | while read line; do
