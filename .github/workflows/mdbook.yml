@@ -48,6 +48,7 @@ jobs:
           cd Book
           mdbook build
           mdbook-sitemap-generator -d codandoapple.github.io/aprenda-swift -o book/sitemap.xml
+          sed -i "s/\.md/\.html/g" book/sitemap.xml
       - name: Fix permissions
         run: |
           chmod -v -R +rX "Book/book" | while read line; do
