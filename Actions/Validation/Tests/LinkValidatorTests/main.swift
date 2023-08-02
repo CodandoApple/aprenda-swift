@@ -2,91 +2,83 @@ import Foundation
 import XCTest
 @testable import LinkValidator
 
-class LinksTest : XCTestCase {
+class LinkValidatorTest: XCTestCase {
     
-    var queue: [String] = []
-    var failures: [String] = []
-    let urlSession = URLSession(configuration: .ephemeral)
-    var expectations: [XCTestExpectation] = []
-    var triesCount: [String:Int] = [:]
-    var regex: NSRegularExpression?
-    let ignoreList = ["medium.com", "instagram.com", "zup.com.br"]
-    
-    override func setUp() {
-        do {
-            regex = try NSRegularExpression(pattern: #"(?:\-\s?\[.*\])\((?<link>.*)\)"#)
-        } catch(let error) {
-            XCTFail(error.localizedDescription)
+    let linkValidator = LinkValidator(urlSession: .init(configuration: .ephemeral))
+
+    func test_repositoryURL_isValid() async throws {
+        
+        let expectaction = expectation(description: "Repository URL is available")
+        
+        var link = Link(name: "Aprenda Swift", url: "https://github.com/CodandoApple/aprenda-swift.git")
+        
+        await linkValidator.validateLink(link: &link)
+        
+        if link.isValid {
+            expectaction.fulfill()
         }
+        
+        await fulfillment(of: [expectaction], timeout: 10.0)
     }
     
-    func testLinks() async throws {
-        let text = try await LinkValidator.shared.fetchText()
+    func test_malformedURL_isNotValid() async throws {
         
-        XCTAssertNotNil(text, "Foi impossível ler o arquivo README.md")
-        XCTAssertGreaterThan(text.count, 0, "O arquivo está vazio")
+        let expectaction = expectation(description: "Misformatted URL is not valid")
         
-        self.queue = extractLinksFromText(text)
+        var link = Link(name: "Malformed URL", url: "https://-github.com/CodandoApple/aprenda-swift.git")
         
-        XCTAssertGreaterThan(queue.count, 0, "URLS não encontradas no arquivo")
+        await linkValidator.validateLink(link: &link)
         
-        while !queue.isEmpty {
-            guard let link = queue.first,
-                  let url = URL(string: link) else {
-                if let first = queue.first {
-                    debugPrint("O link \(first) apresentou algum problema e não pode ser validado")
-                    removeFailedURL(link: first)
-                }
-                continue
-            }
-            
-            if (!ignoreList.allSatisfy { !link.contains($0) }) {
-                queue.removeAll { $0 == link }
-                continue
-            }
-            
-            let expectation = XCTestExpectation(description: "Carregar a página \(link)")
-            expectations.append(expectation)
-            
-            let (_, response) = try await urlSession.data(from: url)
-            
-            if let count = triesCount[link] {
-                if count < 3 {
-                    triesCount[link] = count + 1
-                } else {
-                    removeFailedURL(link: link)
-                    XCTFail("Não foi possível validar a página \(link)")
-                    return
-                }
-            } else {
-                triesCount[link] = 1
-            }
-            
-            if let httpResponse = response as? HTTPURLResponse {
-                XCTAssertTrue((200...299).contains(httpResponse.statusCode),"A página \(link) não está disponível")
-                queue.removeAll { $0 == link }
-            }
+        if !link.isValid {
+            expectaction.fulfill()
+        }
+        
+        await fulfillment(of: [expectaction], timeout: 10.0)
+    }
+
+    func test_extractLinksFromText_shouldSucceed() throws {
+        let file = Bundle.module.path(forResource: "extractLinksFromText", ofType: "md")!
+        let text = try String(contentsOfFile: file)
+        
+        let links = linkValidator.extractLinksFromText(text)
+        
+        XCTAssertGreaterThan(links.count, 0)
+        
+        let aprendaSwiftLink = Link(name: "Aprenda Swift", url: "https://github.com/CodandoApple/aprenda-swift.git")
+        
+        let link = links[0]
+        
+        XCTAssertEqual(link, aprendaSwiftLink)
+    }
+    
+    func test_validateLinksFromText_withValidLinks_shouldReturnEmptySequence() async throws {
+        let file = Bundle.module.path(forResource: "validLinks", ofType: "md")!
+        let text = try String(contentsOfFile: file)
+        
+        let expectation = expectation(description: "All links for validLinks.md are valid")
+        
+        let invalidLinks = await linkValidator.validateLinksForText(text)
+        
+        if invalidLinks.isEmpty {
             expectation.fulfill()
         }
-        await fulfillment(of: expectations, timeout: 10.0)
-    }
-}
-
-
-extension LinksTest {
-    private func extractLinksFromText(_ text: String) -> [String] {
-        guard let regex = regex else { return [] }
-        let textRange = NSRange(text.startIndex..., in: text)
         
-        return regex.matches(in: text, options: [], range: textRange)
-            .map {
-                let matchRange = Range($0.range(withName: "link"), in: text)!
-                return String(text[matchRange])
-            }.filter { $0.starts(with: "http") }
+        await fulfillment(of: [expectation], timeout: 10.0)
     }
-    private func removeFailedURL(link: String) {
-        failures.append(link)
-        queue.removeAll { $0 == link }
+    
+    func test_validateLinksFromText_withInvalidLinks_shouldReturnItems() async throws {
+        let file = Bundle.module.path(forResource: "invalidLinks", ofType: "md")!
+        let text = try String(contentsOfFile: file)
+        
+        let expectation = expectation(description: "All links for invalidLinks.md are invalid")
+        
+        let invalidLinks = await linkValidator.validateLinksForText(text)
+        
+        if invalidLinks.count == 2 {
+            expectation.fulfill()
+        }
+        
+        await fulfillment(of: [expectation], timeout: 10.0)
     }
 }
 
