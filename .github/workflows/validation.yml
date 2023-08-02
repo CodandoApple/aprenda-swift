@@ -22,7 +22,7 @@ jobs:
         if: steps.changed-files-yaml.outputs.mdbook_any_changed == 'true'  
         run: |
           make build
-          for file in ${{ steps.changed-files-yaml.outputs.test_all_changed_files }}; do
+          for file in ${{ steps.changed-files-yaml.outputs.mdbook_all_changed_files }}; do
             make validate file=$file
           done
 
