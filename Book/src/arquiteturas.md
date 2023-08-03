@@ -25,8 +25,8 @@
 
 - [Arquitetura Limpa (CLEAN) - Rayana Prata](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
 - [Arquitetura iOS: VIP - Fabio Miciano](https://medium.com/@fabio.miciano/arquitetura-ios-vip-4b95f9a0faaa)
-- [Clean Swift (VIP): Como organizar melhor nossos códigos - Leonardo Alexandre de Geus](https://leodegeus.medium.com/clean-swift-vip-como-organizar-melhor-nossos-c%C3%B3digos-f06762fc5cc2)
--[🎬 Aplicando Clean Code - Pedro Lagosta](https://www.youtube.com/watch?v=-vsbP44MCGs)
+- [Clean Swift (VIP): Como organizar melhor nossos códigos - Leonardo de Geus](https://leodegeus.medium.com/clean-swift-vip-como-organizar-melhor-nossos-c%C3%B3digos-f06762fc5cc2)
+- [🎬 Aplicando Clean Code - Pedro Lagosta](https://www.youtube.com/watch?v=-vsbP44MCGs)
 - [🎬 Migrando tela de MVC para VIP - Comitando](https://youtube.com/watch?v=0T2gZWNAX7E)
 - [🎬 Refatorando MVVM para VIP - Pedro Lagosta](https://www.youtube.com/watch?v=t26H9kCjyAg)
 - [🎬 Explicando a ARQUITETURA LIMPA! Como implementar o VIP? - Attekita Dev](https://www.youtube.com/watch?v=4IeEflzhl6A)
