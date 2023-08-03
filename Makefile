@@ -6,3 +6,6 @@ test:
 
 validate: build
 	Actions/Validation/.build/release/validator $(file)
+
+run_mdbook:
+	cd Book && mdbook serve --open
