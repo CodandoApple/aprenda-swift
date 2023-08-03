@@ -21,16 +21,18 @@
 - [🎬 Como montar o MVVM no Swift - DevPoli](https://www.youtube.com/watch?v=wI2194K99xU)
 - [🎬 Aplicando MVVM - Pedro Lagosta](https://www.youtube.com/watch?v=kdCkpLqSceI&t=1516s)
 
-## VIPER/CLEAN
+## VIP/VIPER/CLEAN
 
 - [Arquitetura Limpa (CLEAN) - Rayana Prata](https://www.linkedin.com/pulse/arquitetura-limpa-rayana-prata)
+- [Arquitetura iOS: VIP - Fabio Miciano](https://medium.com/@fabio.miciano/arquitetura-ios-vip-4b95f9a0faaa)
+- [Clean Swift (VIP): Como organizar melhor nossos códigos - Leonardo Alexandre de Geus](https://leodegeus.medium.com/clean-swift-vip-como-organizar-melhor-nossos-c%C3%B3digos-f06762fc5cc2)
 -[🎬 Aplicando Clean Code - Pedro Lagosta](https://www.youtube.com/watch?v=-vsbP44MCGs)
+- [🎬 Migrando tela de MVC para VIP - Comitando](https://youtube.com/watch?v=0T2gZWNAX7E)
+- [🎬 Refatorando MVVM para VIP - Pedro Lagosta](https://www.youtube.com/watch?v=t26H9kCjyAg)
+- [🎬 Explicando a ARQUITETURA LIMPA! Como implementar o VIP? - Attekita Dev](https://www.youtube.com/watch?v=4IeEflzhl6A)
 
 ## MVP
 
-- [Implementando arquitetura MVP - Comitando](https://www.youtube.com/watch?v=8hhxrV19Rr8)
+- [iOS MVP-C Modularizado - Brenno](https://onnerb.medium.com/ios-mvp-c-modularizado-491e4ef66790)
+- [🎬 Implementando arquitetura MVP - Comitando](https://www.youtube.com/watch?v=8hhxrV19Rr8)
 
-## VIP
-
-- [🎬 Migrando tela de MVC para VIP - Comitando](https://youtube.com/watch?v=0T2gZWNAX7E)
-- [🎬 Refatorando MVVM para VIP - Pedro Lagosta](https://www.youtube.com/watch?v=t26H9kCjyAg)
