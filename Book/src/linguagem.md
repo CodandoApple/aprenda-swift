@@ -54,7 +54,8 @@
 
 - [Concorrência em iOS: A Teoria por Trás do Grand Central Dispatch - Laura Pinheiro](https://lauramarson.medium.com/concorrencia-em-ios-a-teoria-por-tras-do-grand-central-dispatch-38bfd3d8c0fe)
 - [Race Condition e Data Race: Criando Classes Threadsafe em Swift - Laura Pinheiro](https://lauramarson.medium.com/race-condition-e-data-race-criando-classes-threadsafe-em-swift-e65edcfe8d70)
-
+- [Concorrência em Swift - Brenno](https://onnerb.medium.com/concorr%C3%AAncia-no-swift-94fea4510b55)
+  
 ## Gerenciamento de Memória e ARC
 
 - [🎬 Automatizando a detecção de vazamento de memória - Comitando](https://www.youtube.com/watch?v=Zxo2p1MpkI4)
