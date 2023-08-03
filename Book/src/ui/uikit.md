@@ -6,6 +6,6 @@
 ## Vídeos
 
 - [🎬 UIScrollView vs. UICollectionView - Comitando](https://www.youtube.com/watch?v=DaJbLSrM2Vc)
-- [🎬 Introdução ao uso de UITableView](https://www.youtube.com/watch?v=MAcE6JDNpnU)
+- [🎬 Introdução ao uso de UITableView - Comitando](https://www.youtube.com/watch?v=MAcE6JDNpnU)
 - [🎬 Trabalhando com Sections na UITableView - Comitando](https://www.youtube.com/watch?v=FOa1A8b7HxI)
 - [🎬 Manipulando células customizadas na UITableView - Comitando](https://www.youtube.com/watch?v=QbRdyj4eYdU)
