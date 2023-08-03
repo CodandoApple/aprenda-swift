@@ -10,15 +10,11 @@ import Foundation
 public struct Link: Equatable {
     public let name: String
     public let url: String
-    public var isValid = false
+    public var isValid = true
     
     init(name: String, url: String) {
         self.name = name
         self.url = url
-    }
-    
-    public mutating func validate(on urlSession: URLSession = .shared) async {
-
     }
     
     public func format() -> String {
