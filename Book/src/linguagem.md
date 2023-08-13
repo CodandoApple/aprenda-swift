@@ -60,6 +60,7 @@
   
 ## Gerenciamento de Memória e ARC
 
+- [weak self, escaping coluses e capture list - Fernando Luiz Goulart](https://fegoulart.medium.com/weak-self-e-otras-cositas-m%C3%A1s-1cf557f49805)
 - [Analisando problemas de memory leak - Vinicius Mesquita](https://www.linkedin.com/pulse/analisando-problemas-de-memory-leak-ios-pt1-vinicius-mesquita%3FtrackingId=MGCZ9vjyS9q1QuG1nK76fQ%253D%253D/)
 - [🎬 Automatizando a detecção de vazamento de memória - Comitando](https://www.youtube.com/watch?v=Zxo2p1MpkI4)
 - [🎬 Desvendando o ARC do Swift - DevPoli](https://www.youtube.com/watch?v=CZbOUMOxtU8)
