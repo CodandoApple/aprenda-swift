@@ -10,10 +10,26 @@ public final class LinkValidator {
     
     private let regex = try! NSRegularExpression(pattern: #"(?:\-\s?\[(?<name>.*)\])\((?<link>.*)\)"#)
     
-    public func validateLink(link: inout Link) async {
+    private let ignoreList = [
+        "https?://(www.)?linkedin.com",
+        "https?://(www.)?instagram.com"
+    ]
+    
+    private func matchesIgnoreList(_ link: Link) -> Bool {
+        ignoreList.contains {
+            link.url.range(of: $0, options: .regularExpression) != nil
+        }
+    }
+    
+    public func validateLink(_ link: inout Link) async {
+        if matchesIgnoreList(link) {
+            return
+        }
+        
         guard let url = URL(string: link.url),
               let (_, response) = try? await urlSession.data(from: url),
               let httpResponse = response as? HTTPURLResponse else {
+            link.isValid = false
             return
         }
         
@@ -27,7 +43,7 @@ public final class LinkValidator {
             for index in 0..<links.count {
                 group.addTask {
                     var link = links[index]
-                    await self.validateLink(link: &link)
+                    await self.validateLink(&link)
                     return link
                 }
             }
@@ -35,7 +51,9 @@ public final class LinkValidator {
             var invalidLinks: [Link] = []
             
             for await link in group {
-                guard !link.isValid else { continue }
+                guard !link.isValid else {
+                    continue
+                }
                 invalidLinks.append(link)
             }
             

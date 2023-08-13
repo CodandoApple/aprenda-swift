@@ -12,7 +12,7 @@ class LinkValidatorTest: XCTestCase {
         
         var link = Link(name: "Aprenda Swift", url: "https://github.com/CodandoApple/aprenda-swift.git")
         
-        await linkValidator.validateLink(link: &link)
+        await linkValidator.validateLink(&link)
         
         if link.isValid {
             expectaction.fulfill()
@@ -22,12 +22,11 @@ class LinkValidatorTest: XCTestCase {
     }
     
     func test_malformedURL_isNotValid() async throws {
-        
         let expectaction = expectation(description: "Misformatted URL is not valid")
         
         var link = Link(name: "Malformed URL", url: "https://-github.com/CodandoApple/aprenda-swift.git")
         
-        await linkValidator.validateLink(link: &link)
+        await linkValidator.validateLink(&link)
         
         if !link.isValid {
             expectaction.fulfill()
@@ -37,7 +36,7 @@ class LinkValidatorTest: XCTestCase {
     }
 
     func test_extractLinksFromText_shouldSucceed() throws {
-        let file = Bundle.module.path(forResource: "extractLinksFromText", ofType: "md")!
+        let file = try XCTUnwrap(Bundle.module.path(forResource: "extractLinksFromText", ofType: "md"))
         let text = try String(contentsOfFile: file)
         
         let links = linkValidator.extractLinksFromText(text)
@@ -51,8 +50,8 @@ class LinkValidatorTest: XCTestCase {
         XCTAssertEqual(link, aprendaSwiftLink)
     }
     
-    func test_validateLinksFromText_withValidLinks_shouldReturnEmptySequence() async throws {
-        let file = Bundle.module.path(forResource: "validLinks", ofType: "md")!
+    func test_validateLinksFromText_withValidLinks_shouldReturnEmptyCollection() async throws {
+        let file = try XCTUnwrap(Bundle.module.path(forResource: "validLinks", ofType: "md"))
         let text = try String(contentsOfFile: file)
         
         let expectation = expectation(description: "All links for validLinks.md are valid")
@@ -67,7 +66,7 @@ class LinkValidatorTest: XCTestCase {
     }
     
     func test_validateLinksFromText_withInvalidLinks_shouldReturnItems() async throws {
-        let file = Bundle.module.path(forResource: "invalidLinks", ofType: "md")!
+        let file = try XCTUnwrap(Bundle.module.path(forResource: "invalidLinks", ofType: "md"))
         let text = try String(contentsOfFile: file)
         
         let expectation = expectation(description: "All links for invalidLinks.md are invalid")
@@ -75,6 +74,21 @@ class LinkValidatorTest: XCTestCase {
         let invalidLinks = await linkValidator.validateLinksForText(text)
         
         if invalidLinks.count == 2 {
+            expectation.fulfill()
+        }
+        
+        await fulfillment(of: [expectation], timeout: 10.0)
+    }
+    
+    func test_validateLinksFromText_withIgnoredLinks_shouldReturnEmptyCollection() async throws {
+        let file = try XCTUnwrap(Bundle.module.path(forResource: "ignoredLinks", ofType: "md"))
+        let text = try String(contentsOfFile: file)
+        
+        let expectation = expectation(description: "All links for ignoredLinks.md are valid")
+        
+        let invalidLinks = await linkValidator.validateLinksForText(text)
+        
+        if invalidLinks.isEmpty {
             expectation.fulfill()
         }
         

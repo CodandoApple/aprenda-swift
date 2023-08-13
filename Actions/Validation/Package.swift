@@ -13,9 +13,7 @@ let package = Package(
         .testTarget(name: "LinkValidatorTests",
                     dependencies: ["LinkValidator"],
                     resources: [
-                        .copy("Resources/validLinks.md"),
-                        .copy("Resources/invalidLinks.md"),
-                        .copy("Resources/extractLinksFromText.md")
+                        .process("Resources")
                     ])
     ]
 )

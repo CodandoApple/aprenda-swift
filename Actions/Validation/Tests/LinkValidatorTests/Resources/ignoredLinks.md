@@ -1,0 +1,4 @@
+- [LinkedIn](http://www.linkedin.com/pulse/analisando-problemas-de-memory-leak-ios-pt1-vinicius-mesquita%3FtrackingId=MGCZ9vjyS9q1QuG1nK76fQ%253D%253D/)
+- [LinkedIn](https://linkedin.com/pulse/analisando-problemas-de-memory-leak-ios-pt1-vinicius-mesquita%3FtrackingId=MGCZ9vjyS9q1QuG1nK76fQ%253D%253D/)
+- [Instagram](http://www.instagram.com/reisdev)
+- [Instagram](https://instagram.com/reisev)
