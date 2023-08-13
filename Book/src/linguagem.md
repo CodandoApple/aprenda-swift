@@ -1,5 +1,7 @@
 # Linguagem
 
+- [Porque priorizar Collection.isEmpty em vez de Collection.count - Jonatan Medina](https://medium.com/@jonatanm89/porque-priorizar-collection-isempty-em-vez-de-collection-count-em-swift-f974874e4f54)
+
 ## Variáveis, Structs e Classes
 
 - [Variáveis e Constantes em Swift - ReisDev](https://blog.reisdev.com.br/variaveis-e-constantes-em-swift)
