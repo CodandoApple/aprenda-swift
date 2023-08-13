@@ -1,8 +1,11 @@
 # Instagram
 
+- [Bruno Faganello](https://www.instagram.com/dev.faganello/)
 - [CocoaHeads Brasil](https://www.instagram.com/cocoaheadsbr/)
+- [Codando com Moa](https://www.instagram.com/codandocommoa/)
 - [Daily Dose of Swift](https://www.instagram.com/dailydoseofswift)
 - [DudaDev](https://www.instagram.com/dudadev/?hl=pt-br)
+- [Erik](https://www.instagram.com/erik.developer/)
 - [Lelê Developer](https://www.instagram.com/leledeveloper)
 - [Luiz Mello](https://www.instagram.com/luizmello.dev)
 - [Mafê](https://www.instagram.com/mafe_tech)
