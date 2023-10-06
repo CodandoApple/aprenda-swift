@@ -1,11 +1,13 @@
 # Linguagem
 
+- [Conhecendo o Swift - Raline Silva](https://medium.com/@ralinesilva1/conhecendo-o-swift-ae7385c37f18)
 - [Porque priorizar Collection.isEmpty em vez de Collection.count - Jonatan Medina](https://medium.com/@jonatanm89/porque-priorizar-collection-isempty-em-vez-de-collection-count-em-swift-f974874e4f54)
 
 ## Variáveis, Structs e Classes
 
 - [Variáveis e Constantes em Swift - ReisDev](https://blog.reisdev.com.br/variaveis-e-constantes-em-swift)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
+- [Classes vs. Structs no Swift: Qual utilizar, e quando? - André Porto](https://medium.com/@andremporto/classes-vs-structs-no-swift-qual-utilizar-e-quando-c26af7bb1da7)
 - [Uso de Struct e Class em Swift - Amanda Paiva](https://medium.com/@amandakpaiva/uso-de-struct-e-class-em-swift-10b2430ad578)
 - [Protocolos em Swift: Uma abordagem didática - Caio Santos ](https://medium.com/@caio.santos/protolocos-em-swift-uma-abordagem-didática-5f032ec8bc54)
 - [Propriedades em Swift - Pedro Menezes](https://pt.linkedin.com/pulse/propriedades-em-swift-pedro-menezes-/)
@@ -15,6 +17,8 @@
 - [🎬 O que são variáveis? - Swift para todos](https://www.youtube.com/watch?v=SEUlKKAQMJc)
 - [🎬 Struct ou Class, pra que serve? - DevPoli](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
 - [🎬 Lazy Var e Computed Properties - Qual a diferença? - DevPoli](https://www.youtube.com/watch?v=NXNhAAWncT8)
+- [Introdução à Herança em Swift - André Porto](https://medium.com/@andremporto/introdu%C3%A7%C3%A3o-%C3%A0-heran%C3%A7a-em-swift-75ece8a815ff)
+- [Swift — Self vs self - Jonatan Medina](https://medium.com/@jonatanm89/swift-self-vs-self-90c9b4b35755)
 
 ## Funções e Closures
 
