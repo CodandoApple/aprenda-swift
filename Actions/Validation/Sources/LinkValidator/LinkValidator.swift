@@ -12,7 +12,8 @@ public final class LinkValidator {
     
     private let ignoreList = [
         "https?://(www.)?linkedin.com",
-        "https?://(www.)?instagram.com"
+        "https?://(www.)?instagram.com",
+        "https?://(www.)?medium.com"
     ]
     
     private func matchesIgnoreList(_ link: Link) -> Bool {
