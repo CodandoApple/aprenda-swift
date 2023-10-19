@@ -22,6 +22,7 @@
 
 ## Coordinator
 
+- [O que é, para que serve e como usar coordinator em iOS? - Gabriel Batista](https://medium.com/@batistagc/o-que-%C3%A9-para-que-serve-e-como-usar-coordinator-em-ios-4cb310ec1e86)
 - [🎬 Criando Coordinator - Pedro Lagosta](https://www.youtube.com/watch?v=iGMJRA0y_3E)
 
 

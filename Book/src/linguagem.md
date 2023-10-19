@@ -31,6 +31,7 @@
 - [Opcionais em Swift: como utilizar? - Giovanna Moeller](https://www.alura.com.br/artigos/ios-opcionais-swift)
 - [Entendendo o uso de Generics: Por quê e como utilizar? - Giovanna Moeller](https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar)
 - [Entendendo [weak self] no Swift - Jonatan Medina](https://medium.com/jonatanm89/entendendo-weak-self-no-swift-2ba061326504)
+- [Opcionais em Swift: Lidando com Valores Possivelmente Nulos - Sarah Silva](https://medium.com/@sarahfrontdev/opcionais-em-swift-lidando-com-valores-possivelmente-nulos-82e22efc534f)
 
 ## Protocolos
 
@@ -43,6 +44,7 @@
 - [Swift: Extendendo Protocolos - RedSpark](https://www.redspark.io/swift-extendendo-protocolos/)
 - [Programação Orientada a Protocolo - equinociOS](http://equinocios.com/ios/2016/03/16/protocol-oriented-programming/)
 - [POP: Programação Orientada a Protocolo - Sobrinho de TI](https://www.youtube.com/watch?v=Dxo3a6b1RB4)
+- [Protolocos em Swift: Uma abordagem didática - Caio Santos](https://medium.com/@caio.santos/protolocos-em-swift-uma-abordagem-did%C3%A1tica-5f032ec8bc54)
 - [🎬 Swift na prática: Uso de protocolos (Parte 1) - Comitando](https://youtu.be/FlB-DPN6TZM)
 - [🎬 Swift na prática: Uso de protocolos (Parte 2) - Comitando](https://youtu.be/WZVfZ355ez4)
 - [🎬 Como implementar um protocol em Swift - DevPoli](https://www.youtube.com/watch?v=mnr_fZzgQaA)
