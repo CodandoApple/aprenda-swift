@@ -2,6 +2,7 @@
 
 - [Padrões de Projeto em Swift - Refactoring.Guru](https://refactoring.guru/pt-br/design-patterns/swift)
 - [Princípios SOLID para Swift - Yago Vanzan](https://www.linkedin.com/pulse/princ%C3%ADpios-solid-para-swift-criando-c%C3%B3digo-eficiente-e-yago-vanzan/?originalSubdomain=pt)
+- [Padrão Command - Rodolfo Comparsi](https://medium.com/@rodolfocomparsi96/padr%C3%A3o-command-4e9cc0f43dca)
 - [🎬 Usando pop, injeção de dependência e Factory - Pedro Lagosta](https://www.youtube.com/watch?v=DA8LBPxx9n8)
 - [Design Patterns em Swift [en]](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices [en]](https://github.com/futurice/ios-good-practices)
