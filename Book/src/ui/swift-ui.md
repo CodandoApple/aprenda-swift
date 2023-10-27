@@ -5,6 +5,10 @@
 - [Layouts com SwiftUI - Alura](https://www.alura.com.br/conteudo/swift-ui)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 
+## Stack
+
+- [Stacks - SwiftUI - Lucas Real Dias](https://www.linkedin.com/pulse/stacks-swiftui-lucas-real-dias%3FtrackingId=n%252FdMpgI1REWfaZuLhpyAqQ%253D%253D/)
+
 ## Vídeos
 
 - [🎬 Introdução ao SwiftUI - Construindo aplicativos iOS - Giovanna Moeller](https://www.youtube.com/watch?v=4eC49rYeugs)
