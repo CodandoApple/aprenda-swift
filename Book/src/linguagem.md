@@ -7,6 +7,7 @@
 ## Variáveis, Structs e Classes
 
 - [Variáveis e Constantes em Swift - ReisDev](https://blog.reisdev.com.br/variaveis-e-constantes-em-swift)
+- [Entendendo value types e reference types em Swift - Victor Martins](https://medium.com/@Visckmart/entendendo-value-types-and-reference-types-em-swift-49e5b27fb6fb)
 - [O que são Classes e Struct, as diferenças e quando usar - Giovanna Moeller](https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-usar)
 - [Classes vs. Structs no Swift: Qual utilizar, e quando? - André Porto](https://medium.com/@andremporto/classes-vs-structs-no-swift-qual-utilizar-e-quando-c26af7bb1da7)
 - [Uso de Struct e Class em Swift - Amanda Paiva](https://medium.com/@amandakpaiva/uso-de-struct-e-class-em-swift-10b2430ad578)
@@ -15,6 +16,7 @@
 - [Como funcionam os modificadores de acesso? - Giovanna Moeller](https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso)
 - [Você sabe o que são Property Wrappers? Parte 1 - Marcos Lacerda](https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063)
 - [Você sabe o que são Property Wrappers? Parte 2 - Marcos Lacerda](https://medium.com/maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b)
+- [Property Wrappers em Swift - André Porto](https://www.linkedin.com/pulse/property-wrappers-em-swift-andr%2525C3%2525A9-porto-crcze)
 - [🎬 O que são variáveis? - Swift para todos](https://www.youtube.com/watch?v=SEUlKKAQMJc)
 - [🎬 Struct ou Class, pra que serve? - DevPoli](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
 - [🎬 Lazy Var e Computed Properties - Qual a diferença? - DevPoli](https://www.youtube.com/watch?v=NXNhAAWncT8)
@@ -46,6 +48,7 @@
 - [Programação Orientada a Protocolo - equinociOS](http://equinocios.com/ios/2016/03/16/protocol-oriented-programming/)
 - [POP: Programação Orientada a Protocolo - Sobrinho de TI](https://www.youtube.com/watch?v=Dxo3a6b1RB4)
 - [Protolocos em Swift: Uma abordagem didática - Caio Santos](https://medium.com/@caio.santos/protolocos-em-swift-uma-abordagem-did%C3%A1tica-5f032ec8bc54)
+- [Entenda o que Protocolos e o Caribe têm em comum - Diego Ferreira](https://www.devpoli.com/post/entenda-o-que-protocols-e-o-caribe-t%C3%AAm-em-comum)
 - [🎬 Swift na prática: Uso de protocolos (Parte 1) - Comitando](https://youtu.be/FlB-DPN6TZM)
 - [🎬 Swift na prática: Uso de protocolos (Parte 2) - Comitando](https://youtu.be/WZVfZ355ez4)
 - [🎬 Como implementar um protocol em Swift - DevPoli](https://www.youtube.com/watch?v=mnr_fZzgQaA)
