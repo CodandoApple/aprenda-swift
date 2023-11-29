@@ -2,7 +2,7 @@
 
 - [Conhecendo o Swift - Raline Silva](https://medium.com/@ralinesilva1/conhecendo-o-swift-ae7385c37f18)
 - [Porque priorizar Collection.isEmpty em vez de Collection.count - Jonatan Medina](https://medium.com/@jonatanm89/porque-priorizar-collection-isempty-em-vez-de-collection-count-em-swift-f974874e4f54)
-- [Arrays em Swift - André Porto](https://www.linkedin.com/pulse/arrays-em-swift-andr%2525C3%2525A9-porto%)
+- [Arrays em Swift - André Porto](https://www.linkedin.com/pulse/arrays-em-swift-andr%2525C3%2525A9-porto)
 
 ## Variáveis, Structs e Classes
 
