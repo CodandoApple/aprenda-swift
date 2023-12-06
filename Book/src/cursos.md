@@ -3,6 +3,8 @@
 ## Cursos gratuitos
 
 - [Swift4Noobs](https://github.com/giovannamoeller/swift4noobs)
+- [Do Iniciante ao Avançado em Testes Unitários no iOS - Bruno Faganello](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)
+- [Princípios S.O.L.I.D aplicados no Swift - Bruno Faganello](https://www.udemy.com/course/principios-solid-no-swift/)
 - [Aprendendo Swift do Iniciante ao Avançado - Udemy](https://www.udemy.com/course/aprendendoswift3)
 - [iOS 13 & Swift 5 - Recriando o Tinder 2020](https://www.udemy.com/course/ios-13-swift-5-recriando-o-tinder-2020/)
 - [Ensino de Programação - Apple [en]](https://www.apple.com/br/education/k12/teaching-code/)
@@ -19,5 +21,5 @@
 - [Swift - TDD, Clean Architecture, Design Patterns, SOLID, MVP - Rodrigo Manguinho](https://www.udemy.com/course/swift-tdd-com-mango/)
 - [Desenvolvimento IOS 12 - Aprenda a criar 18 Apps - Jamilton Damasceno](https://www.udemy.com/course/curso-desenvolvimento-ios/)
 - [Desenvolvedor iOS: Prepare-se para o Mercado de Trabalho - Wellignton Bezerra](https://www.udemy.com/course/desenvolvimento-ios/)
-- [Do Iniciante ao Avançado em Testes Unitários no iOS](https://www.udemy.com/course/do-iniciante-ao-avancado-em-testes-unitarios-no-ios/)
+- [Desenvolvimento de aplicativos iOS - Do básico às vendas! - Davi Orzechowski](https://www.udemy.com/course/davi_ios/)
 - [The Complete iOS Development Bootcamp - Angela Yu [en]](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
