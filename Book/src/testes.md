@@ -16,3 +16,4 @@
 - [🎬 Escrevendo testes de UI - Comitando](https://www.youtube.com/watch?v=E1P2O303aqo)
 - [🎬 Criando Testes Unitários - Pedro Lagosta](https://www.youtube.com/watch?v=ZZ54oJh1uKI)
 - [🎬 Criando Testes Unitários na prática - Pedro Lagosta](https://www.youtube.com/watch?v=sQzgW-dWpvU)
+- [🎬 [Devpass Talks] Dominando Testes Unitários no iOS (Leonardo Santos)](https://www.youtube.com/watch?v=HYwtWibbK5o)
