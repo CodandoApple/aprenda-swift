@@ -8,6 +8,7 @@
 - [Testes automatizados com XCTest Framework para teste de app iOS - Amanda Lacerda](https://www.linkedin.com/pulse/start-testes-automatizados-com-xctest-framework-para-de-lacerda/?originalSubdomain=pt)
 - [Test Doubles em Swift (Ou o isolamento de testes unitários) - Matheus de Vasconcelos](https://medium.com/digitalproductsdev/test-doubles-swift-cd43372eb45e)
 - [iOS Tests 101 - Yasmin Benatti](https://medium.com/ifood-tech/ios-tests-101-c078505e2200)
+- [Como Utilizar ‘Mocks’, ‘Strategy’ e Programação Orientada a Protocolos com Swift para Melhorar seus Testes - Igor Silva](https://medium.com/@igorsilvadev/como-utilizar-mocks-strategy-e-programa%C3%A7%C3%A3o-orientada-a-protocolos-com-swift-para-melhorar-seus-28f6b0399c32)
 
 ## Vídeos
 
