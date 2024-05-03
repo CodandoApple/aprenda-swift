@@ -19,6 +19,7 @@
 - [MVVM-C em ViewCode - Michelli Cristina](https://medium.com/@mihcristina/mvvm-c-em-view-code-swift-83ac0623653f)
 - [Arquitetura MVVM - Pomo Docs](https://unbarqdsw.github.io/2020.1_G6_Pomo/arquitetura-e-reutilizacao/arquitetura/mvvm/)
 - [iOS Architecture: MVVM-C [en]](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
+- [SwiftUI MVVM-C Template - Gustavo Alencar Silva](https://github.com/gustavoalens/SwiftUI_MVVM-C_Template)
 - [🎬 (Re)Começando com SwiftUI + MVVM - Cícero Camargo CODEMUS](https://www.youtube.com/watch?v=Vn5Wo16TAqU)
 - [🎬 Como montar o MVVM no Swift - DevPoli](https://www.youtube.com/watch?v=wI2194K99xU)
 - [🎬 Aplicando MVVM - Pedro Lagosta](https://www.youtube.com/watch?v=kdCkpLqSceI&t=1516s)
