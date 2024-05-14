@@ -1,8 +1,11 @@
 {
     "name": "Aprenda Swift",
-    "start_url": "aprenda-swift/aprenda-swift.html",
+    "start_url": "inicio.html",
     "display": "fullscreen",
+    "orientation": "portrait-primary",
     "description": "Conteúdos sobre Swift e Desenvolvimento iOS",
+    "theme_color": "#F87F34",
+    "background_color": "#161923",
     "icons": [
       {
         "src": "resources/logo.png",

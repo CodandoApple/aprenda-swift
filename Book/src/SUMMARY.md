@@ -1,4 +1,4 @@
-- [Aprenda Swift](aprenda-swift.md)
+- [Início](inicio.md)
 - [Conteúdo](conteudo.md)
   - [Linguagem](linguagem.md)
   - [Tutoriais](tutoriais.md)
