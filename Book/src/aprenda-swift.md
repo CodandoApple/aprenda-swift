@@ -1,10 +1,20 @@
-# Aprenda Swift
+<p align="center">
+  <a href="https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml">
+    <img src="https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml/badge.svg" alt="Estado de validação de links" />
+  </a>
+</p>
 
-[![Validação de Links](https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml/badge.svg)](https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml)
-
-Esta lista contém diversos links com conteúdos para aprender a desenvolver usando a linguagem Swift. Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista, que estão destacados com a tag `[en]`.
-
-Caso você tenha interesse em contribuir, fique à vontade para fazer um fork e submeter um PR. As instruções podem ser encontradas no arquivo [CONTRIBUTING.md](https://github.com/CodandoApple/aprenda-swift/blob/main/CONTRIBUTING.md). Quanto mais conteúdo, melhor 🙂
+<div style="display: flex; align-items: center; justify-content: center">
+  <img src="resources/logo.png" alt="Logo da Apple em tom laranja sobreposta com a logo de Swift, em tom de branco" width=150></img>
+  <div>
+    <p>
+    Conteúdos sobre Swift e Desenvolvimento iOS. Esse Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista, que estão destacados com a tag `[en]`.
+    </p>
+    <p>
+    Para contribuir com o projeto, crie seu fork e submeta um PR. As instruções podem ser encontradas no arquivo <a href="https://github.com/CodandoApple/aprenda-swift/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>. Quanto mais conteúdo, melhor 🙂
+    </p>
+  </div>
+</div>
 
 ## Sumário
 
