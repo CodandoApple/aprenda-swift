@@ -1,6 +1,6 @@
 {
     "name": "Aprenda Swift",
-    "start_url": "inicio.html",
+    "start_url": "inicio",
     "display": "fullscreen",
     "orientation": "portrait-primary",
     "description": "Conteúdos sobre Swift e Desenvolvimento iOS",
