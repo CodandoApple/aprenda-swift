@@ -18,7 +18,6 @@
 
 ## Sumário
 
-- [Aprenda Swift](aprenda-swift.md)
 - [Conteúdo](conteudo.md)
   - [Linguagem](linguagem.md)
   - [Tutoriais](tutoriais.md)
