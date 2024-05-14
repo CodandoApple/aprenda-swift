@@ -1,6 +1,6 @@
 # Podcasts
 
-- [Build Failed Podcast](https://twitter.com/buildfailedcast)
+- [Build Failed Podcast](https://buildfailedcast.com/)
 - [Podcasts GigaHertz](https://gigahertz.fm/podcasts)
 - [Pod Install](https://www.youtube.com/channel/UCp_u4LXpzxILRdP6OYOFiUQ)
 - [Compile Swift [en]](https://compileswift.com/podcast)
