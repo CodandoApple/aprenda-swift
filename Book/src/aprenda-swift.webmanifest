@@ -1,0 +1,13 @@
+{
+    "name": "Aprenda Swift",
+    "start_url": "aprenda-swift/aprenda-swift.html",
+    "display": "fullscreen",
+    "description": "Conteúdos sobre Swift e Desenvolvimento iOS",
+    "icons": [
+      {
+        "src": "resources/logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
