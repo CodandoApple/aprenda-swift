@@ -55,7 +55,7 @@ jobs:
             echo "::warning title=Invalid file permissions automatically fixed::$line"
           done
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3.0.1
         with:
           path: Book/book
 
