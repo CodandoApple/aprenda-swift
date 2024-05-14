@@ -8,7 +8,7 @@
   <img src="resources/logo.png" alt="Logo da Apple em tom laranja sobreposta com a logo de Swift, em tom de branco" width=150></img>
   <div>
     <p>
-    Conteúdos sobre Swift e Desenvolvimento iOS. Esse Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista, que estão destacados com a tag `[en]`.
+    Conteúdos sobre Swift e Desenvolvimento iOS. Esse Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista, que estão destacados com a tag <code>[en]</code>.
     </p>
     <p>
     Para contribuir com o projeto, crie seu fork e submeta um PR. As instruções podem ser encontradas no arquivo <a href="https://github.com/CodandoApple/aprenda-swift/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>. Quanto mais conteúdo, melhor 🙂
