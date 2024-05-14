@@ -7,13 +7,13 @@
 - [Como começar com ViewCode no iOS - João Alexandre](https://medium.com/joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
 - [Como criar um app iOS em ViewCode - ReisDev](https://blog.reisdev.com.br/como-criar-um-app-ios-em-viewcode)
 - [Componentes Customizáveis usando View Code (iOS) - Francisco Samuel](https://medium.com/@fsamuelsmartins/componentes-customiz%C3%A1veis-usando-view-code-ios-6b00b91dcdc3)
-- [Como criar um app para iOS em ViewCode - ReisDev](https://www.youtube.com/watch?v=jauD6yQN3MU&t=29s)
 - [ViewCode + AutoLayout - Kodeco [en]](https://www.kodeco.com/6004856-building-an-app-with-only-code-using-auto-layout)
 - [ViewCode + SnapKit - Kodeco [en]](https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 
 ## Vídeos
 
 - [🎬 Como usar o ViewCode sem Storyboard - BackFront Academy](https://www.youtube.com/watch?v=_zhI9Nuuw_Y)
+- [🎬 Como criar um app para iOS em ViewCode - ReisDev](https://www.youtube.com/watch?v=jauD6yQN3MU)
 - [🎬 Como funciona a UIStackView - DevPoli](https://www.youtube.com/watch?v=TXhhjihouTg)
 - [🎬 Como criar uma tela usando ViewCode  - Swift para todos](https://www.youtube.com/watch?v=iFzTBlRVH6s)
 - [🎬 Como criar componentes em Swift usando ViewCode - Swift para todos](https://www.youtube.com/watch?v=zSzxFlIumts)
