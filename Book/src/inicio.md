@@ -6,15 +6,20 @@
 
 <div style="display: flex; align-items: center; justify-content: center">
   <img src="resources/logo.png" alt="Logo da Apple em tom laranja sobreposta com a logo de Swift, em tom de branco" width=150></img>
-  <div>
-    <p>
-    Conteúdos sobre Swift e Desenvolvimento iOS. Esse Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista, que estão destacados com a tag <code>[en]</code>.
-    </p>
-    <p>
-    Para contribuir com o projeto, crie seu fork e submeta um PR. As instruções podem ser encontradas no arquivo <a href="https://github.com/CodandoApple/aprenda-swift/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>. Quanto mais conteúdo, melhor 🙂
-    </p>
-  </div>
+  <p>
+  Conteúdos sobre Swift e Desenvolvimento iOS. Esse Pela escassez de conteúdo em Português, incluímos conteúdos em inglês na lista, que estão destacados com a tag <code>[en]</code>.
+  </p>
 </div>
+
+## Como contribuir
+
+Para contribuir com o projeto, crie seu fork e submeta um PR. As instruções podem ser encontradas no arquivo [CONTRIBUTING.md](https://github.com/CodandoApple/aprenda-swift/blob/main/CONTRIBUTING.md). Quanto mais conteúdo, melhor 🙂
+
+## Comunidade
+
+Além de todo o conteúdo agrupado neste projeto, temos também uma comunidade para dar suporte ao seu aprendizado. Faça uma pergunta, compartilhe seu aprendizado e acompanhe os últimos anúncios e votações.
+
+[Faça parte da comunidade 🫂](https://github.com/CodandoApple/aprenda-swift/discussions)
 
 ## Sumário
 

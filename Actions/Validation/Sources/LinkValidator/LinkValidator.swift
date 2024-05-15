@@ -8,7 +8,7 @@ public final class LinkValidator {
         self.urlSession = urlSession
     }
     
-    private let regex = try! NSRegularExpression(pattern: #"(?:\-\s?\[(?<name>.*)\])\((?<link>.*)\)"#)
+    private let regex = try! NSRegularExpression(pattern: #"(?:\-\s?\[(?<name>.*)\])\((?<link>https?:\/\/.*)\)"#)
     
     private let ignoreList = [
         "https?://(www.)?linkedin.com",
