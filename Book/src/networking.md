@@ -11,3 +11,5 @@
 - [🎬 Buscando dados da API de forma SIMPLES - DevPoli](https://www.youtube.com/watch?v=osLMXdyC1mc)
 - [🎬 Consumindo dados de uma API em Swift - Pedro Cacique](https://www.youtube.com/watch?v=nnBYugt3msA)
 - [🎬 Criando camada Service - Pedro Lagosta](https://www.youtube.com/watch?v=y48vrEKeRBY)
+- [🎬 Construindo camada de Network com URLSession e aplicando TDD - Comitando](https://www.youtube.com/watch?v=lyt_JAGfkys)
+- [🎬 Continuação da camada de Network, testando múltiplos cenários - Comitando](https://www.youtube.com/watch?v=YZZqjbUOWLY)
