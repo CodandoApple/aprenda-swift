@@ -7,6 +7,8 @@
 - [Como começar com ViewCode no iOS - João Alexandre](https://medium.com/joaoalexandrebitar/começando-com-view-code-no-ios-f409334ff1d)
 - [Como criar um app iOS em ViewCode - ReisDev](https://blog.reisdev.com.br/como-criar-um-app-ios-em-viewcode)
 - [Componentes Customizáveis usando View Code (iOS) - Francisco Samuel](https://medium.com/@fsamuelsmartins/componentes-customiz%C3%A1veis-usando-view-code-ios-6b00b91dcdc3)
+- [Como utilizar ViewCode - Brenno Rodrigues](https://medium.com/usemobile/como-utilizar-viewcode-9f61a379d33e)
+- [Como iniciar um projeto em Swift usando View Code - Douglas Cardoso](https://medium.com/@douglascf12/como-iniciar-um-projeto-em-swift-usando-view-code-4c7c2526da14)
 - [ViewCode + AutoLayout - Kodeco [en]](https://www.kodeco.com/6004856-building-an-app-with-only-code-using-auto-layout)
 - [ViewCode + SnapKit - Kodeco [en]](https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap)
 
