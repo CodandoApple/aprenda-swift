@@ -118,6 +118,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 
 ### Padrões de Projeto
 
+- [Código Limpo Adaptado para Swift - Matheus Gois [🇧🇷]](https://github.com/MaatheusGois/clean-code-swift/tree/🇧🇷-portuguese)
 - [Protocol Delegate em Swift - Cassia Barbosa [🇧🇷]](https://medium.com/mackmobile/protocol-delegate-em-swift-5f521e19ca56)
 - [Padrões de Projeto em Swift - Refactoring.Guru [🇧🇷]](https://refactoring.guru/pt-br/design-patterns/swift)
 - [Injeção de Dependência - Raúl Ferrer [🇧🇷]](https://ichi.pro/pt/injecao-de-dependencia-em-swift-165262232561857)
@@ -127,6 +128,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Usando pop, injeção de dependência e Factory - Pedro Lagosta [🇧🇷]](https://www.youtube.com/watch?v=DA8LBPxx9n8)
 - [Design Patterns em Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [iOS Good Practices](https://github.com/futurice/ios-good-practices)
+
 
 ### Interface
 
