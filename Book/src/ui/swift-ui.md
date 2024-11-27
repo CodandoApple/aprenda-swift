@@ -3,6 +3,7 @@
 - [SwiftUI irá substituir o Swift? - Cassiane de Freitas](https://medium.com/xp-inc/swiftui-irá-substituir-o-swift-5dd45f2b8447)
 - [SwiftUI: dicas para quem quer começar a desenvolver - Arthur Givigir](https://arthurgivigir.medium.com/swiftui-dicas-para-quem-quer-começar-a-desenvolver-f51f662d5825)
 - [Montando um Design System com SwiftUI - Vinicius Carvalho](https://theswiftmah.com.br/swift,/designsystem,/swiftui/2024/08/16/Montando-um-Design-System-com-SwiftUI.html)
+- [Implementando Face ID em seu App com SwiftUI - Gustavo Cosme](https://www.linkedin.com/pulse/implementando-face-id-em-seu-app-com-swiftui-gustavo-cosme-j7nfe)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 
 ## Elementos
