@@ -6,7 +6,6 @@
 
 - [Testes unitários em Swift com MVVM - SoftDesign](https://softdesign.com.br/blog/testes-unitarios-em-swift-com-mvvm)
 - [iOS Teste Unitário e Teste de UI - Hoff Silva](https://hoffsilva.medium.com/ios-teste-unit%C3%A1rio-e-teste-de-ui-tutorial-1360bb66ff73)
-- [Escrevendo testes unitários em cenários caóticos: uma abordagem prática - Renato Felício](https://engineering.idwall.co/escrevendo-testes-unitarios-em-cenarios-caoticos-uma-abordagem-pratica-e44a2d2d5d85)
 - [Escrevendo Testes Unitários para uma ViewController com TableView - Leonardo Cunha](https://medium.com/usemobile/escrevendo-testes-unit%C3%A1rios-para-uma-viewcontroller-com-tableview-91ee923de478)
 - [Introdução aos Testes Unitários em Swift: Vantagens, Desvantagens e Etapas - André Porto](https://www.linkedin.com/pulse/introdu%2525C3%2525A7%2525C3%2525A3o-aos-testes-unit%2525C3%2525A1rios-em-swift-vantagens-e-etapas-porto%3FtrackingId=fGZzKzDfRDepecqOb8Jvpw%253D%253D/)
 - [🎬 Lidando com FileManager em testes unitários - Comitando](https://www.youtube.com/watch?v=0i1y2Kmzkj4)
