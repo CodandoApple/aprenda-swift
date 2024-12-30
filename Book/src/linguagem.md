@@ -101,6 +101,7 @@
 - [🎬 Automatizando a detecção de vazamento de memória - Comitando](https://www.youtube.com/watch?v=Zxo2p1MpkI4)
 - [🎬 Desvendando o ARC do Swift - DevPoli](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 - [🎬 Mentoria - Gerenciamento de Memória no iOS - Parte 1 (Memória Dinâmica) - Marcelo Costa](https://www.youtube.com/watch?v=kQXW9lGyLzA)
+- [🎬 Stack vs Heap - Gerenciamento de Memória no iOS - Extra 1 - Marcelo Costa](https://www.youtube.com/watch?v=GvN7zE0LGMc)
 
 ## Timer
 

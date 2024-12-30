@@ -4,6 +4,8 @@
 - [SwiftUI: dicas para quem quer começar a desenvolver - Arthur Givigir](https://arthurgivigir.medium.com/swiftui-dicas-para-quem-quer-começar-a-desenvolver-f51f662d5825)
 - [Montando um Design System com SwiftUI - Vinicius Carvalho](https://theswiftmah.com.br/swift,/designsystem,/swiftui/2024/08/16/Montando-um-Design-System-com-SwiftUI.html)
 - [Implementando Face ID em seu App com SwiftUI - Gustavo Cosme](https://www.linkedin.com/pulse/implementando-face-id-em-seu-app-com-swiftui-gustavo-cosme-j7nfe)
+- [SwiftUI e Blockchain: Explorando o Futuro do Desenvolvimento Mobile - Gustavo Cosme](https://www.linkedin.com/pulse/swiftui-e-blockchain-explorando-o-futuro-do-mobile-gustavo-cosme-srebf/)
+- [Usando Swift Charts para Visualizar Dados no SwiftUI - Gustavo Cosme](https://www.linkedin.com/pulse/usando-swift-charts-para-visualizar-dados-swiftui-gustavo-cosme-h1vvf)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
 
 ## Elementos
