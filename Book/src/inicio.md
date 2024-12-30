@@ -36,7 +36,7 @@ Além de todo o conteúdo agrupado neste projeto, temos também uma comunidade p
     - [UIKit](ui/uikit.md)
     - [Animações](ui/animacoes.md)
   - [Networking](networking.md)
-  - [Gerenciamento de Dependências](gerenciamento-de-dependencias.md)
+  - [Gerenciamento de Dependências e Modularização](gerenciamento-de-dependencias-e-modularizacao.md)
   - [Persistência](persistencia.md)
   - [Reatividade](reatividade.md)
   - [Segurança](segurança.md)
