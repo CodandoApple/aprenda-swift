@@ -264,7 +264,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Formatação de data - NSDateFormatter](https://nsdateformatter.com/)
 - [Linting - SwiftLint](https://realm.github.io/SwiftLint/)
 - [Entrevistas iOS - Matheus Ferreira [🇧🇷]](https://medium.com/@mathferreiranasc12/desafios-técnicos-para-devs-ios-3bca14a16846)
-- [King Fisher: Biblioteca para loading de imagens [🇧🇷]](https://medium.com/@mathferreiranasc12/uso-da-biblioteca-kingfisher-no-desenvolvimento-ios-26e156d922b6)
+- [King Fisher: Biblioteca para loading de imagens - Matheus Ferreira [🇧🇷]](https://medium.com/@mathferreiranasc12/uso-da-biblioteca-kingfisher-no-desenvolvimento-ios-26e156d922b6)
 
 ### Deploy e CI/CD
 
