@@ -72,7 +72,6 @@
 - [Desmistificando a programação orientada a protocolos - Marcos Lacerda](https://medium.com/maclacerda/desmistificando-a-pop-2555d8335fb5)
 - [Swift from Scratch: Herança e protocolos - Tuts+](https://code.tutsplus.com/pt/swift-from-scratch-heranca-e-protocolos--cms-23334t)
 - [Programação orientada a protocolo em Swift 2 - Tuts+](https://code.tutsplus.com/pt/swift-from-scratch-heranca-e-protocolos--cms-23334t)
-- [Swift: Extendendo Protocolos - RedSpark](https://www.redspark.io/swift-extendendo-protocolos/)
 - [Programação Orientada a Protocolo - equinociOS](http://equinocios.com/ios/2016/03/16/protocol-oriented-programming/)
 - [POP: Programação Orientada a Protocolo - Sobrinho de TI](https://www.youtube.com/watch?v=Dxo3a6b1RB4)
 - [Protolocos em Swift: Uma abordagem didática - Caio Santos](https://medium.com/@caio.santos/protolocos-em-swift-uma-abordagem-did%C3%A1tica-5f032ec8bc54)
