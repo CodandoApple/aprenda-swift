@@ -2,6 +2,7 @@
   <a href="https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml">
     <img src="https://github.com/CodandoApple/aprenda-swift/actions/workflows/validation.yml/badge.svg" alt="Estado de validação de links" />
   </a>
+  <img src="https://img.shields.io/github/stars/CodandoApple/aprenda-swift" alt="Contador de estrelas">
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center">
@@ -23,6 +24,7 @@ Além de todo o conteúdo agrupado neste projeto, temos também uma comunidade p
 
 ## Sumário
 
+- [Início](inicio.md)
 - [Conteúdo](conteudo.md)
   - [Linguagem](linguagem.md)
   - [Tutoriais](tutoriais.md)
@@ -42,6 +44,7 @@ Além de todo o conteúdo agrupado neste projeto, temos também uma comunidade p
   - [Segurança](segurança.md)
   - [Acessibilidade](acessibilidade.md)
   - [Testes](testes.md)
+  - [IA](ia.md)
 - [Cursos](cursos.md)
 - [Ferramentas e Recursos](tools/ferramentas-e-recursos.md)
   - [Utilidades](tools/utilidades.md)
