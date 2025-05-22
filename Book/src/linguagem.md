@@ -3,6 +3,8 @@
 - [Como programar em Swift no Linux - ReisDev](https://dev.to/reisdev/como-programar-em-swift-no-linux-52j5)
 - [Conhecendo o Swift - Raline Silva](https://medium.com/@ralinesilva1/conhecendo-o-swift-ae7385c37f18)
 - [Entendendo value types e reference types em Swift - Victor Martins](https://medium.com/@Visckmart/entendendo-value-types-and-reference-types-em-swift-49e5b27fb6fb)
+- [Pattern Matching avançado com enums e switch - Gustavo Cosme](https://www.linkedin.com/pulse/n%C3%A3o-use-mais-ifelse-swift-conhe%C3%A7a-pattern-matching-avan%C3%A7ado-cosme-4qn6f/)
+- [Uso de defer no Swift - Matheus Ferreira](https://medium.com/@mathferreiranasc12/uso-do-defer-no-swift-54bae17a9349)
 
 ## Tipos básicos (Bool, Int, Float, Double, String, Array)
 
@@ -93,10 +95,12 @@
 - [Concorrência em iOS: A Teoria por Trás do Grand Central Dispatch - Laura Pinheiro](https://lauramarson.medium.com/concorrencia-em-ios-a-teoria-por-tras-do-grand-central-dispatch-38bfd3d8c0fe)
 - [Race Condition e Data Race: Criando Classes Threadsafe em Swift - Laura Pinheiro](https://lauramarson.medium.com/race-condition-e-data-race-criando-classes-threadsafe-em-swift-e65edcfe8d70)
 - [Concorrência em Swift - Brenno](https://onnerb.medium.com/concorr%C3%AAncia-no-swift-94fea4510b55)
+- [Concorrência em Swift: Como Seu Código Roda de Verdade - Ana Paula Sá Barreto](https://medium.com/@anapaulasapaiva/concorr%C3%AAncia-em-swift-como-seu-c%C3%B3digo-roda-de-verdade-ad4203e09c7c)
   
 ## Gerenciamento de Memória e ARC
 
 - [weak self, escaping coluses e capture list - Fernando Luiz Goulart](https://fegoulart.medium.com/weak-self-e-otras-cositas-m%C3%A1s-1cf557f49805)
+- [O Papel do ARC no Gerenciamento de Memória em Swift - Luca Gabriel](https://medium.com/@lucagabriel520/o-papel-do-arc-no-gerenciamento-de-mem%C3%B3ria-em-swift-dc405bed3d93)
 - [Analisando problemas de memory leak - Vinicius Mesquita](https://www.linkedin.com/pulse/analisando-problemas-de-memory-leak-ios-pt1-vinicius-mesquita%3FtrackingId=MGCZ9vjyS9q1QuG1nK76fQ%253D%253D/)
 - [🎬 Automatizando a detecção de vazamento de memória - Comitando](https://www.youtube.com/watch?v=Zxo2p1MpkI4)
 - [🎬 Desvendando o ARC do Swift - DevPoli](https://www.youtube.com/watch?v=CZbOUMOxtU8)

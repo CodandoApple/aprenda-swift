@@ -6,7 +6,10 @@
 - [Implementando Face ID em seu App com SwiftUI - Gustavo Cosme](https://www.linkedin.com/pulse/implementando-face-id-em-seu-app-com-swiftui-gustavo-cosme-j7nfe)
 - [SwiftUI e Blockchain: Explorando o Futuro do Desenvolvimento Mobile - Gustavo Cosme](https://www.linkedin.com/pulse/swiftui-e-blockchain-explorando-o-futuro-do-mobile-gustavo-cosme-srebf/)
 - [Usando Swift Charts para Visualizar Dados no SwiftUI - Gustavo Cosme](https://www.linkedin.com/pulse/usando-swift-charts-para-visualizar-dados-swiftui-gustavo-cosme-h1vvf)
+- [Crie um Leitor de Cartão de Crédito no iPhone Usando SwiftUI e OCR - Gustavo Cosme](https://www.linkedin.com/pulse/crie-um-leitor-de-cart%C3%A3o-cr%C3%A9dito-iphone-usando-swiftui-gustavo-cosme-1ynqf)
+- [Como usar um componente UIKit no SwiftUI? - João Victor Lucas](https://www.youtube.com/watch?v=GXqwZJTN4i8)
 - [SwiftUI Notes](https://heckj.github.io/swiftui-notes/)
+- [Apple Watch + SwiftUI: Monitore a Frequência Cardíaca em Tempo Real - Gustavo Cosme](https://www.linkedin.com/pulse/apple-watch-swiftui-monitore-frequ%C3%AAncia-card%C3%ADaca-em-tempo-cosme-plomf)
 
 ## Elementos
 

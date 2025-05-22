@@ -5,6 +5,8 @@
 - [Criando uma solução acessível para o One Time Code - André Salla](https://andresalla.com/tutorial-criando-uma-solucao-acessivel-para-o-one-time-code/)
 - [Já parou para pensar se seu app é acessível? - iMasters](https://imasters.com.br/acessibilidade/ja-parou-para-pensar-se-seu-app-e-acessivel)
 - [Desvendando a acessibilidade dos aplicativos móveis - Levxyca](https://dev.to/feministech/desvendando-a-acessibilidade-dos-aplicativos-moveis-descubra-como-testa-la-1m36)
+- [Criando Componentes Reutilizáveis e Acessíveis com SwiftUI - Gustavo Cosme](https://www.linkedin.com/pulse/criando-componentes-reutiliz%C3%A1veis-e-acess%C3%ADveis-com-swiftui-cosme-rz6zf)
+- [Como criar gestos acessíveis no SwiftUI - Gustavo Cosme](https://www.linkedin.com/pulse/como-criar-gestos-acess%C3%ADveis-swiftui-toque-arraste-e-inclua-cosme-79ljf/)
 
 ## Vídeos
 

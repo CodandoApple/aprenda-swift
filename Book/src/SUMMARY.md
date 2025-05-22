@@ -18,6 +18,7 @@
   - [Segurança](segurança.md)
   - [Acessibilidade](acessibilidade.md)
   - [Testes](testes.md)
+  - [IA](ia.md)
 - [Cursos](cursos.md)
 - [Ferramentas e Recursos](tools/ferramentas-e-recursos.md)
   - [Utilidades](tools/utilidades.md)
