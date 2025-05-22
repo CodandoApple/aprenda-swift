@@ -35,7 +35,7 @@ public final class LinkValidator {
             return
         }
         
-        link.isValid = (200...299).contains(httpResponse.statusCode)
+        link.isValid = (200...399).contains(httpResponse.statusCode)
     }
     
     public func validateLinksForText(_ text: String) async -> [Link] {
