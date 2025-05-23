@@ -95,6 +95,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [🎬 Desvendando o ARC do Swift - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=CZbOUMOxtU8)
 - [🎬 Struct ou Class, pra que serve? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=tKSNjg9Cb_g)
 - [🎬 Lazy Var e Computed Properties - Qual a diferença? - DevPoli [🇧🇷]](https://www.youtube.com/watch?v=NXNhAAWncT8)
+- [Você compreende o uso do lazy? - Matheus Ferreira [🇧🇷]](https://medium.com/@mathferreiranasc12/você-compreende-o-uso-do-lazy-no-swift-a32ba424429e)
+- [Diferença entre weak e unowned - Matheus Ferreira [🇧🇷]](https://medium.com/@mathferreiranasc12/você-sabe-a-diferença-entre-weak-e-unowned-529d32ed67c4)
 
 ### Arquiteturas
 
@@ -261,6 +263,8 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Swift Lint - Vinicius Mangueira [🇧🇷]](https://medium.com/viniciusmangueira/swift-lint-3b869261cf48)
 - [Formatação de data - NSDateFormatter](https://nsdateformatter.com/)
 - [Linting - SwiftLint](https://realm.github.io/SwiftLint/)
+- [Entrevistas iOS - Matheus Ferreira [🇧🇷]](https://medium.com/@mathferreiranasc12/desafios-técnicos-para-devs-ios-3bca14a16846)
+- [King Fisher: Biblioteca para loading de imagens - Matheus Ferreira [🇧🇷]](https://medium.com/@mathferreiranasc12/uso-da-biblioteca-kingfisher-no-desenvolvimento-ios-26e156d922b6)
 
 ### Deploy e CI/CD
 
@@ -386,6 +390,7 @@ Esta seção contém links sobre conteúdos específicos relacionados à linguag
 - [Mobile Developer Roadmap - Jung Kim](https://github.com/godrm/mobile-developer-roadmap)
 - [iOS Developer Skills Matrix - Bohdan Orlov](https://medium.com/ios-os-x-development/find-the-image-and-markdown-version-on-github-fee807255235)
 - [iOS Roadmap to Professional Developer](https://www.youtube.com/watch?v=pbhLZMVBlp0)
+- [Roadmap para desenvolvedores iOS - Matheus Ferreira [🇧🇷]](https://medium.com/@mathferreiranasc12/roadmap-para-desenvolvimento-ios-em-2024-367e82e33f8e)
 
 ## Comunidades
 
