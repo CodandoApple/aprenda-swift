@@ -5,6 +5,6 @@
 - [Linting - SwiftLint](https://realm.github.io/SwiftLint/)
 - [SwifFormat](https://github.com/nicklockwood/SwiftFormat)
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen)
-- [Tuist](https://tuist.io/)
+- [Tuist](https://tuist.dev/)
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen)
 - [xcpretty](https://github.com/xcpretty/xcpretty)

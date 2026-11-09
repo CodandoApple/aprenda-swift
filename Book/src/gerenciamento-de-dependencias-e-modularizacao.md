@@ -11,3 +11,4 @@
 - [Coordenando Aplicativo iOS Modularizado - Brenno de Moura](https://onnerb.medium.com/modularizando-aplicativos-ios-80a20fcdd69b)
 - [Modularização no iOS: Estruturando Projetos com Swift Package Manager - Lys](https://dev.to/lys/criando-um-modulo-com-swift-package-manager-3cga)
 - [De Zero a Package: Criando e Publicando Seu Primeiro Swift Package no GitHub - Gustavo Cosme](https://www.linkedin.com/pulse/de-zero-package-criando-e-publicando-seu-primeiro-swift-gustavo-cosme-lnhgf)
+- [Seu projeto Xcode declarado em Swift? Sim, conheça o Tuist! - Lucas Ferreira Machado [🇧🇷]](https://medium.com/@lucasferreiramachadobr/seu-projeto-xcode-declarado-em-swift-sim-conhe%C3%A7a-o-tuist-6e4826252b47)
